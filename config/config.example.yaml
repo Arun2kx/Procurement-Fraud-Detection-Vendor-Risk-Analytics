@@ -1,0 +1,105 @@
+# ProcureGuard example configuration.
+# Copy to config/config.yaml to override locally. Do not put passwords here.
+# PostgreSQL credentials belong in the DATABASE_URL environment variable.
+
+project_name: ProcureGuard
+random_seed: 42
+currency: INR
+synthetic_data: true
+
+date_range:
+  start: "2023-04-01"
+  end: "2025-03-31"
+analysis_as_of: "2025-03-31"
+
+dataset_sizes:
+  employees: 120
+  vendors: 60
+  purchase_orders: 850
+  invoices: 1500
+  payments: 1400
+  employee_expenses: 900
+
+thresholds:
+  # Individual purchase orders at or above this value require the next approval tier.
+  split_approval_threshold_inr: 200000
+  split_window_days: 14
+  split_min_transactions: 2
+  near_threshold_ratio: 0.90
+  threshold_gaming_min_count: 3
+  threshold_gaming_window_days: 90
+  near_duplicate_window_days: 5
+  near_duplicate_amount_tolerance: 0.01
+  sequential_invoice_max_delta: 80
+  fuzzy_window_days: 21
+  fuzzy_amount_tolerance: 0.02
+  fuzzy_max_distance: 1
+  po_required_above_inr: 25000
+  approval_required_above_inr: 50000
+  expense_repeat_window_days: 90
+  expense_repeat_min_count: 3
+  offhours_min_amount_inr: 2000
+  payment_delay_alert_days: 60
+  payment_amount_tolerance: 0.02
+  price_volatility_cv_threshold: 0.30
+  price_volatility_min_observations: 6
+  dispute_rate_alert: 0.15
+  dispute_min_count: 5
+  reconciliation_amount_tolerance_inr: 1.00
+  benford_min_sample_size: 100
+  benford_min_amount_inr: 1000
+  outlier_min_group_size: 30
+  zscore_cutoff: 3.0
+  modified_zscore_cutoff: 3.5
+  iqr_multiplier: 1.5
+
+expense_category_thresholds_inr:
+  Meals: 5000
+  Fuel: 8000
+  Travel: 25000
+  Lodging: 15000
+  Client Entertainment: 10000
+  Office Supplies: 3000
+
+# Illustrative weights for an explainable score. They sum to 1.
+# They are not fitted to a real loss history. See README limitations.
+risk_weights:
+  duplicate_invoice_rate: 0.22
+  dispute_rate: 0.10
+  price_volatility: 0.12
+  split_purchase_involvement: 0.18
+  po_approval_violations: 0.16
+  payment_anomaly_rate: 0.14
+  spend_concentration: 0.08
+
+# A factor reaches 100 when the raw rate hits the anchor.
+# Example: a 15% duplicate-invoice rate scores 100 on that factor.
+risk_factor_anchors:
+  duplicate_invoice_rate: 0.15
+  dispute_rate: 0.20
+  price_volatility_cv: 0.50
+  split_purchase_share: 0.25
+  po_approval_violation_share: 0.10
+  payment_anomaly_rate: 0.15
+  spend_share_floor: 0.05
+  spend_share_span: 0.20
+
+risk_categories:
+  low_max: 25
+  medium_max: 50
+  high_max: 75
+
+gst_rate: 0.18
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  evaluation_dir: data/evaluation
+  powerbi_dir: data/processed/powerbi
+  reports_dir: reports
+  figures_dir: reports/figures
+  screenshots_dir: screenshots
+
+database:
+  url_env: DATABASE_URL
+  example_url: postgresql+psycopg2://procureguard_user:CHANGE_ME@127.0.0.1:5432/procureguard

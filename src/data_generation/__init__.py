@@ -1,0 +1,1 @@
+"""Synthetic procurement data generation."""

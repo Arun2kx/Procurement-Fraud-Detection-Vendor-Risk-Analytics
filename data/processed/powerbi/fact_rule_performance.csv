@@ -1,0 +1,18 @@
+rule_code,rule_name,entity_type,universe,positives,predicted,true_positives,false_positives,true_negatives,false_negatives,precision,recall,f1_score,false_positive_rate,benign_controls_in_population,benign_controls_flagged
+EXACT_DUP_INVOICE,Exact duplicate invoice number,invoice,1498,16,16,16,0,1482,0,1.000000,1.000000,1.000000,0.000000,367,0
+NEAR_TIME_DUP_INVOICE,Near-time duplicate invoice,invoice,1498,28,20,20,0,1470,8,1.000000,0.714286,0.833333,0.000000,367,0
+FUZZY_DUP_INVOICE,Fuzzy duplicate invoice number,invoice,1498,16,16,16,0,1482,0,1.000000,1.000000,1.000000,0.000000,367,0
+SPLIT_PURCHASE,Split purchase below approval threshold,purchase_order,850,21,21,21,0,829,0,1.000000,1.000000,1.000000,0.000000,22,0
+THRESHOLD_GAMING,Repeated near-threshold purchase orders,purchase_order,850,12,12,12,0,838,0,1.000000,1.000000,1.000000,0.000000,22,0
+DUP_PAYMENT,Duplicate full payment,payment,1400,20,20,20,0,1380,0,1.000000,1.000000,1.000000,0.000000,25,0
+EARLY_PAYMENT,Payment before invoice date,payment,1400,5,8,5,3,1392,0,0.625000,1.000000,0.769231,0.002151,25,3
+LATE_PAYMENT,Severely delayed payment,payment,1400,15,21,15,6,1379,0,0.714286,1.000000,0.833333,0.004332,25,6
+PAYMENT_MISMATCH,Payment amount mismatch,payment,1400,5,5,5,0,1395,0,1.000000,1.000000,1.000000,0.000000,25,0
+DUPLICATE_EXPENSE,Duplicate employee expense claim,employee_expense,900,16,16,16,0,884,0,1.000000,1.000000,1.000000,0.000000,32,0
+THRESHOLD_GAMING_EXPENSE,Repeated near-threshold expenses,employee_expense,900,20,20,20,0,880,0,1.000000,1.000000,1.000000,0.000000,32,0
+OFFHOURS_EXPENSE,Off-hours expense without receipt,employee_expense,900,12,16,12,4,884,0,0.750000,1.000000,0.857143,0.004505,32,4
+SELF_APPROVAL,Self-approval conflict,approval_record,1785,14,14,14,0,1771,0,1.000000,1.000000,1.000000,0.000000,0,0
+PO_APPROVAL_LIMIT_BREACH,Approver limit below purchase order value,purchase_order,850,8,8,8,0,842,0,1.000000,1.000000,1.000000,0.000000,22,0
+PO_MISSING_APPROVAL,Missing purchase order approval,purchase_order,850,10,10,10,0,840,0,1.000000,1.000000,1.000000,0.000000,22,0
+PRICE_VOLATILITY,Vendor item price volatility,vendor,60,3,3,3,0,57,0,1.000000,1.000000,1.000000,0.000000,7,0
+HIGH_DISPUTE_RATE,Elevated vendor dispute rate,vendor,60,4,4,4,0,56,0,1.000000,1.000000,1.000000,0.000000,7,0

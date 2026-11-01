@@ -1,0 +1,13 @@
+[project]
+name = "procureguard"
+version = "1.0.0"
+description = "Synthetic procurement fraud detection and vendor risk analytics."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100

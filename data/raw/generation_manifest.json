@@ -1,0 +1,14 @@
+{
+  "synthetic": true,
+  "random_seed": 42,
+  "row_counts": {
+    "employees": 120,
+    "vendors": 60,
+    "purchase_orders": 850,
+    "invoices": 1500,
+    "payments": 1400,
+    "employee_expenses": 900,
+    "approval_records": 1785
+  },
+  "ground_truth_rows": 765
+}

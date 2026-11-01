@@ -1,0 +1,70 @@
+check_id,table_name,record_id,column_name,reason
+DUPLICATE_BANK_HASH,vendors,VEN051,bank_account_hash,Bank-account hash is shared by more than one vendor.
+DUPLICATE_BANK_HASH,vendors,VEN052,bank_account_hash,Bank-account hash is shared by more than one vendor.
+DUPLICATE_BANK_HASH,vendors,VEN053,bank_account_hash,Bank-account hash is shared by more than one vendor.
+DUPLICATE_BANK_HASH,vendors,VEN054,bank_account_hash,Bank-account hash is shared by more than one vendor.
+DUPLICATE_PRIMARY_KEY,invoices,INV001240,invoice_id,Primary key value is repeated.
+DUPLICATE_PRIMARY_KEY,invoices,INV001328,invoice_id,Primary key value is repeated.
+INVALID_CATEGORY,employees,EMP015,employment_status,"Value is outside the allowed list: Active, Inactive."
+INVALID_CATEGORY,invoices,INV000453,status,"Value is outside the allowed list: Approved, Disputed, Paid, Rejected, Submitted."
+INVALID_CATEGORY,invoices,INV000720,status,"Value is outside the allowed list: Approved, Disputed, Paid, Rejected, Submitted."
+INVALID_CATEGORY,invoices,INV001149,status,"Value is outside the allowed list: Approved, Disputed, Paid, Rejected, Submitted."
+INVALID_CATEGORY,invoices,INV001441,status,"Value is outside the allowed list: Approved, Disputed, Paid, Rejected, Submitted."
+INVALID_CATEGORY,vendors,VEN060,vendor_status,"Value is outside the allowed list: Active, Inactive, Suspended."
+INVALID_DATE_SEQUENCE,invoices,INV000484,due_date,Due date is before the invoice date.
+INVALID_DATE_SEQUENCE,invoices,INV000796,due_date,Due date is before the invoice date.
+INVALID_DATE_SEQUENCE,invoices,INV001222,due_date,Due date is before the invoice date.
+INVALID_DATE_SEQUENCE,invoices,INV001416,due_date,Due date is before the invoice date.
+INVOICE_MATH_MISMATCH,invoices,INV000383,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000384,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000385,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000386,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000387,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000388,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000389,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000390,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000582,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV000846,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV001186,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV001443,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+INVOICE_MATH_MISMATCH,invoices,INV001498,total_amount_inr,Invoice total does not equal taxable amount plus tax.
+NEGATIVE_AMOUNT,employee_expenses,EXP000389,amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,employee_expenses,EXP000634,amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,employee_expenses,EXP000733,amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV000577,unit_price_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV000577,invoice_amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV000577,tax_amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV000577,total_amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV000601,unit_price_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV000601,invoice_amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV000601,tax_amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV000601,total_amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV001106,unit_price_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV001106,invoice_amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV001106,tax_amount_inr,Amount is negative.
+NEGATIVE_AMOUNT,invoices,INV001106,total_amount_inr,Amount is negative.
+NULL_EMPLOYEE_EMAIL,employees,EMP009,email,Employee email is missing.
+NULL_EMPLOYEE_EMAIL,employees,EMP010,email,Employee email is missing.
+NULL_EMPLOYEE_EMAIL,employees,EMP011,email,Employee email is missing.
+NULL_EMPLOYEE_EMAIL,employees,EMP012,email,Employee email is missing.
+NULL_VENDOR_CITY,vendors,VEN047,city,Vendor city is missing.
+NULL_VENDOR_CITY,vendors,VEN048,city,Vendor city is missing.
+NULL_VENDOR_CITY,vendors,VEN049,city,Vendor city is missing.
+ORPHAN_INVOICE_REFERENCE,payments,PAY001398,invoice_id,Invoice does not exist.
+ORPHAN_INVOICE_REFERENCE,payments,PAY001399,invoice_id,Invoice does not exist.
+ORPHAN_INVOICE_REFERENCE,payments,PAY001400,invoice_id,Invoice does not exist.
+ORPHAN_PO_REFERENCE,invoices,INV000401,po_id,Purchase order does not exist.
+ORPHAN_PO_REFERENCE,invoices,INV000535,po_id,Purchase order does not exist.
+ORPHAN_PO_REFERENCE,invoices,INV000918,po_id,Purchase order does not exist.
+ORPHAN_PO_REFERENCE,invoices,INV001232,po_id,Purchase order does not exist.
+ORPHAN_PO_REFERENCE,invoices,INV001447,po_id,Purchase order does not exist.
+ORPHAN_PO_REFERENCE,invoices,INV001451,po_id,Purchase order does not exist.
+OUT_OF_RANGE_DATE,employee_expenses,EXP000206,expense_date,Expense date is outside the analysis window.
+OUT_OF_RANGE_DATE,employee_expenses,EXP000327,expense_date,Expense date is outside the analysis window.
+OUT_OF_RANGE_DATE,employee_expenses,EXP000419,expense_date,Expense date is outside the analysis window.
+OUT_OF_RANGE_DATE,employee_expenses,EXP000525,expense_date,Expense date is outside the analysis window.
+OUT_OF_RANGE_DATE,employee_expenses,EXP000600,expense_date,Expense date is outside the analysis window.
+OUT_OF_RANGE_DATE,employee_expenses,EXP000802,expense_date,Expense date is outside the analysis window.
+TRANSACTION_BEFORE_HIRE,employee_expenses,EXP000327,expense_date,Expense date is before the employee hire date.
+TRANSACTION_BEFORE_HIRE,employee_expenses,EXP000525,expense_date,Expense date is before the employee hire date.
+TRANSACTION_BEFORE_HIRE,employee_expenses,EXP000802,expense_date,Expense date is before the employee hire date.

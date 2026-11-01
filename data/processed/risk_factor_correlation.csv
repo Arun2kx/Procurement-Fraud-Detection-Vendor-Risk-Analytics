@@ -1,0 +1,8 @@
+factor,score_duplicate_invoice_rate,score_dispute_rate,score_price_volatility,score_split_purchase_involvement,score_po_approval_violations,score_payment_anomaly_rate,score_spend_concentration
+score_duplicate_invoice_rate,1.00,0.44,-0.17,-0.30,0.24,0.39,-0.11
+score_dispute_rate,0.44,1.00,-0.05,-0.18,0.08,0.25,-0.06
+score_price_volatility,-0.17,-0.05,1.00,-0.14,-0.16,-0.12,0.00
+score_split_purchase_involvement,-0.30,-0.18,-0.14,1.00,-0.19,-0.25,-0.05
+score_po_approval_violations,0.24,0.08,-0.16,-0.19,1.00,0.17,0.10
+score_payment_anomaly_rate,0.39,0.25,-0.12,-0.25,0.17,1.00,0.15
+score_spend_concentration,-0.11,-0.06,0.00,-0.05,0.10,0.15,1.00

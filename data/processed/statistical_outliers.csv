@@ -1,0 +1,251 @@
+invoice_id,vendor_id,vendor_category,total_amount_inr,group_size,z_score,modified_z_score,iqr_outlier,zscore_outlier,modified_z_outlier,note
+INV000337,VEN023,Equipment,181000.00,152,1.61,7.42,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000338,VEN023,Equipment,189500.00,152,1.72,7.83,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000339,VEN023,Equipment,197000.00,152,1.82,8.18,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000340,VEN024,Equipment,181000.00,152,1.61,7.42,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000341,VEN024,Equipment,189500.00,152,1.72,7.83,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000342,VEN024,Equipment,197000.00,152,1.82,8.18,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000343,VEN025,Equipment,181000.00,152,1.61,7.42,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000344,VEN025,Equipment,189500.00,152,1.72,7.83,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000345,VEN025,Equipment,197000.00,152,1.82,8.18,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000346,VEN026,Equipment,181000.00,152,1.61,7.42,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000347,VEN026,Equipment,189500.00,152,1.72,7.83,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000348,VEN026,Equipment,197000.00,152,1.82,8.18,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000356,VEN052,Equipment,186000.00,152,1.68,7.66,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000373,VEN044,Equipment,99800.00,152,0.52,3.59,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000377,VEN044,Equipment,366000.00,152,4.09,16.16,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000489,VEN044,Equipment,246367.81,152,2.49,10.51,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000490,VEN044,Equipment,246367.81,152,2.49,10.51,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000499,VEN052,Equipment,240280.00,152,2.40,10.22,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000533,VEN052,Equipment,132238.47,152,0.95,5.12,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000583,VEN052,Equipment,187261.58,152,1.69,7.72,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000584,VEN052,Equipment,187261.58,152,1.69,7.72,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000605,VEN044,Equipment,197563.05,152,1.83,8.21,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000752,VEN052,Equipment,254961.70,152,2.60,10.92,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000771,VEN052,Equipment,260776.98,152,2.68,11.19,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000797,VEN044,Equipment,131472.63,152,0.94,5.08,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000798,VEN044,Equipment,131472.63,152,0.94,5.08,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000896,VEN052,Equipment,250926.81,152,2.55,10.73,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000979,VEN052,Equipment,198309.67,152,1.84,8.24,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000980,VEN052,Equipment,119949.67,152,0.79,4.54,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001004,VEN044,Equipment,196017.06,152,1.81,8.13,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001005,VEN044,Equipment,196017.06,152,1.81,8.13,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000380,VEN047,Facilities Management,389999.99,127,3.39,4.02,False,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000571,VEN039,Facilities Management,356478.28,127,3.01,3.61,False,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000572,VEN039,Facilities Management,356478.28,127,3.01,3.61,False,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000349,VEN045,IT Services,186000.00,96,1.67,12.27,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000357,VEN053,IT Services,186000.00,96,1.67,12.27,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000359,VEN037,IT Services,80000.00,96,0.37,4.68,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000367,VEN045,IT Services,92000.00,96,0.51,5.54,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000374,VEN045,IT Services,101000.00,96,0.62,6.18,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000378,VEN045,IT Services,374000.00,96,3.98,25.73,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000388,VEN053,IT Services,74000.00,96,0.29,4.25,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000420,VEN045,IT Services,78173.05,96,0.34,4.55,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000530,VEN045,IT Services,97840.83,96,0.59,5.96,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000637,VEN037,IT Services,78092.59,96,0.34,4.54,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000638,VEN037,IT Services,78092.59,96,0.34,4.54,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000682,VEN053,IT Services,238657.49,96,2.32,16.04,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000770,VEN045,IT Services,241047.24,96,2.35,16.21,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000783,VEN037,IT Services,309489.69,96,3.19,21.11,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000784,VEN037,IT Services,309489.69,96,3.19,21.11,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000790,VEN037,IT Services,164606.88,96,1.41,10.74,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000919,VEN045,IT Services,329420.51,96,3.43,22.54,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000920,VEN045,IT Services,329420.51,96,3.43,22.54,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000948,VEN053,IT Services,76541.35,96,0.32,4.43,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000353,VEN049,Logistics,186000.00,234,3.61,4.81,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000382,VEN049,Logistics,406000.00,234,9.18,11.73,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000252,VEN058,Marketing Services,61950.00,94,0.22,3.56,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000253,VEN058,Marketing Services,61950.00,94,0.22,3.56,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000354,VEN050,Marketing Services,186000.00,94,2.08,12.89,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000364,VEN042,Marketing Services,87500.00,94,0.60,5.48,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000371,VEN042,Marketing Services,97400.00,94,0.75,6.23,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000375,VEN042,Marketing Services,350000.00,94,4.53,25.22,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000385,VEN050,Marketing Services,69500.00,94,0.33,4.13,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000447,VEN042,Marketing Services,216975.76,94,2.54,15.22,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000448,VEN042,Marketing Services,216975.76,94,2.54,15.22,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000574,VEN058,Marketing Services,119508.46,94,1.08,7.89,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000587,VEN058,Marketing Services,115744.36,94,1.03,7.60,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000649,VEN042,Marketing Services,119959.18,94,1.09,7.92,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000703,VEN050,Marketing Services,219428.69,94,2.58,15.40,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000816,VEN042,Marketing Services,112863.22,94,0.98,7.39,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000840,VEN050,Marketing Services,63403.76,94,0.24,3.67,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000877,VEN058,Marketing Services,65070.07,94,0.27,3.79,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000883,VEN050,Marketing Services,252505.23,94,3.07,17.89,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000897,VEN058,Marketing Services,91380.71,94,0.66,5.77,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000898,VEN058,Marketing Services,91380.71,94,0.66,5.77,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000923,VEN050,Marketing Services,264220.74,94,3.25,18.77,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000928,VEN050,Marketing Services,87877.28,94,0.61,5.51,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000932,VEN058,Marketing Services,61771.70,94,0.22,3.55,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000947,VEN058,Marketing Services,63476.88,94,0.24,3.67,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001007,VEN042,Marketing Services,163690.24,94,1.74,11.21,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000244,VEN054,Office Supplies,53690.00,464,1.30,5.77,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000245,VEN054,Office Supplies,53690.00,464,1.30,5.77,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000264,VEN006,Office Supplies,48521.60,464,1.10,5.05,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000265,VEN006,Office Supplies,48715.69,464,1.11,5.08,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000266,VEN007,Office Supplies,50032.00,464,1.16,5.26,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000267,VEN007,Office Supplies,50232.13,464,1.16,5.29,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000268,VEN008,Office Supplies,51542.40,464,1.21,5.47,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000269,VEN008,Office Supplies,51748.57,464,1.22,5.50,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000270,VEN009,Office Supplies,53052.80,464,1.27,5.68,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000271,VEN009,Office Supplies,53265.01,464,1.28,5.71,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000272,VEN010,Office Supplies,54563.20,464,1.33,5.89,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000273,VEN010,Office Supplies,54781.45,464,1.34,5.92,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000274,VEN011,Office Supplies,56073.60,464,1.39,6.10,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000275,VEN011,Office Supplies,56297.89,464,1.40,6.13,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000290,VEN038,Office Supplies,53100.00,464,1.27,5.69,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000291,VEN038,Office Supplies,53100.00,464,1.27,5.69,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000350,VEN046,Office Supplies,186000.00,464,6.39,24.17,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000358,VEN054,Office Supplies,186000.00,464,6.39,24.17,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000360,VEN038,Office Supplies,81500.00,464,2.37,9.64,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000368,VEN046,Office Supplies,93500.00,464,2.83,11.31,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000379,VEN046,Office Supplies,382000.00,464,13.94,51.42,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000389,VEN054,Office Supplies,75500.00,464,2.14,8.80,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000406,VEN009,Office Supplies,70422.40,464,1.94,8.10,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000438,VEN007,Office Supplies,65483.39,464,1.75,7.41,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000464,VEN011,Office Supplies,37781.29,464,0.68,3.56,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000465,VEN011,Office Supplies,37781.29,464,0.68,3.56,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000474,VEN009,Office Supplies,40099.61,464,0.77,3.88,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000524,VEN010,Office Supplies,38776.22,464,0.72,3.70,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000529,VEN007,Office Supplies,37844.16,464,0.69,3.57,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000552,VEN008,Office Supplies,50856.10,464,1.19,5.38,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000554,VEN007,Office Supplies,37638.27,464,0.68,3.54,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000602,VEN007,Office Supplies,51600.95,464,1.22,5.48,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000603,VEN007,Office Supplies,51600.95,464,1.22,5.48,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000613,VEN011,Office Supplies,53027.54,464,1.27,5.68,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000623,VEN006,Office Supplies,66452.12,464,1.79,7.55,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000641,VEN008,Office Supplies,65607.53,464,1.76,7.43,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000642,VEN008,Office Supplies,65607.53,464,1.76,7.43,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000645,VEN011,Office Supplies,67697.50,464,1.84,7.72,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000646,VEN011,Office Supplies,67697.50,464,1.84,7.72,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000647,VEN010,Office Supplies,67185.52,464,1.82,7.65,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000648,VEN010,Office Supplies,67185.52,464,1.82,7.65,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000663,VEN006,Office Supplies,39005.66,464,0.73,3.73,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000667,VEN010,Office Supplies,39085.75,464,0.74,3.74,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000668,VEN010,Office Supplies,39085.75,464,0.74,3.74,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000714,VEN008,Office Supplies,69212.62,464,1.90,7.93,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000715,VEN008,Office Supplies,69212.62,464,1.90,7.93,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000773,VEN011,Office Supplies,51640.32,464,1.22,5.49,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000774,VEN011,Office Supplies,51640.32,464,1.22,5.49,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000785,VEN009,Office Supplies,37791.34,464,0.69,3.56,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000786,VEN009,Office Supplies,37791.34,464,0.69,3.56,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000803,VEN009,Office Supplies,37606.60,464,0.68,3.54,False,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000808,VEN009,Office Supplies,48952.57,464,1.12,5.11,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000809,VEN009,Office Supplies,48952.57,464,1.12,5.11,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000823,VEN007,Office Supplies,69291.11,464,1.90,7.94,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000824,VEN007,Office Supplies,69291.11,464,1.90,7.94,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000845,VEN006,Office Supplies,49950.14,464,1.15,5.25,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000873,VEN008,Office Supplies,49002.38,464,1.12,5.12,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000892,VEN007,Office Supplies,67165.13,464,1.82,7.65,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000893,VEN009,Office Supplies,68625.64,464,1.87,7.85,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000939,VEN010,Office Supplies,38265.56,464,0.70,3.63,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000949,VEN008,Office Supplies,38938.44,464,0.73,3.72,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000972,VEN011,Office Supplies,50001.79,464,1.16,5.26,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000973,VEN010,Office Supplies,38091.01,464,0.70,3.60,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000977,VEN009,Office Supplies,38581.85,464,0.72,3.67,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000978,VEN009,Office Supplies,38581.85,464,0.72,3.67,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000995,VEN008,Office Supplies,53327.94,464,1.28,5.72,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000228,VEN040,Professional Services,14750.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000236,VEN048,Professional Services,14750.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000352,VEN048,Professional Services,186000.00,216,1.61,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000362,VEN040,Professional Services,84500.00,216,0.27,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000369,VEN040,Professional Services,94999.99,216,0.41,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000381,VEN048,Professional Services,398000.01,216,4.40,,True,True,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000383,VEN048,Professional Services,66500.00,216,0.03,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000396,VEN056,Professional Services,94757.16,216,0.40,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000397,VEN056,Professional Services,94757.16,216,0.40,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000398,VEN048,Professional Services,213073.80,216,1.96,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000410,VEN048,Professional Services,215207.64,216,1.99,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000463,VEN048,Professional Services,312452.91,216,3.27,,True,True,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000504,VEN056,Professional Services,291723.12,216,3.00,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000509,VEN048,Professional Services,115048.23,216,0.67,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000511,VEN056,Professional Services,311326.86,216,3.26,,True,True,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000528,VEN048,Professional Services,219301.83,216,2.04,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000534,VEN048,Professional Services,147342.80,216,1.10,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000539,VEN048,Professional Services,102750.06,216,0.51,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000550,VEN056,Professional Services,398069.84,216,4.40,,True,True,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000551,VEN056,Professional Services,398069.84,216,4.40,,True,True,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000562,VEN040,Professional Services,148959.09,216,1.12,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000566,VEN048,Professional Services,407341.29,216,4.52,,True,True,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000570,VEN048,Professional Services,111936.22,216,0.63,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000592,VEN040,Professional Services,199907.25,216,1.79,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000618,VEN056,Professional Services,72205.01,216,0.11,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000619,VEN040,Professional Services,310595.87,216,3.25,,True,True,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000639,VEN048,Professional Services,213939.65,216,1.97,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000657,VEN048,Professional Services,226084.83,216,2.13,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000660,VEN040,Professional Services,146386.36,216,1.08,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000758,VEN048,Professional Services,200385.12,216,1.79,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000806,VEN056,Professional Services,225872.28,216,2.13,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000847,VEN056,Professional Services,304916.73,216,3.17,,True,True,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000856,VEN048,Professional Services,107703.12,216,0.57,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000859,VEN056,Professional Services,155827.31,216,1.21,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000872,VEN040,Professional Services,156754.91,216,1.22,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000918,VEN056,Professional Services,147004.59,216,1.09,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000934,VEN040,Professional Services,232317.95,216,2.22,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000984,VEN040,Professional Services,189093.49,216,1.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001016,VEN056,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001029,VEN040,Professional Services,11328.00,216,-0.70,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001037,VEN048,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001045,VEN056,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001058,VEN040,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001066,VEN048,Professional Services,14632.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001074,VEN056,Professional Services,5664.00,216,-0.77,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001087,VEN040,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001095,VEN048,Professional Services,11328.00,216,-0.70,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001103,VEN056,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001116,VEN040,Professional Services,5664.00,216,-0.77,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001124,VEN048,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001132,VEN056,Professional Services,14632.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001145,VEN040,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001153,VEN048,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001161,VEN056,Professional Services,11328.00,216,-0.70,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001174,VEN040,Professional Services,14632.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001182,VEN048,Professional Services,5664.00,216,-0.77,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001190,VEN056,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001203,VEN040,Professional Services,11328.00,216,-0.70,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001211,VEN048,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001219,VEN056,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001232,VEN040,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001240,VEN048,Professional Services,14632.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001248,VEN056,Professional Services,5664.00,216,-0.77,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001261,VEN040,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001269,VEN048,Professional Services,11328.00,216,-0.70,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001277,VEN056,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001290,VEN040,Professional Services,5664.00,216,-0.77,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001298,VEN048,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001306,VEN056,Professional Services,14632.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001319,VEN040,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001327,VEN048,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001335,VEN056,Professional Services,11328.00,216,-0.70,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001348,VEN040,Professional Services,14632.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001356,VEN048,Professional Services,5664.00,216,-0.77,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001364,VEN056,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001377,VEN040,Professional Services,11328.00,216,-0.70,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001385,VEN048,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001393,VEN056,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001406,VEN040,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001414,VEN048,Professional Services,14632.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001422,VEN056,Professional Services,5664.00,216,-0.77,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001435,VEN040,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001443,VEN048,Professional Services,11578.00,216,-0.69,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001451,VEN056,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001464,VEN040,Professional Services,5664.00,216,-0.77,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001472,VEN048,Professional Services,9558.00,216,-0.72,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001480,VEN056,Professional Services,14632.00,216,-0.65,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001493,VEN040,Professional Services,3776.00,216,-0.80,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV001501,VEN048,Professional Services,7552.00,216,-0.75,,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000254,VEN059,Utilities,64015.00,112,0.96,4.29,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000255,VEN059,Utilities,64015.00,112,0.96,4.29,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000300,VEN043,Utilities,59000.00,112,0.83,3.83,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000301,VEN043,Utilities,59000.00,112,0.83,3.83,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000355,VEN051,Utilities,186000.00,112,3.99,15.45,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000365,VEN043,Utilities,89000.00,112,1.58,6.58,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000372,VEN043,Utilities,98600.00,112,1.82,7.45,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000376,VEN043,Utilities,358000.00,112,8.27,31.17,True,True,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000386,VEN051,Utilities,71000.00,112,1.13,4.93,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000493,VEN043,Utilities,61731.02,112,0.90,4.08,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000617,VEN059,Utilities,70328.38,112,1.11,4.87,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000777,VEN051,Utilities,73604.58,112,1.19,5.17,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000822,VEN043,Utilities,40849.24,112,0.38,2.17,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000917,VEN043,Utilities,71302.26,112,1.14,4.96,True,False,True,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000931,VEN051,Utilities,44047.49,112,0.46,2.47,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.
+INV000953,VEN059,Utilities,50516.33,112,0.62,3.06,True,False,False,Statistical outlier inside the vendor category. This is not a fraud alert.

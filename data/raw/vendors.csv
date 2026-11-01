@@ -1,0 +1,61 @@
+vendor_id,vendor_name,vendor_category,gstin,city,state,bank_account_hash,onboarding_date,vendor_status,contact_email,payment_terms_days
+VEN001,"Sood, Thakkar and Wali",Professional Services,99SYN000011A1Z9,Mumbai,Maharashtra,2d92e3b1ded6c44bcd716d4a1156fab5adc5d270aec9bd8dc508b8b208a3cdd9,2018-03-12,Active,accounts.ven001@vendors.example,45
+VEN002,Bhandari PLC,Professional Services,99SYN000021A1Z9,Pune,Maharashtra,7df593ff235901c720954beda0a4885ac8a5a9e56734c84139d74c52dba03f4c,2018-09-24,Active,accounts.ven002@vendors.example,30
+VEN003,Grewal Inc,Professional Services,99SYN000031A1Z9,Bengaluru,Karnataka,099a773a6eff332ff98785798d228070cf5eca4fde1d84fab20d5ca2d52f9b66,2020-11-12,Active,accounts.ven003@vendors.example,30
+VEN004,"Bir, Keer and Raval",Professional Services,99SYN000041A1Z9,Hyderabad,Telangana,2c2f22fad970d20c5ad656143f4901e9279d24c139bee7708ea8d06aea34c1de,2020-10-28,Active,accounts.ven004@vendors.example,45
+VEN005,Koshy PLC,Professional Services,99SYN000051A1Z9,Chennai,Tamil Nadu,262565aa2f45ef1b4e5104788fb346f43ca7cc6efa94f4c73ccfc3c73d679ed2,2019-12-01,Active,accounts.ven005@vendors.example,30
+VEN006,"Baral, Bumb and Saini",Office Supplies,99SYN000061A1Z9,New Delhi,Delhi,953952227587b00d86552e03631ec9e2b9a22505dcbaa4bb4ab7fb4c77bc2362,2019-08-08,Active,accounts.ven006@vendors.example,30
+VEN007,"Virk, Mutti and Lal",Office Supplies,99SYN000071A1Z9,Gurugram,Haryana,17f4087876fcf26cfddb0e27f1705cf82dd76d9267fafc99bd245e693f3a5b7d,2022-04-14,Active,accounts.ven007@vendors.example,45
+VEN008,Murthy and Sons,Office Supplies,99SYN000081A1Z9,Kolkata,West Bengal,0a2d765c07bf999be92d5339c83641ac56ba8bf1c98282920074ca89e94956ab,2020-05-17,Active,accounts.ven008@vendors.example,30
+VEN009,Randhawa-Deep,Office Supplies,99SYN000091A1Z9,Ahmedabad,Gujarat,a507e63bbd3bfa2b5c116bc34a87e4fd386684122726f2b5c410ce2524238e8e,2022-03-05,Active,accounts.ven009@vendors.example,30
+VEN010,"Mital, Shankar and Mutti",Office Supplies,99SYN000101A1Z9,Jaipur,Rajasthan,fd390966f0f8e3606c6c3de64b712ba4666965f8d5b2e0cfebace09ce332896c,2022-12-22,Active,accounts.ven010@vendors.example,45
+VEN011,Andra Group,Office Supplies,99SYN000111A1Z9,Mumbai,Maharashtra,2e5a5cf4557ce14d7c95dbc07517381a69884d516d3ab52dc3d98f2c41fb3e2b,2019-08-22,Active,accounts.ven011@vendors.example,30
+VEN012,"Chaudhry, Borah and Yogi",Facilities Management,99SYN000121A1Z9,Pune,Maharashtra,c22ec8214301d03cfa030bd33c62a5ef44d64a8ddd71b3ddf0fc616612c29233,2019-01-18,Active,accounts.ven012@vendors.example,30
+VEN013,Toor LLC,Facilities Management,99SYN000131A1Z9,Bengaluru,Karnataka,7af3b24b250a84102865ffcf145b1c46da58ec4afb3d6f703d322f9493bb3c3a,2022-12-03,Active,accounts.ven013@vendors.example,45
+VEN014,Palla Inc,Facilities Management,99SYN000141A1Z9,Hyderabad,Telangana,0b6b7dca2826783797dac44ec1ee813cd611ba7e622f199170c103494aa5de26,2021-04-12,Active,accounts.ven014@vendors.example,30
+VEN015,Pingle LLC,Facilities Management,99SYN000151A1Z9,Chennai,Tamil Nadu,5083876c6da44b6d1c0ab5262c7e13fe4d79406fec0cdca6f6074a5b1e9333e9,2019-07-03,Active,accounts.ven015@vendors.example,30
+VEN016,Sarma PLC,Facilities Management,99SYN000161A1Z9,New Delhi,Delhi,f44a8bb263e07b910831aa7e00763fdcb3fa95cdb81cbc3725e39c100ae1d203,2021-03-18,Active,accounts.ven016@vendors.example,45
+VEN017,"Mittal, Wadhwa and Anand",Facilities Management,99SYN000171A1Z9,Gurugram,Haryana,bd258fc72c44db6b114493f03e1bd657dca8c860cdb551a5a38311f1067b4326,2020-08-29,Active,accounts.ven017@vendors.example,30
+VEN018,"Mistry, Chawla and Desai",Facilities Management,99SYN000181A1Z9,Kolkata,West Bengal,c5377902b7e20413b8ce3628656b34494847aaa8b91282a2d0467a795943ee4a,2022-09-04,Active,accounts.ven018@vendors.example,30
+VEN019,D’Alia-Chhabra,Facilities Management,99SYN000191A1Z9,Ahmedabad,Gujarat,672cb7dd6980c8a16f6812798e8191292ec5703726cb4367f82abfc2f20fb3cf,2019-04-28,Active,accounts.ven019@vendors.example,45
+VEN020,"Dugal, Magar and Manda",Facilities Management,99SYN000201A1Z9,Jaipur,Rajasthan,c4369b6c9a60e1acfec189962e5ee68622b98ad475b3be78eedb637f177863ec,2023-02-13,Active,accounts.ven020@vendors.example,30
+VEN021,"Kade, Oza and Jani",Facilities Management,99SYN000211A1Z9,Mumbai,Maharashtra,95149cea260dade050a6b5a62f3ac37143e5f2cb5121b11ea3a14f8298eff49b,2022-11-01,Active,accounts.ven021@vendors.example,30
+VEN022,"Lalla, Tiwari and Suresh",Facilities Management,99SYN000221A1Z9,Pune,Maharashtra,2a9de04b9920a8ab7c953422017d99a2e9f3eb7d9e4a6dfce5593f06e13f719d,2018-12-07,Active,accounts.ven022@vendors.example,45
+VEN023,Behl-Chanda,Equipment,99SYN000231A1Z9,Bengaluru,Karnataka,d96eb8b30d04f2386707120c45fa3118e838ac0f6625b7a67ec513be991eed1b,2018-11-07,Active,accounts.ven023@vendors.example,30
+VEN024,"Sampath, Malhotra and Basu",Equipment,99SYN000241A1Z9,Hyderabad,Telangana,13fa7066bc804614c02f61d0d4a6fb78ef2fb0807bf450e5dbdef00d614f1ca3,2020-10-02,Active,accounts.ven024@vendors.example,30
+VEN025,Nath and Sons,Equipment,99SYN000251A1Z9,Chennai,Tamil Nadu,01e1b8110cb9918dcefe81830fe0bc342e60b0220919c8edac9673dc81370de4,2018-03-26,Active,accounts.ven025@vendors.example,45
+VEN026,"Lala, Edwin and Sathe",Equipment,99SYN000261A1Z9,New Delhi,Delhi,b2ebbeb824c8de79aef2db0fea4625481ea2d30f24248ecfd1ce1b37aedd7061,2019-07-18,Active,accounts.ven026@vendors.example,30
+VEN027,"Sane, Andra and Choudhury",Equipment,99SYN000271A1Z9,Gurugram,Haryana,a5e779d50bd594041c949461f55d335c7eb0712fdcca0b4dd38db0b4e98833ea,2020-03-31,Active,accounts.ven027@vendors.example,30
+VEN028,Dixit PLC,Equipment,99SYN000281A1Z9,Kolkata,West Bengal,9bcd24fea6041cfe79505c574891ce939c93b1d298caafc63874632ae5ec094e,2023-01-03,Active,accounts.ven028@vendors.example,45
+VEN029,Pingle PLC,Equipment,99SYN000291A1Z9,Ahmedabad,Gujarat,fab828356d66eba3cc8f500b771cef3ba687cbdef9a1b33517eddee702543953,2023-02-15,Active,accounts.ven029@vendors.example,30
+VEN030,"Divan, Sani and Datta",Logistics,99SYN000301A1Z9,Jaipur,Rajasthan,ba9b9457cf1bc106f6842c0f89232e01a030604170c0dbc192a586cd8102f0f2,2018-10-13,Active,accounts.ven030@vendors.example,30
+VEN031,Morar LLC,Logistics,99SYN000311A1Z9,Mumbai,Maharashtra,98e0f5a7a37ae98e9ec5cde8479d04a000a2b8846e9a233f6b0e4840bca15581,2022-08-09,Active,accounts.ven031@vendors.example,45
+VEN032,Parmar and Sons,Logistics,99SYN000321A1Z9,Pune,Maharashtra,25febee97c6b86f1eb8cda878cb4f280bcc16a721535cc15e4dad9c3514923b3,2018-06-21,Active,accounts.ven032@vendors.example,30
+VEN033,"Krish, Chauhan and Pandya",Logistics,99SYN000331A1Z9,Bengaluru,Karnataka,134af9686ca6cad56fc57eda384b8251a37974b9847b123893a45a612f681b58,2021-11-12,Active,accounts.ven033@vendors.example,30
+VEN034,"Ray, Dubey and Khalsa",Logistics,99SYN000341A1Z9,Hyderabad,Telangana,0f1540754c6fb6cbcd88d15676f1c55515a502b38f590c319bd8b49f87799f3a,2022-05-14,Active,accounts.ven034@vendors.example,45
+VEN035,Goel Group,Utilities,99SYN000351A1Z9,Chennai,Tamil Nadu,54a1a43c00ccb6e426060635ab2988d0306b7bbd04f27ab9757973afe5535558,2022-08-08,Active,accounts.ven035@vendors.example,15
+VEN036,Gola Ltd,Utilities,99SYN000361A1Z9,New Delhi,Delhi,e23d9e4b535e38b445020bc0b9ed44cebd9d02fac6299f90ce653b7559237ddd,2019-02-26,Active,accounts.ven036@vendors.example,15
+VEN037,Sabharwal-Kothari,IT Services,99SYN000371A1Z9,Gurugram,Haryana,d2a0b7f5940e9a8bed81d462f50c3b524869452e7e3daf183c913a9ca3fb784f,2022-08-13,Active,accounts.ven037@vendors.example,45
+VEN038,Dutta-Chokshi,Office Supplies,99SYN000381A1Z9,Kolkata,West Bengal,698b4437aa86adb1d32626f20fcf30e8253d2424cd20421a6e955c6c12fbf1fc,2018-08-07,Active,accounts.ven038@vendors.example,30
+VEN039,Barad-Singhal,Facilities Management,99SYN000391A1Z9,Ahmedabad,Gujarat,c9a536c05745b277fe64d99f1fa6e547fd0d4930dd387b522845a74e9c3b0e4a,2020-09-05,Active,accounts.ven039@vendors.example,30
+VEN040,Iyengar Group,Professional Services,99SYN000401A1Z9,Jaipur,Rajasthan,c235f91375892a71acb9f1c0d42a5ea7532ecc94aad014e51187c3033088a879,2020-06-04,Active,accounts.ven040@vendors.example,45
+VEN041,Mody-Kari,Logistics,99SYN000411A1Z9,Mumbai,Maharashtra,801bc34993b15a8f1764fb1c29eef940dfedf5368189343583a82e73fc317a98,2019-08-19,Active,accounts.ven041@vendors.example,30
+VEN042,Bajwa Ltd,Marketing Services,99SYN000421A1Z9,Pune,Maharashtra,3beb2b0630c9e9e4cd8ba23fe8431798dbf031d68aaea102b93d887d1ae4f076,2018-02-11,Active,accounts.ven042@vendors.example,30
+VEN043,Rastogi LLC,Utilities,99SYN000431A1Z9,Bengaluru,Karnataka,98c34dc970a95727100529d8fae89b9aaaa5533228c944488850a92feb913d3d,2021-12-27,Active,accounts.ven043@vendors.example,15
+VEN044,Boase-Mallick,Equipment,99SYN000441A1Z9,Hyderabad,Telangana,c8a1d0c7aec9f99ba4e9b435d70da20d6a8a659f3d1ba951874d641bb1e978c9,2019-09-25,Active,accounts.ven044@vendors.example,30
+VEN045,Upadhyay-Ratta,IT Services,99SYN000451A1Z9,Chennai,Tamil Nadu,4a74bd063f3ebf705b3bcb062716c1cd5bba5633581a6173312637a16d582fc6,2021-06-01,Active,accounts.ven045@vendors.example,30
+VEN046,"Yadav, Narula and Bala",Office Supplies,99SYN000461A1Z9,New Delhi,Delhi,33f32f18e7ed125ecd24ad554c8258d8a9ef7b9a60e2029671b2b01ad13fb279,2020-02-13,Active,accounts.ven046@vendors.example,45
+VEN047,Lal and Sons,Facilities Management,99SYN000471A1Z9,,Haryana,e32ca5b6126e365efea1430b63817f71410d492f73e8e4d8e060ce31c8b0c682,2019-12-06,Active,accounts.ven047@vendors.example,30
+VEN048,"Lanka, Barad and Chopra",Professional Services,99SYN000481A1Z9,,West Bengal,819c1680843f690303ac32c388fe4f2366d919047a63817d37e5f96ce5bc0bbc,2022-07-30,Active,accounts.ven048@vendors.example,30
+VEN049,"Saraf, Pai and Murthy",Logistics,99SYN000491A1Z9,,Gujarat,e461d3cee4cdc9065faf9a0b5468e79d434cd5de966e31373c1a54de9f41d6f6,2018-06-28,Active,accounts.ven049@vendors.example,45
+VEN050,Vaidya-D’Alia,Marketing Services,99SYN000501A1Z9,Jaipur,Rajasthan,0584d6de04bbee2bc949aaf5b1e6a28572bda3f227dc66bd7cab721dced59eb5,2021-10-21,Active,accounts.ven050@vendors.example,30
+VEN051,Gupta-Kumar,Utilities,99SYN000511A1Z9,Mumbai,Maharashtra,ead6adfea56b34280054f6f4a641c5a8e35b65203f2d1344d7b3dcd23a325d8b,2021-11-09,Active,accounts.ven051@vendors.example,15
+VEN052,Sarin Inc,Equipment,99SYN000521A1Z9,Pune,Maharashtra,ead6adfea56b34280054f6f4a641c5a8e35b65203f2d1344d7b3dcd23a325d8b,2019-12-18,Active,accounts.ven052@vendors.example,45
+VEN053,"Yohannan, Hegde and Patla",IT Services,99SYN000531A1Z9,Bengaluru,Karnataka,f1f9cdfda39ce6035d7ace1aaa0d5783d24dbd28c45b445a154ec9912768814b,2019-05-11,Active,accounts.ven053@vendors.example,30
+VEN054,Boase-Narayanan,Office Supplies,99SYN000541A1Z9,Hyderabad,Telangana,f1f9cdfda39ce6035d7ace1aaa0d5783d24dbd28c45b445a154ec9912768814b,2018-01-11,Active,accounts.ven054@vendors.example,30
+VEN055,"Murthy, Dash and Mital",Facilities Management,99SYN000551A1Z9,Chennai,Tamil Nadu,29eada5f9b2533dd6ba172a685040823f3af8c10f6b04d4ad0fd677e231908f2,2022-11-02,Active,accounts.ven055@vendors.example,45
+VEN056,"More, Rege and Narain",Professional Services,99SYN000561A1Z9,New Delhi,Delhi,1d5937943fc8f0c47029143436a68003e309112815c9bc09491be926bf3cc0fc,2022-11-23,Suspended,accounts.ven056@vendors.example,30
+VEN057,Merchant-Datta,Logistics,99SYN000571A1Z9,Gurugram,Haryana,8b93ea2497f2b57dfa4cf8f999ca5de944c97de23169d27927566b22071b928e,2019-03-31,Suspended,accounts.ven057@vendors.example,30
+VEN058,Salvi Ltd,Marketing Services,99SYN000581A1Z9,Kolkata,West Bengal,5d4dd5699360802729dba55a7b98ad93dffcce2c9a696eb998f6cb4028ca5161,2018-03-02,Suspended,accounts.ven058@vendors.example,45
+VEN059,Ghosh-Mitra,Utilities,99SYN000591A1Z9,Ahmedabad,Gujarat,713dfb1d6c564e9848c6290b1bd44a29576898bea1e12a937d71f7998ad3c20a,2018-08-20,Inactive,accounts.ven059@vendors.example,15
+VEN060,Acharya-Modi,Equipment,99SYN000601A1Z9,Jaipur,Rajasthan,61b35b404bfc472691d1f518214ba731721ea827391aa9f479a215f5d786482e,2018-05-08,UNKNOWN,accounts.ven060@vendors.example,30

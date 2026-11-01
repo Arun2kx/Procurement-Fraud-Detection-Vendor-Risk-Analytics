@@ -1,0 +1,121 @@
+employee_id,full_name,email,department,job_title,job_level,manager_id,approval_limit_inr,hire_date,employment_status,city
+EMP001,Isaac Bakshi,isaac.bakshi.emp001@procureguard.example,Procurement,"Department Head, Procurement",Department Head,EMP016,500000.00,2020-12-06,Active,Mumbai
+EMP002,Anvi Konda,anvi.konda.emp002@procureguard.example,Procurement,"Manager, Procurement",Manager,EMP001,200000.00,2017-12-06,Active,Gurugram
+EMP003,Udant Dewan,udant.dewan.emp003@procureguard.example,Procurement,"Manager, Procurement",Manager,EMP001,200000.00,2021-09-09,Active,Chennai
+EMP004,Harsh Chahal,harsh.chahal.emp004@procureguard.example,Procurement,"Manager, Procurement",Manager,EMP001,200000.00,2020-03-31,Active,Mumbai
+EMP005,Pahal Balay,pahal.balay.emp005@procureguard.example,Procurement,"Senior Analyst, Procurement",Senior Analyst,EMP002,50000.00,2014-11-05,Active,Bengaluru
+EMP006,Ayushman Chander,ayushman.chander.emp006@procureguard.example,Procurement,"Senior Analyst, Procurement",Senior Analyst,EMP003,50000.00,2022-09-27,Active,New Delhi
+EMP007,Tejas Kaul,tejas.kaul.emp007@procureguard.example,Procurement,"Senior Analyst, Procurement",Senior Analyst,EMP002,50000.00,2020-10-25,Active,Kolkata
+EMP008,Yashasvi Bala,yashasvi.bala.emp008@procureguard.example,Procurement,"Senior Analyst, Procurement",Senior Analyst,EMP003,50000.00,2021-01-15,Active,Kolkata
+EMP009,Rushil Saini,,Procurement,"Analyst, Procurement",Analyst,EMP003,50000.00,2015-02-24,Inactive,New Delhi
+EMP010,Thomas Sen,,Procurement,"Analyst, Procurement",Analyst,EMP002,50000.00,2018-01-13,Inactive,Ahmedabad
+EMP011,Arunima Ahuja,,Procurement,"Analyst, Procurement",Analyst,EMP004,50000.00,2017-04-27,Inactive,New Delhi
+EMP012,Nathaniel Sami,,Procurement,"Analyst, Procurement",Analyst,EMP003,50000.00,2022-04-20,Inactive,Pune
+EMP013,Harini Mall,harini.mall.emp013@procureguard.example,Procurement,"Analyst, Procurement",Analyst,EMP004,50000.00,2019-10-08,Inactive,Kolkata
+EMP014,Nachiket Kale,nachiket.kale.emp014@procureguard.example,Procurement,"Analyst, Procurement",Analyst,EMP002,50000.00,2021-05-15,Inactive,Chennai
+EMP015,Gayathri Chaudry,gayathri.chaudry.emp015@procureguard.example,Procurement,"Analyst, Procurement",Analyst,EMP002,50000.00,2017-12-21,On Leave,New Delhi
+EMP016,George Rai,george.rai.emp016@procureguard.example,Finance,"Director, Finance",Director,,2000000.00,2016-01-14,Active,Chennai
+EMP017,Gunbir Parmer,gunbir.parmer.emp017@procureguard.example,Finance,"Department Head, Finance",Department Head,EMP016,500000.00,2018-12-20,Active,Mumbai
+EMP018,Hemangini Lalla,hemangini.lalla.emp018@procureguard.example,Finance,"Manager, Finance",Manager,EMP017,200000.00,2014-07-28,Active,Ahmedabad
+EMP019,Caleb Sharaf,caleb.sharaf.emp019@procureguard.example,Finance,"Manager, Finance",Manager,EMP017,200000.00,2021-05-31,Active,Ahmedabad
+EMP020,Jeet Radhakrishnan,jeet.radhakrishnan.emp020@procureguard.example,Finance,"Manager, Finance",Manager,EMP017,200000.00,2019-08-29,Active,Bengaluru
+EMP021,Farhan Memon,farhan.memon.emp021@procureguard.example,Finance,"Senior Analyst, Finance",Senior Analyst,EMP019,50000.00,2020-10-15,Active,Pune
+EMP022,Janaki Handa,janaki.handa.emp022@procureguard.example,Finance,"Senior Analyst, Finance",Senior Analyst,EMP018,50000.00,2017-03-05,Active,Kolkata
+EMP023,Ekaraj Bath,ekaraj.bath.emp023@procureguard.example,Finance,"Senior Analyst, Finance",Senior Analyst,EMP018,50000.00,2022-09-11,Active,Mumbai
+EMP024,Vedant Mann,vedant.mann.emp024@procureguard.example,Finance,"Senior Analyst, Finance",Senior Analyst,EMP019,50000.00,2021-12-31,Active,Chennai
+EMP025,Fariq Kaul,fariq.kaul.emp025@procureguard.example,Finance,"Analyst, Finance",Analyst,EMP018,50000.00,2020-12-21,Active,Gurugram
+EMP026,Harrison Rai,harrison.rai.emp026@procureguard.example,Finance,"Analyst, Finance",Analyst,EMP020,50000.00,2015-09-29,Active,Kolkata
+EMP027,Arunima Setty,arunima.setty.emp027@procureguard.example,Finance,"Analyst, Finance",Analyst,EMP018,50000.00,2018-03-07,Active,Hyderabad
+EMP028,Janya Gaba,janya.gaba.emp028@procureguard.example,Finance,"Analyst, Finance",Analyst,EMP018,50000.00,2014-05-24,Active,Chennai
+EMP029,Kamala Pant,kamala.pant.emp029@procureguard.example,Finance,"Analyst, Finance",Analyst,EMP019,50000.00,2015-05-20,Active,New Delhi
+EMP030,Shaurya Loke,shaurya.loke.emp030@procureguard.example,Finance,"Analyst, Finance",Analyst,EMP020,50000.00,2020-02-13,Active,Kolkata
+EMP031,Ekbal Garg,ekbal.garg.emp031@procureguard.example,Operations,"Department Head, Operations",Department Head,EMP016,500000.00,2020-09-02,Active,Jaipur
+EMP032,Yash Gade,yash.gade.emp032@procureguard.example,Operations,"Manager, Operations",Manager,EMP031,200000.00,2022-08-31,Active,Hyderabad
+EMP033,Turvi Raghavan,turvi.raghavan.emp033@procureguard.example,Operations,"Manager, Operations",Manager,EMP031,200000.00,2016-12-01,Active,Chennai
+EMP034,Anamika Kanda,anamika.kanda.emp034@procureguard.example,Operations,"Manager, Operations",Manager,EMP031,200000.00,2017-04-26,Active,Jaipur
+EMP035,Ekta Bhalla,ekta.bhalla.emp035@procureguard.example,Operations,"Senior Analyst, Operations",Senior Analyst,EMP032,50000.00,2018-03-16,Active,Mumbai
+EMP036,Veer Balay,veer.balay.emp036@procureguard.example,Operations,"Senior Analyst, Operations",Senior Analyst,EMP032,50000.00,2015-09-12,Active,Kolkata
+EMP037,Diya Rattan,diya.rattan.emp037@procureguard.example,Operations,"Senior Analyst, Operations",Senior Analyst,EMP034,50000.00,2015-03-01,Active,Chennai
+EMP038,Amrita Bhatti,amrita.bhatti.emp038@procureguard.example,Operations,"Senior Analyst, Operations",Senior Analyst,EMP034,50000.00,2018-04-06,Active,Gurugram
+EMP039,Siddharth Murty,siddharth.murty.emp039@procureguard.example,Operations,"Analyst, Operations",Analyst,EMP033,50000.00,2016-01-13,Active,Hyderabad
+EMP040,Simon Tata,simon.tata.emp040@procureguard.example,Operations,"Analyst, Operations",Analyst,EMP033,50000.00,2019-12-31,Active,New Delhi
+EMP041,Meghana Shanker,meghana.shanker.emp041@procureguard.example,Operations,"Analyst, Operations",Analyst,EMP033,50000.00,2017-11-30,Active,Jaipur
+EMP042,Luke Lanka,luke.lanka.emp042@procureguard.example,Operations,"Analyst, Operations",Analyst,EMP033,50000.00,2021-06-16,Active,Pune
+EMP043,Liam Koshy,liam.koshy.emp043@procureguard.example,Operations,"Analyst, Operations",Analyst,EMP033,50000.00,2020-04-09,Active,Gurugram
+EMP044,Adya Sangha,adya.sangha.emp044@procureguard.example,Operations,"Analyst, Operations",Analyst,EMP032,50000.00,2016-10-18,Active,Mumbai
+EMP045,Mohini Pathak,mohini.pathak.emp045@procureguard.example,Operations,"Analyst, Operations",Analyst,EMP032,50000.00,2021-06-15,Active,Kolkata
+EMP046,Theodore Devi,theodore.devi.emp046@procureguard.example,Information Technology,"Department Head, Information Technology",Department Head,EMP016,500000.00,2021-03-17,Active,Chennai
+EMP047,Yashodhara Tak,yashodhara.tak.emp047@procureguard.example,Information Technology,"Manager, Information Technology",Manager,EMP046,200000.00,2017-06-21,Active,Ahmedabad
+EMP048,Gavin Batta,gavin.batta.emp048@procureguard.example,Information Technology,"Manager, Information Technology",Manager,EMP046,200000.00,2016-08-01,Active,Ahmedabad
+EMP049,Imaran Dua,imaran.dua.emp049@procureguard.example,Information Technology,"Manager, Information Technology",Manager,EMP046,200000.00,2020-02-11,Active,Bengaluru
+EMP050,Nathaniel Sami,nathaniel.sami.emp050@procureguard.example,Information Technology,"Senior Analyst, Information Technology",Senior Analyst,EMP047,50000.00,2015-04-03,Active,Gurugram
+EMP051,Devansh Rajan,devansh.rajan.emp051@procureguard.example,Information Technology,"Senior Analyst, Information Technology",Senior Analyst,EMP049,50000.00,2015-10-16,Active,Ahmedabad
+EMP052,Lakshmi Sidhu,lakshmi.sidhu.emp052@procureguard.example,Information Technology,"Senior Analyst, Information Technology",Senior Analyst,EMP048,50000.00,2014-01-25,Active,Ahmedabad
+EMP053,Zayan Apte,zayan.apte.emp053@procureguard.example,Information Technology,"Senior Analyst, Information Technology",Senior Analyst,EMP048,50000.00,2021-01-18,Active,Kolkata
+EMP054,Ishwar Yadav,ishwar.yadav.emp054@procureguard.example,Information Technology,"Analyst, Information Technology",Analyst,EMP048,50000.00,2019-12-15,Active,Kolkata
+EMP055,Amara Oak,amara.oak.emp055@procureguard.example,Information Technology,"Analyst, Information Technology",Analyst,EMP049,50000.00,2020-04-25,Active,Chennai
+EMP056,Isaac Memon,isaac.memon.emp056@procureguard.example,Information Technology,"Analyst, Information Technology",Analyst,EMP047,50000.00,2020-12-28,Active,Bengaluru
+EMP057,Radhika Dugar,radhika.dugar.emp057@procureguard.example,Information Technology,"Analyst, Information Technology",Analyst,EMP047,50000.00,2018-02-10,Active,New Delhi
+EMP058,Sudiksha Aggarwal,sudiksha.aggarwal.emp058@procureguard.example,Information Technology,"Analyst, Information Technology",Analyst,EMP047,50000.00,2019-02-04,Active,New Delhi
+EMP059,Adya Tella,adya.tella.emp059@procureguard.example,Information Technology,"Analyst, Information Technology",Analyst,EMP048,50000.00,2015-04-03,Active,Mumbai
+EMP060,Pranav Tripathi,pranav.tripathi.emp060@procureguard.example,Information Technology,"Analyst, Information Technology",Analyst,EMP049,50000.00,2015-01-10,Active,Bengaluru
+EMP061,Hitesh Misra,hitesh.misra.emp061@procureguard.example,Human Resources,"Department Head, Human Resources",Department Head,EMP016,500000.00,2019-12-27,Active,Chennai
+EMP062,Yashica Issac,yashica.issac.emp062@procureguard.example,Human Resources,"Manager, Human Resources",Manager,EMP061,200000.00,2018-03-21,Active,Gurugram
+EMP063,Michael Prakash,michael.prakash.emp063@procureguard.example,Human Resources,"Manager, Human Resources",Manager,EMP061,200000.00,2019-01-23,Active,Ahmedabad
+EMP064,Neel Zacharia,neel.zacharia.emp064@procureguard.example,Human Resources,"Manager, Human Resources",Manager,EMP061,200000.00,2020-11-07,Active,Mumbai
+EMP065,Aadi Naik,aadi.naik.emp065@procureguard.example,Human Resources,"Senior Analyst, Human Resources",Senior Analyst,EMP063,50000.00,2019-09-08,Active,New Delhi
+EMP066,Vrinda Bahl,vrinda.bahl.emp066@procureguard.example,Human Resources,"Senior Analyst, Human Resources",Senior Analyst,EMP063,50000.00,2018-12-16,Active,New Delhi
+EMP067,Isaac Patil,isaac.patil.emp067@procureguard.example,Human Resources,"Senior Analyst, Human Resources",Senior Analyst,EMP064,50000.00,2019-01-04,Active,Mumbai
+EMP068,Damyanti Khatri,damyanti.khatri.emp068@procureguard.example,Human Resources,"Senior Analyst, Human Resources",Senior Analyst,EMP062,50000.00,2016-09-21,Active,Kolkata
+EMP069,Dalbir Khosla,dalbir.khosla.emp069@procureguard.example,Human Resources,"Analyst, Human Resources",Analyst,EMP063,50000.00,2014-04-11,Active,Gurugram
+EMP070,Farhan Chada,farhan.chada.emp070@procureguard.example,Human Resources,"Analyst, Human Resources",Analyst,EMP063,50000.00,2017-11-29,Active,Hyderabad
+EMP071,Vedika Biswas,vedika.biswas.emp071@procureguard.example,Human Resources,"Analyst, Human Resources",Analyst,EMP063,50000.00,2015-12-03,Active,Jaipur
+EMP072,Jeremiah Dave,jeremiah.dave.emp072@procureguard.example,Human Resources,"Analyst, Human Resources",Analyst,EMP064,50000.00,2017-08-29,Active,Bengaluru
+EMP073,Vaishnavi Gandhi,vaishnavi.gandhi.emp073@procureguard.example,Human Resources,"Analyst, Human Resources",Analyst,EMP062,50000.00,2021-08-23,Active,Jaipur
+EMP074,Alka Wable,alka.wable.emp074@procureguard.example,Human Resources,"Analyst, Human Resources",Analyst,EMP064,50000.00,2016-02-05,Active,Mumbai
+EMP075,Pallavi Kakar,pallavi.kakar.emp075@procureguard.example,Human Resources,"Analyst, Human Resources",Analyst,EMP062,50000.00,2014-07-10,Active,Ahmedabad
+EMP076,Sai Muni,sai.muni.emp076@procureguard.example,Facilities,"Department Head, Facilities",Department Head,EMP016,500000.00,2016-07-09,Active,Ahmedabad
+EMP077,Mohini Prakash,mohini.prakash.emp077@procureguard.example,Facilities,"Manager, Facilities",Manager,EMP076,200000.00,2016-08-18,Active,Jaipur
+EMP078,Raksha Varughese,raksha.varughese.emp078@procureguard.example,Facilities,"Manager, Facilities",Manager,EMP076,200000.00,2019-12-06,Active,Chennai
+EMP079,Siya Dara,siya.dara.emp079@procureguard.example,Facilities,"Manager, Facilities",Manager,EMP076,200000.00,2018-12-28,Active,Pune
+EMP080,Yug Kar,yug.kar.emp080@procureguard.example,Facilities,"Senior Analyst, Facilities",Senior Analyst,EMP078,50000.00,2021-01-08,Active,New Delhi
+EMP081,Devansh Nigam,devansh.nigam.emp081@procureguard.example,Facilities,"Senior Analyst, Facilities",Senior Analyst,EMP078,50000.00,2019-12-13,Active,Jaipur
+EMP082,Ansh Karpe,ansh.karpe.emp082@procureguard.example,Facilities,"Senior Analyst, Facilities",Senior Analyst,EMP079,50000.00,2017-08-22,Active,Chennai
+EMP083,Thomas Amble,thomas.amble.emp083@procureguard.example,Facilities,"Senior Analyst, Facilities",Senior Analyst,EMP078,50000.00,2021-04-16,Active,Chennai
+EMP084,Ekavir Bhargava,ekavir.bhargava.emp084@procureguard.example,Facilities,"Analyst, Facilities",Analyst,EMP077,50000.00,2015-07-01,Active,Hyderabad
+EMP085,Veer Bir,veer.bir.emp085@procureguard.example,Facilities,"Analyst, Facilities",Analyst,EMP077,50000.00,2014-03-16,Active,Hyderabad
+EMP086,Azad Narayanan,azad.narayanan.emp086@procureguard.example,Facilities,"Analyst, Facilities",Analyst,EMP078,50000.00,2014-10-22,Active,Pune
+EMP087,Ekavir Varkey,ekavir.varkey.emp087@procureguard.example,Facilities,"Analyst, Facilities",Analyst,EMP079,50000.00,2020-06-20,Active,Kolkata
+EMP088,Wazir Mallick,wazir.mallick.emp088@procureguard.example,Facilities,"Analyst, Facilities",Analyst,EMP077,50000.00,2018-02-19,Active,Gurugram
+EMP089,Vedika Kala,vedika.kala.emp089@procureguard.example,Facilities,"Analyst, Facilities",Analyst,EMP079,50000.00,2015-06-12,Active,Kolkata
+EMP090,Kevin Solanki,kevin.solanki.emp090@procureguard.example,Facilities,"Analyst, Facilities",Analyst,EMP078,50000.00,2018-06-27,Active,Jaipur
+EMP091,Xavier Solanki,xavier.solanki.emp091@procureguard.example,Marketing,"Department Head, Marketing",Department Head,EMP016,500000.00,2015-05-14,Active,Jaipur
+EMP092,Niharika Gupta,niharika.gupta.emp092@procureguard.example,Marketing,"Manager, Marketing",Manager,EMP091,200000.00,2020-03-27,Active,Chennai
+EMP093,Girindra Chatterjee,girindra.chatterjee.emp093@procureguard.example,Marketing,"Manager, Marketing",Manager,EMP091,200000.00,2017-12-30,Active,Chennai
+EMP094,Raagini Pandya,raagini.pandya.emp094@procureguard.example,Marketing,"Manager, Marketing",Manager,EMP091,200000.00,2017-05-31,Active,Pune
+EMP095,Pallavi Roy,pallavi.roy.emp095@procureguard.example,Marketing,"Senior Analyst, Marketing",Senior Analyst,EMP092,50000.00,2016-09-13,Active,Bengaluru
+EMP096,Unni Bhagat,unni.bhagat.emp096@procureguard.example,Marketing,"Senior Analyst, Marketing",Senior Analyst,EMP092,50000.00,2019-08-24,Active,Gurugram
+EMP097,Guneet Bhat,guneet.bhat.emp097@procureguard.example,Marketing,"Senior Analyst, Marketing",Senior Analyst,EMP093,50000.00,2017-03-29,Active,Gurugram
+EMP098,Neha Nori,neha.nori.emp098@procureguard.example,Marketing,"Senior Analyst, Marketing",Senior Analyst,EMP092,50000.00,2014-10-14,Active,Jaipur
+EMP099,Ikbal Kothari,ikbal.kothari.emp099@procureguard.example,Marketing,"Analyst, Marketing",Analyst,EMP092,50000.00,2015-01-21,Active,Hyderabad
+EMP100,Rehaan Gupta,rehaan.gupta.emp100@procureguard.example,Marketing,"Analyst, Marketing",Analyst,EMP093,50000.00,2022-08-13,Active,Hyderabad
+EMP101,Saumya Dey,saumya.dey.emp101@procureguard.example,Marketing,"Analyst, Marketing",Analyst,EMP094,50000.00,2022-02-19,Active,Hyderabad
+EMP102,Pahal Goswami,pahal.goswami.emp102@procureguard.example,Marketing,"Analyst, Marketing",Analyst,EMP092,50000.00,2020-04-07,Active,Chennai
+EMP103,Arya Shere,arya.shere.emp103@procureguard.example,Marketing,"Analyst, Marketing",Analyst,EMP092,50000.00,2016-05-19,Active,Chennai
+EMP104,Zaid Borra,zaid.borra.emp104@procureguard.example,Marketing,"Analyst, Marketing",Analyst,EMP092,50000.00,2022-09-06,Active,Kolkata
+EMP105,Saanvi Chaudhari,saanvi.chaudhari.emp105@procureguard.example,Marketing,"Analyst, Marketing",Analyst,EMP093,50000.00,2020-12-22,Active,Bengaluru
+EMP106,Chandresh Zachariah,chandresh.zachariah.emp106@procureguard.example,Legal,"Department Head, Legal",Department Head,EMP016,500000.00,2020-06-02,Active,Bengaluru
+EMP107,Alexander Chander,alexander.chander.emp107@procureguard.example,Legal,"Manager, Legal",Manager,EMP106,200000.00,2018-01-09,Active,Kolkata
+EMP108,Warjas Ganesan,warjas.ganesan.emp108@procureguard.example,Legal,"Manager, Legal",Manager,EMP106,200000.00,2016-06-09,Active,Kolkata
+EMP109,Niharika Sunder,niharika.sunder.emp109@procureguard.example,Legal,"Manager, Legal",Manager,EMP106,200000.00,2014-11-12,Active,Mumbai
+EMP110,Vasana Kala,vasana.kala.emp110@procureguard.example,Legal,"Senior Analyst, Legal",Senior Analyst,EMP109,50000.00,2022-01-31,Active,Chennai
+EMP111,Nandini Bhargava,nandini.bhargava.emp111@procureguard.example,Legal,"Senior Analyst, Legal",Senior Analyst,EMP109,50000.00,2018-01-30,Active,Pune
+EMP112,Nitesh Raghavan,nitesh.raghavan.emp112@procureguard.example,Legal,"Senior Analyst, Legal",Senior Analyst,EMP109,50000.00,2015-10-24,Active,Kolkata
+EMP113,Aarnav Ramakrishnan,aarnav.ramakrishnan.emp113@procureguard.example,Legal,"Senior Analyst, Legal",Senior Analyst,EMP109,50000.00,2016-09-27,Active,Kolkata
+EMP114,Alka Sha,alka.sha.emp114@procureguard.example,Legal,"Analyst, Legal",Analyst,EMP107,50000.00,2019-03-10,Active,Ahmedabad
+EMP115,Bhavika Sampath,bhavika.sampath.emp115@procureguard.example,Legal,"Analyst, Legal",Analyst,EMP107,50000.00,2015-08-02,Active,New Delhi
+EMP116,Vidhi Dubey,vidhi.dubey.emp116@procureguard.example,Legal,"Analyst, Legal",Analyst,EMP108,50000.00,2021-09-02,Active,Chennai
+EMP117,Ranveer Minhas,ranveer.minhas.emp117@procureguard.example,Legal,"Analyst, Legal",Analyst,EMP109,50000.00,2020-10-17,Active,Mumbai
+EMP118,Teerth Bhardwaj,teerth.bhardwaj.emp118@procureguard.example,Legal,"Analyst, Legal",Analyst,EMP109,50000.00,2020-06-11,Active,Chennai
+EMP119,Darsh Murthy,darsh.murthy.emp119@procureguard.example,Legal,"Analyst, Legal",Analyst,EMP107,50000.00,2017-11-14,Active,Gurugram
+EMP120,Dakshesh Bedi,dakshesh.bedi.emp120@procureguard.example,Legal,"Analyst, Legal",Analyst,EMP107,50000.00,2019-08-14,Active,Hyderabad

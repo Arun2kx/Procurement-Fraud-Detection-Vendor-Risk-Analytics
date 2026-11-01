@@ -1,0 +1,851 @@
+po_id,vendor_id,requestor_employee_id,department,category,po_date,po_amount_inr,currency,status,description
+PO000001,VEN001,EMP002,Procurement,Professional Services,2023-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000002,VEN001,EMP003,Procurement,Professional Services,2024-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000003,VEN002,EMP004,Procurement,Professional Services,2023-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000004,VEN002,EMP003,Procurement,Professional Services,2024-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000005,VEN003,EMP003,Procurement,Professional Services,2023-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000006,VEN003,EMP001,Procurement,Professional Services,2024-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000007,VEN004,EMP004,Procurement,Professional Services,2023-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000008,VEN004,EMP008,Procurement,Professional Services,2024-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000009,VEN005,EMP005,Procurement,Professional Services,2023-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000010,VEN005,EMP008,Procurement,Professional Services,2024-04-05,576000.48,INR,Approved,Annual professional services retainer
+PO000011,VEN027,EMP004,Operations,Equipment,2023-04-28,23600.00,INR,Approved,Industrial sensor unit
+PO000012,VEN027,EMP002,Operations,Equipment,2023-05-26,36580.00,INR,Approved,Industrial sensor unit
+PO000013,VEN027,EMP003,Operations,Equipment,2023-06-23,14632.00,INR,Approved,Industrial sensor unit
+PO000014,VEN027,EMP007,Operations,Equipment,2023-07-21,40120.00,INR,Approved,Industrial sensor unit
+PO000015,VEN027,EMP003,Operations,Equipment,2023-08-18,13688.00,INR,Approved,Industrial sensor unit
+PO000016,VEN027,EMP005,Operations,Equipment,2023-09-15,34928.00,INR,Approved,Industrial sensor unit
+PO000017,VEN027,EMP002,Operations,Equipment,2023-10-13,16520.00,INR,Approved,Industrial sensor unit
+PO000018,VEN027,EMP001,Operations,Equipment,2023-11-10,38232.00,INR,Approved,Industrial sensor unit
+PO000019,VEN027,EMP004,Operations,Equipment,2023-12-08,22420.00,INR,Approved,Industrial sensor unit
+PO000020,VEN027,EMP002,Operations,Equipment,2024-01-05,33040.00,INR,Approved,Industrial sensor unit
+PO000021,VEN027,EMP005,Operations,Equipment,2023-04-28,23600.00,INR,Approved,Standard sensor unit
+PO000022,VEN027,EMP003,Operations,Equipment,2023-05-26,24072.00,INR,Approved,Standard sensor unit
+PO000023,VEN027,EMP004,Operations,Equipment,2023-06-23,23364.00,INR,Approved,Standard sensor unit
+PO000024,VEN027,EMP006,Operations,Equipment,2023-07-21,23836.00,INR,Approved,Standard sensor unit
+PO000025,VEN027,EMP006,Operations,Equipment,2023-08-18,23128.00,INR,Approved,Standard sensor unit
+PO000026,VEN027,EMP004,Operations,Equipment,2023-09-15,24308.00,INR,Approved,Standard sensor unit
+PO000027,VEN027,EMP007,Operations,Equipment,2023-10-13,23600.00,INR,Approved,Standard sensor unit
+PO000028,VEN027,EMP001,Operations,Equipment,2023-11-10,22892.00,INR,Approved,Standard sensor unit
+PO000029,VEN027,EMP005,Operations,Equipment,2023-12-08,24072.00,INR,Approved,Standard sensor unit
+PO000030,VEN027,EMP005,Operations,Equipment,2024-01-05,23364.00,INR,Approved,Standard sensor unit
+PO000031,VEN028,EMP004,Operations,Equipment,2023-04-28,23600.00,INR,Approved,Industrial sensor unit
+PO000032,VEN028,EMP004,Operations,Equipment,2023-05-26,36580.00,INR,Approved,Industrial sensor unit
+PO000033,VEN028,EMP004,Operations,Equipment,2023-06-23,14632.00,INR,Approved,Industrial sensor unit
+PO000034,VEN028,EMP001,Operations,Equipment,2023-07-21,40120.00,INR,Approved,Industrial sensor unit
+PO000035,VEN028,EMP008,Operations,Equipment,2023-08-18,13688.00,INR,Approved,Industrial sensor unit
+PO000036,VEN028,EMP005,Operations,Equipment,2023-09-15,34928.00,INR,Approved,Industrial sensor unit
+PO000037,VEN028,EMP008,Operations,Equipment,2023-10-13,16520.00,INR,Approved,Industrial sensor unit
+PO000038,VEN028,EMP006,Operations,Equipment,2023-11-10,38232.00,INR,Approved,Industrial sensor unit
+PO000039,VEN028,EMP007,Operations,Equipment,2023-12-08,22420.00,INR,Approved,Industrial sensor unit
+PO000040,VEN028,EMP006,Operations,Equipment,2024-01-05,33040.00,INR,Approved,Industrial sensor unit
+PO000041,VEN028,EMP006,Operations,Equipment,2023-04-28,23600.00,INR,Approved,Standard sensor unit
+PO000042,VEN028,EMP005,Operations,Equipment,2023-05-26,24072.00,INR,Approved,Standard sensor unit
+PO000043,VEN028,EMP008,Operations,Equipment,2023-06-23,23364.00,INR,Approved,Standard sensor unit
+PO000044,VEN028,EMP002,Operations,Equipment,2023-07-21,23836.00,INR,Approved,Standard sensor unit
+PO000045,VEN028,EMP002,Operations,Equipment,2023-08-18,23128.00,INR,Approved,Standard sensor unit
+PO000046,VEN028,EMP007,Operations,Equipment,2023-09-15,24308.00,INR,Approved,Standard sensor unit
+PO000047,VEN028,EMP008,Operations,Equipment,2023-10-13,23600.00,INR,Approved,Standard sensor unit
+PO000048,VEN028,EMP008,Operations,Equipment,2023-11-10,22892.00,INR,Approved,Standard sensor unit
+PO000049,VEN028,EMP001,Operations,Equipment,2023-12-08,24072.00,INR,Approved,Standard sensor unit
+PO000050,VEN028,EMP007,Operations,Equipment,2024-01-05,23364.00,INR,Approved,Standard sensor unit
+PO000051,VEN029,EMP007,Operations,Equipment,2023-04-28,23600.00,INR,Approved,Industrial sensor unit
+PO000052,VEN029,EMP003,Operations,Equipment,2023-05-26,36580.00,INR,Approved,Industrial sensor unit
+PO000053,VEN029,EMP001,Operations,Equipment,2023-06-23,14632.00,INR,Approved,Industrial sensor unit
+PO000054,VEN029,EMP008,Operations,Equipment,2023-07-21,40120.00,INR,Approved,Industrial sensor unit
+PO000055,VEN029,EMP007,Operations,Equipment,2023-08-18,13688.00,INR,Approved,Industrial sensor unit
+PO000056,VEN029,EMP007,Operations,Equipment,2023-09-15,34928.00,INR,Approved,Industrial sensor unit
+PO000057,VEN029,EMP001,Operations,Equipment,2023-10-13,16520.00,INR,Approved,Industrial sensor unit
+PO000058,VEN029,EMP001,Operations,Equipment,2023-11-10,38232.00,INR,Approved,Industrial sensor unit
+PO000059,VEN029,EMP005,Operations,Equipment,2023-12-08,22420.00,INR,Approved,Industrial sensor unit
+PO000060,VEN029,EMP005,Operations,Equipment,2024-01-05,33040.00,INR,Approved,Industrial sensor unit
+PO000061,VEN029,EMP007,Operations,Equipment,2023-04-28,23600.00,INR,Approved,Standard sensor unit
+PO000062,VEN029,EMP007,Operations,Equipment,2023-05-26,24072.00,INR,Approved,Standard sensor unit
+PO000063,VEN029,EMP002,Operations,Equipment,2023-06-23,23364.00,INR,Approved,Standard sensor unit
+PO000064,VEN029,EMP001,Operations,Equipment,2023-07-21,23836.00,INR,Approved,Standard sensor unit
+PO000065,VEN029,EMP008,Operations,Equipment,2023-08-18,23128.00,INR,Approved,Standard sensor unit
+PO000066,VEN029,EMP005,Operations,Equipment,2023-09-15,24308.00,INR,Approved,Standard sensor unit
+PO000067,VEN029,EMP005,Operations,Equipment,2023-10-13,23600.00,INR,Approved,Standard sensor unit
+PO000068,VEN029,EMP002,Operations,Equipment,2023-11-10,22892.00,INR,Approved,Standard sensor unit
+PO000069,VEN029,EMP006,Operations,Equipment,2023-12-08,24072.00,INR,Approved,Standard sensor unit
+PO000070,VEN029,EMP003,Operations,Equipment,2024-01-05,23364.00,INR,Approved,Standard sensor unit
+PO000071,VEN030,EMP002,Operations,Logistics,2023-04-28,21240.00,INR,Approved,Seasonal linehaul
+PO000072,VEN030,EMP005,Operations,Logistics,2023-05-26,22184.00,INR,Approved,Seasonal linehaul
+PO000073,VEN030,EMP007,Operations,Logistics,2023-06-23,23128.00,INR,Approved,Seasonal linehaul
+PO000074,VEN030,EMP007,Operations,Logistics,2023-07-21,24072.00,INR,Approved,Seasonal linehaul
+PO000075,VEN030,EMP002,Operations,Logistics,2023-08-18,25016.00,INR,Approved,Seasonal linehaul
+PO000076,VEN030,EMP005,Operations,Logistics,2023-09-15,25960.00,INR,Approved,Seasonal linehaul
+PO000077,VEN030,EMP005,Operations,Logistics,2023-10-13,25488.00,INR,Approved,Seasonal linehaul
+PO000078,VEN030,EMP003,Operations,Logistics,2023-11-10,23600.00,INR,Approved,Seasonal linehaul
+PO000079,VEN030,EMP008,Operations,Logistics,2023-12-08,22656.00,INR,Approved,Seasonal linehaul
+PO000080,VEN030,EMP004,Operations,Logistics,2024-01-05,21712.00,INR,Approved,Seasonal linehaul
+PO000081,VEN037,EMP004,Procurement,IT Services,2023-05-27,14750.00,INR,Approved,Software subscription seat
+PO000082,VEN038,EMP002,Procurement,Office Supplies,2023-07-06,14750.00,INR,Approved,Software subscription seat
+PO000083,VEN039,EMP002,Procurement,Facilities Management,2023-08-15,14750.00,INR,Approved,Software subscription seat
+PO000084,VEN040,EMP001,Procurement,Professional Services,2023-09-24,14750.00,INR,Approved,Software subscription seat
+PO000085,VEN041,EMP004,Procurement,Logistics,2023-11-03,14750.00,INR,Approved,Software subscription seat
+PO000086,VEN042,EMP004,Procurement,Marketing Services,2023-12-13,14750.00,INR,Approved,Software subscription seat
+PO000087,VEN043,EMP004,Procurement,Utilities,2024-01-22,14750.00,INR,Approved,Software subscription seat
+PO000088,VEN044,EMP007,Procurement,Equipment,2024-03-02,14750.00,INR,Approved,Software subscription seat
+PO000089,VEN045,EMP005,Procurement,IT Services,2024-04-11,14750.00,INR,Approved,Software subscription seat
+PO000090,VEN046,EMP008,Procurement,Office Supplies,2024-05-21,14750.00,INR,Approved,Software subscription seat
+PO000091,VEN047,EMP004,Procurement,Facilities Management,2024-06-30,14750.00,INR,Approved,Software subscription seat
+PO000092,VEN048,EMP002,Procurement,Professional Services,2024-08-09,14750.00,INR,Approved,Software subscription seat
+PO000093,VEN049,EMP005,Procurement,Logistics,2024-09-18,14750.00,INR,Approved,Software subscription seat
+PO000094,VEN050,EMP005,Procurement,Marketing Services,2024-10-28,14750.00,INR,Approved,Software subscription seat
+PO000095,VEN051,EMP006,Procurement,Utilities,2024-12-07,14750.00,INR,Approved,Software subscription seat
+PO000096,VEN052,EMP005,Procurement,Equipment,2023-06-29,49560.00,INR,Approved,Printer consumables
+PO000097,VEN052,EMP007,Procurement,Equipment,2023-06-30,49560.00,INR,Approved,Printer consumables
+PO000098,VEN053,EMP002,Procurement,IT Services,2023-08-05,51625.00,INR,Approved,Printer consumables
+PO000099,VEN053,EMP006,Procurement,IT Services,2023-08-06,51625.00,INR,Approved,Printer consumables
+PO000100,VEN054,EMP008,Procurement,Office Supplies,2023-09-11,53690.00,INR,Approved,Printer consumables
+PO000101,VEN054,EMP006,Procurement,Office Supplies,2023-09-12,53690.00,INR,Approved,Printer consumables
+PO000102,VEN055,EMP002,Procurement,Facilities Management,2023-10-18,55755.00,INR,Approved,Printer consumables
+PO000103,VEN055,EMP005,Procurement,Facilities Management,2023-10-19,55755.00,INR,Approved,Printer consumables
+PO000104,VEN056,EMP003,Procurement,Professional Services,2023-11-24,57820.00,INR,Approved,Printer consumables
+PO000105,VEN056,EMP003,Procurement,Professional Services,2023-11-25,57820.00,INR,Approved,Printer consumables
+PO000106,VEN057,EMP004,Procurement,Logistics,2023-12-31,59885.00,INR,Approved,Printer consumables
+PO000107,VEN057,EMP001,Procurement,Logistics,2024-01-01,59885.00,INR,Approved,Printer consumables
+PO000108,VEN058,EMP007,Procurement,Marketing Services,2024-02-06,61950.00,INR,Approved,Printer consumables
+PO000109,VEN058,EMP001,Procurement,Marketing Services,2024-02-07,61950.00,INR,Approved,Printer consumables
+PO000110,VEN059,EMP005,Procurement,Utilities,2024-03-14,64015.00,INR,Approved,Printer consumables
+PO000111,VEN059,EMP002,Procurement,Utilities,2024-03-15,64015.00,INR,Approved,Printer consumables
+PO000112,VEN031,EMP001,Procurement,Logistics,2023-08-01,42480.00,INR,Approved,Domestic freight
+PO000113,VEN031,EMP001,Procurement,Logistics,2023-08-04,42649.92,INR,Approved,Domestic freight
+PO000114,VEN032,EMP006,Procurement,Logistics,2023-09-03,43990.40,INR,Approved,Domestic freight
+PO000115,VEN032,EMP003,Procurement,Logistics,2023-09-06,44166.36,INR,Approved,Domestic freight
+PO000116,VEN033,EMP002,Procurement,Logistics,2023-10-06,45500.80,INR,Approved,Domestic freight
+PO000117,VEN033,EMP001,Procurement,Logistics,2023-10-09,45682.80,INR,Approved,Domestic freight
+PO000118,VEN034,EMP005,Procurement,Logistics,2023-11-08,47011.20,INR,Approved,Domestic freight
+PO000119,VEN034,EMP008,Procurement,Logistics,2023-11-11,47199.24,INR,Approved,Domestic freight
+PO000120,VEN006,EMP004,Procurement,Office Supplies,2023-12-11,48521.60,INR,Approved,Domestic freight
+PO000121,VEN006,EMP006,Procurement,Office Supplies,2023-12-14,48715.69,INR,Approved,Domestic freight
+PO000122,VEN007,EMP007,Procurement,Office Supplies,2024-01-13,50032.00,INR,Approved,Domestic freight
+PO000123,VEN007,EMP006,Procurement,Office Supplies,2024-01-16,50232.13,INR,Approved,Domestic freight
+PO000124,VEN008,EMP006,Procurement,Office Supplies,2024-02-15,51542.40,INR,Approved,Domestic freight
+PO000125,VEN008,EMP005,Procurement,Office Supplies,2024-02-18,51748.57,INR,Approved,Domestic freight
+PO000126,VEN009,EMP006,Procurement,Office Supplies,2024-03-19,53052.80,INR,Approved,Domestic freight
+PO000127,VEN009,EMP007,Procurement,Office Supplies,2024-03-22,53265.01,INR,Approved,Domestic freight
+PO000128,VEN010,EMP008,Procurement,Office Supplies,2024-04-21,54563.20,INR,Approved,Domestic freight
+PO000129,VEN010,EMP007,Procurement,Office Supplies,2024-04-24,54781.45,INR,Approved,Domestic freight
+PO000130,VEN011,EMP006,Procurement,Office Supplies,2024-05-24,56073.60,INR,Approved,Domestic freight
+PO000131,VEN011,EMP004,Procurement,Office Supplies,2024-05-27,56297.89,INR,Approved,Domestic freight
+PO000132,VEN006,EMP003,Procurement,Office Supplies,2024-01-04,15930.00,INR,Approved,Office stationery kit
+PO000133,VEN006,EMP007,Procurement,Office Supplies,2024-01-06,15930.00,INR,Approved,Office stationery kit
+PO000134,VEN007,EMP004,Procurement,Office Supplies,2024-02-01,15930.00,INR,Approved,Office stationery kit
+PO000135,VEN007,EMP002,Procurement,Office Supplies,2024-02-03,15930.00,INR,Approved,Office stationery kit
+PO000136,VEN008,EMP002,Procurement,Office Supplies,2024-02-29,15930.00,INR,Approved,Office stationery kit
+PO000137,VEN008,EMP001,Procurement,Office Supplies,2024-03-02,15930.00,INR,Approved,Office stationery kit
+PO000138,VEN009,EMP002,Procurement,Office Supplies,2024-03-28,15930.00,INR,Approved,Office stationery kit
+PO000139,VEN009,EMP004,Procurement,Office Supplies,2024-03-30,15930.00,INR,Approved,Office stationery kit
+PO000140,VEN010,EMP006,Procurement,Office Supplies,2024-05-09,8496.00,INR,Approved,Paper and packaging
+PO000141,VEN010,EMP001,Procurement,Office Supplies,2024-05-11,11469.60,INR,Approved,Paper and packaging
+PO000142,VEN011,EMP007,Procurement,Office Supplies,2024-06-03,8496.00,INR,Approved,Paper and packaging
+PO000143,VEN011,EMP006,Procurement,Office Supplies,2024-06-05,11469.60,INR,Approved,Paper and packaging
+PO000144,VEN037,EMP004,Procurement,IT Services,2024-02-06,51920.00,INR,Approved,Print collateral
+PO000145,VEN037,EMP007,Procurement,IT Services,2024-02-07,51920.00,INR,Approved,Print collateral
+PO000146,VEN038,EMP006,Procurement,Office Supplies,2024-03-04,53100.00,INR,Approved,Print collateral
+PO000147,VEN038,EMP005,Procurement,Office Supplies,2024-03-05,53100.00,INR,Approved,Print collateral
+PO000148,VEN039,EMP008,Procurement,Facilities Management,2024-03-31,54280.00,INR,Approved,Print collateral
+PO000149,VEN039,EMP004,Procurement,Facilities Management,2024-04-01,54280.00,INR,Approved,Print collateral
+PO000150,VEN040,EMP006,Procurement,Professional Services,2024-04-27,55460.00,INR,Approved,Print collateral
+PO000151,VEN040,EMP005,Procurement,Professional Services,2024-04-28,55460.00,INR,Approved,Print collateral
+PO000152,VEN041,EMP003,Procurement,Logistics,2024-05-24,56640.00,INR,Approved,Print collateral
+PO000153,VEN041,EMP007,Procurement,Logistics,2024-05-25,56640.00,INR,Approved,Print collateral
+PO000154,VEN042,EMP005,Procurement,Marketing Services,2024-06-20,57820.00,INR,Approved,Print collateral
+PO000155,VEN042,EMP005,Procurement,Marketing Services,2024-06-21,57820.00,INR,Approved,Print collateral
+PO000156,VEN043,EMP001,Procurement,Utilities,2024-07-17,59000.00,INR,Approved,Print collateral
+PO000157,VEN043,EMP008,Procurement,Utilities,2024-07-18,59000.00,INR,Approved,Print collateral
+PO000158,VEN044,EMP004,Procurement,Equipment,2024-08-13,60180.00,INR,Approved,Print collateral
+PO000159,VEN044,EMP003,Procurement,Equipment,2024-08-14,60180.00,INR,Approved,Print collateral
+PO000160,VEN012,EMP080,Facilities,Facilities Management,2023-06-02,166000.00,INR,Approved,Facilities maintenance call-off
+PO000161,VEN012,EMP076,Facilities,Facilities Management,2023-06-06,172000.00,INR,Approved,Facilities maintenance call-off
+PO000162,VEN012,EMP086,Facilities,Facilities Management,2023-06-10,178000.00,INR,Approved,Facilities maintenance call-off
+PO000163,VEN013,EMP080,Facilities,Facilities Management,2023-07-18,166000.00,INR,Approved,Facilities maintenance call-off
+PO000164,VEN013,EMP084,Facilities,Facilities Management,2023-07-22,172000.00,INR,Approved,Facilities maintenance call-off
+PO000165,VEN013,EMP080,Facilities,Facilities Management,2023-07-26,178000.00,INR,Approved,Facilities maintenance call-off
+PO000166,VEN014,EMP083,Facilities,Facilities Management,2023-09-02,166000.00,INR,Approved,Facilities maintenance call-off
+PO000167,VEN014,EMP090,Facilities,Facilities Management,2023-09-06,172000.00,INR,Approved,Facilities maintenance call-off
+PO000168,VEN014,EMP089,Facilities,Facilities Management,2023-09-10,178000.00,INR,Approved,Facilities maintenance call-off
+PO000169,VEN015,EMP087,Facilities,Facilities Management,2023-10-18,166000.00,INR,Approved,Facilities maintenance call-off
+PO000170,VEN015,EMP083,Facilities,Facilities Management,2023-10-22,172000.00,INR,Approved,Facilities maintenance call-off
+PO000171,VEN015,EMP090,Facilities,Facilities Management,2023-10-26,178000.00,INR,Approved,Facilities maintenance call-off
+PO000172,VEN016,EMP082,Facilities,Facilities Management,2023-12-03,166000.00,INR,Approved,Facilities maintenance call-off
+PO000173,VEN016,EMP077,Facilities,Facilities Management,2023-12-07,172000.00,INR,Approved,Facilities maintenance call-off
+PO000174,VEN016,EMP088,Facilities,Facilities Management,2023-12-11,178000.00,INR,Approved,Facilities maintenance call-off
+PO000175,VEN017,EMP084,Facilities,Facilities Management,2024-01-18,166000.00,INR,Approved,Facilities maintenance call-off
+PO000176,VEN017,EMP082,Facilities,Facilities Management,2024-01-22,172000.00,INR,Approved,Facilities maintenance call-off
+PO000177,VEN017,EMP090,Facilities,Facilities Management,2024-01-26,178000.00,INR,Approved,Facilities maintenance call-off
+PO000178,VEN018,EMP088,Facilities,Facilities Management,2024-03-04,166000.00,INR,Approved,Facilities maintenance call-off
+PO000179,VEN018,EMP087,Facilities,Facilities Management,2024-03-08,172000.00,INR,Approved,Facilities maintenance call-off
+PO000180,VEN018,EMP076,Facilities,Facilities Management,2024-03-12,178000.00,INR,Approved,Facilities maintenance call-off
+PO000181,VEN019,EMP076,Facilities,Facilities Management,2024-06-03,162000.00,INR,Approved,Approved facilities programme split
+PO000182,VEN019,EMP090,Facilities,Facilities Management,2024-06-06,168000.00,INR,Approved,Approved facilities programme split
+PO000183,VEN019,EMP090,Facilities,Facilities Management,2024-06-09,174000.00,INR,Approved,Approved facilities programme split
+PO000184,VEN020,EMP080,Facilities,Facilities Management,2024-07-13,162000.00,INR,Approved,Approved facilities programme split
+PO000185,VEN020,EMP082,Facilities,Facilities Management,2024-07-16,168000.00,INR,Approved,Approved facilities programme split
+PO000186,VEN020,EMP085,Facilities,Facilities Management,2024-07-19,174000.00,INR,Approved,Approved facilities programme split
+PO000187,VEN021,EMP084,Facilities,Facilities Management,2024-08-22,162000.00,INR,Approved,Approved facilities programme split
+PO000188,VEN021,EMP079,Facilities,Facilities Management,2024-08-25,168000.00,INR,Approved,Approved facilities programme split
+PO000189,VEN021,EMP088,Facilities,Facilities Management,2024-08-28,174000.00,INR,Approved,Approved facilities programme split
+PO000190,VEN022,EMP076,Facilities,Facilities Management,2024-10-01,162000.00,INR,Approved,Approved facilities programme split
+PO000191,VEN022,EMP076,Facilities,Facilities Management,2024-10-04,168000.00,INR,Approved,Approved facilities programme split
+PO000192,VEN022,EMP089,Facilities,Facilities Management,2024-10-07,174000.00,INR,Approved,Approved facilities programme split
+PO000193,VEN023,EMP041,Operations,Equipment,2023-09-05,181000.00,INR,Approved,Equipment replenishment
+PO000194,VEN023,EMP031,Operations,Equipment,2023-09-25,189500.00,INR,Approved,Equipment replenishment
+PO000195,VEN023,EMP042,Operations,Equipment,2023-10-15,197000.00,INR,Approved,Equipment replenishment
+PO000196,VEN024,EMP036,Operations,Equipment,2023-10-25,181000.00,INR,Approved,Equipment replenishment
+PO000197,VEN024,EMP034,Operations,Equipment,2023-11-14,189500.00,INR,Approved,Equipment replenishment
+PO000198,VEN024,EMP034,Operations,Equipment,2023-12-04,197000.00,INR,Approved,Equipment replenishment
+PO000199,VEN025,EMP031,Operations,Equipment,2023-12-14,181000.00,INR,Approved,Equipment replenishment
+PO000200,VEN025,EMP034,Operations,Equipment,2024-01-03,189500.00,INR,Approved,Equipment replenishment
+PO000201,VEN025,EMP031,Operations,Equipment,2024-01-23,197000.00,INR,Approved,Equipment replenishment
+PO000202,VEN026,EMP041,Operations,Equipment,2024-02-02,181000.00,INR,Approved,Equipment replenishment
+PO000203,VEN026,EMP041,Operations,Equipment,2024-02-22,189500.00,INR,Approved,Equipment replenishment
+PO000204,VEN026,EMP037,Operations,Equipment,2024-03-13,197000.00,INR,Approved,Equipment replenishment
+PO000205,VEN045,EMP066,Human Resources,IT Services,2024-08-01,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000206,VEN046,EMP074,Human Resources,Office Supplies,2024-08-13,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000207,VEN047,EMP069,Human Resources,Facilities Management,2024-08-25,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000208,VEN048,EMP062,Human Resources,Professional Services,2024-09-06,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000209,VEN049,EMP074,Human Resources,Logistics,2024-09-18,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000210,VEN050,EMP071,Human Resources,Marketing Services,2024-09-30,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000211,VEN051,EMP066,Human Resources,Utilities,2024-10-12,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000212,VEN052,EMP067,Human Resources,Equipment,2024-10-24,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000213,VEN053,EMP075,Human Resources,IT Services,2024-11-05,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000214,VEN054,EMP072,Human Resources,Office Supplies,2024-11-17,186000.00,INR,Approved,Single near-threshold equipment purchase
+PO000215,VEN037,EMP002,Procurement,Office Supplies,2023-10-02,80000.00,INR,Approved,Purchase without an approval record
+PO000216,VEN038,EMP002,Procurement,Office Supplies,2023-10-20,81500.00,INR,Approved,Purchase without an approval record
+PO000217,VEN039,EMP006,Procurement,Office Supplies,2023-11-07,83000.00,INR,Approved,Purchase without an approval record
+PO000218,VEN040,EMP001,Procurement,Office Supplies,2023-11-25,84500.00,INR,Approved,Purchase without an approval record
+PO000219,VEN041,EMP008,Procurement,Office Supplies,2023-12-13,86000.00,INR,Approved,Purchase without an approval record
+PO000220,VEN042,EMP003,Procurement,Office Supplies,2023-12-31,87500.00,INR,Approved,Purchase without an approval record
+PO000221,VEN043,EMP003,Procurement,Office Supplies,2024-01-18,89000.00,INR,Approved,Purchase without an approval record
+PO000222,VEN044,EMP003,Procurement,Office Supplies,2024-02-05,90500.01,INR,Approved,Purchase without an approval record
+PO000223,VEN045,EMP001,Procurement,Office Supplies,2024-02-23,92000.00,INR,Approved,Purchase without an approval record
+PO000224,VEN046,EMP008,Procurement,Office Supplies,2024-03-12,93500.00,INR,Approved,Purchase without an approval record
+PO000225,VEN040,EMP002,Procurement,Professional Services,2024-03-04,94999.99,INR,Approved,Purchase approved by the requestor
+PO000226,VEN041,EMP003,Procurement,Professional Services,2024-03-24,96200.00,INR,Approved,Purchase approved by the requestor
+PO000227,VEN042,EMP004,Procurement,Professional Services,2024-04-13,97400.00,INR,Approved,Purchase approved by the requestor
+PO000228,VEN043,EMP002,Procurement,Professional Services,2024-05-03,98600.00,INR,Approved,Purchase approved by the requestor
+PO000229,VEN044,EMP003,Procurement,Professional Services,2024-05-23,99800.00,INR,Approved,Purchase approved by the requestor
+PO000230,VEN045,EMP004,Procurement,Professional Services,2024-06-12,101000.00,INR,Approved,Purchase approved by the requestor
+PO000231,VEN042,EMP029,Finance,IT Services,2024-07-08,350000.00,INR,Approved,Purchase approved below delegated authority
+PO000232,VEN043,EMP024,Finance,IT Services,2024-07-24,358000.00,INR,Approved,Purchase approved below delegated authority
+PO000233,VEN044,EMP029,Finance,IT Services,2024-08-09,366000.00,INR,Approved,Purchase approved below delegated authority
+PO000234,VEN045,EMP030,Finance,IT Services,2024-08-25,374000.00,INR,Approved,Purchase approved below delegated authority
+PO000235,VEN046,EMP024,Finance,IT Services,2024-09-10,382000.00,INR,Approved,Purchase approved below delegated authority
+PO000236,VEN047,EMP016,Finance,IT Services,2024-09-26,389999.99,INR,Approved,Purchase approved below delegated authority
+PO000237,VEN048,EMP019,Finance,IT Services,2024-10-12,398000.01,INR,Approved,Purchase approved below delegated authority
+PO000238,VEN049,EMP018,Finance,IT Services,2024-10-28,406000.00,INR,Approved,Purchase approved below delegated authority
+PO000239,VEN048,EMP104,Marketing,Professional Services,2024-09-02,64000.00,INR,Approved,Campaign invoice exceeds purchase order
+PO000240,VEN049,EMP091,Marketing,Logistics,2024-09-12,65500.00,INR,Approved,Campaign invoice exceeds purchase order
+PO000241,VEN050,EMP102,Marketing,Marketing Services,2024-09-22,67000.00,INR,Approved,Campaign invoice exceeds purchase order
+PO000242,VEN051,EMP100,Marketing,Utilities,2024-10-02,68500.00,INR,Approved,Campaign invoice exceeds purchase order
+PO000243,VEN052,EMP098,Marketing,Equipment,2024-10-12,70000.00,INR,Approved,Campaign invoice exceeds purchase order
+PO000244,VEN053,EMP099,Marketing,IT Services,2024-10-22,71500.00,INR,Approved,Campaign invoice exceeds purchase order
+PO000245,VEN054,EMP103,Marketing,Office Supplies,2024-11-01,73000.00,INR,Approved,Campaign invoice exceeds purchase order
+PO000246,VEN055,EMP095,Marketing,Facilities Management,2024-11-11,74500.00,INR,Approved,Campaign invoice exceeds purchase order
+PO000247,VEN047,EMP027,Finance,Facilities Management,2024-05-15,185812.92,INR,Pending,Facilities Management purchase
+PO000248,VEN010,EMP004,Procurement,Office Supplies,2024-06-20,69304.11,INR,Approved,Office Supplies purchase
+PO000249,VEN008,EMP046,Information Technology,Office Supplies,2024-10-20,19969.14,INR,Approved,Office Supplies purchase
+PO000250,VEN006,EMP038,Operations,Office Supplies,2024-03-23,4096.12,INR,Approved,Office Supplies purchase
+PO000251,VEN056,EMP020,Finance,Professional Services,2024-09-25,189514.32,INR,Approved,Professional Services purchase
+PO000252,VEN048,EMP092,Marketing,Professional Services,2024-09-23,213073.80,INR,Approved,Professional Services purchase
+PO000253,VEN010,EMP027,Finance,Office Supplies,2025-01-15,13234.18,INR,Closed,Office Supplies purchase
+PO000254,VEN031,EMP070,Human Resources,Logistics,2024-11-05,73701.19,INR,Approved,Logistics purchase
+PO000255,VEN055,EMP100,Marketing,Facilities Management,2024-12-02,174286.85,INR,Approved,Facilities Management purchase
+PO000256,VEN050,EMP018,Finance,Marketing Services,2024-10-19,104448.72,INR,Approved,Marketing Services purchase
+PO000257,VEN032,EMP006,Procurement,Logistics,2023-10-14,57000.34,INR,Approved,Logistics purchase
+PO000258,VEN046,EMP029,Finance,Office Supplies,2024-12-10,12904.29,INR,Approved,Office Supplies purchase
+PO000259,VEN009,EMP021,Finance,Office Supplies,2024-02-01,70422.40,INR,Approved,Office Supplies purchase
+PO000260,VEN010,EMP030,Finance,Office Supplies,2025-02-12,5240.86,INR,Approved,Office Supplies purchase
+PO000261,VEN031,EMP060,Information Technology,Logistics,2024-04-12,12615.10,INR,Approved,Logistics purchase
+PO000262,VEN010,EMP091,Marketing,Office Supplies,2025-01-20,11022.73,INR,Approved,Office Supplies purchase
+PO000263,VEN034,EMP111,Legal,Logistics,2024-07-03,87809.42,INR,Approved,Logistics purchase
+PO000264,VEN048,EMP031,Operations,Professional Services,2024-01-14,215207.64,INR,Approved,Professional Services purchase
+PO000265,VEN057,EMP034,Operations,Logistics,2024-03-15,27984.38,INR,Approved,Logistics purchase
+PO000266,VEN009,EMP110,Legal,Office Supplies,2023-06-20,8820.86,INR,Approved,Office Supplies purchase
+PO000267,VEN031,EMP039,Operations,Logistics,2023-09-10,21073.05,INR,Approved,Logistics purchase
+PO000268,VEN034,EMP062,Human Resources,Logistics,2024-09-19,11714.90,INR,Approved,Logistics purchase
+PO000269,VEN007,EMP003,Procurement,Office Supplies,2024-03-02,5368.54,INR,Approved,Office Supplies purchase
+PO000270,VEN031,EMP061,Human Resources,Logistics,2024-12-06,11234.73,INR,Approved,Logistics purchase
+PO000271,VEN006,EMP067,Human Resources,Office Supplies,2024-11-24,16250.44,INR,Pending,Office Supplies purchase
+PO000272,VEN049,EMP104,Marketing,Logistics,2024-10-03,86725.23,INR,Approved,Logistics purchase
+PO000273,VEN045,EMP102,Marketing,IT Services,2024-11-18,78173.05,INR,Closed,IT Services purchase
+PO000274,VEN007,EMP080,Facilities,Office Supplies,2024-11-01,44550.88,INR,Approved,Office Supplies purchase
+PO000275,VEN008,EMP072,Human Resources,Office Supplies,2025-03-27,20800.19,INR,Approved,Office Supplies purchase
+PO000276,VEN007,EMP082,Facilities,Office Supplies,2024-12-06,65546.60,INR,Approved,Office Supplies purchase
+PO000277,VEN009,EMP042,Operations,Office Supplies,2025-01-12,33420.41,INR,Approved,Office Supplies purchase
+PO000278,VEN032,EMP071,Human Resources,Logistics,2023-07-19,85644.82,INR,Approved,Logistics purchase
+PO000279,VEN010,EMP028,Finance,Office Supplies,2025-03-18,20489.57,INR,Approved,Office Supplies purchase
+PO000280,VEN031,EMP033,Operations,Logistics,2023-10-16,34328.58,INR,Closed,Logistics purchase
+PO000281,VEN006,EMP037,Operations,Office Supplies,2024-04-25,71672.35,INR,Approved,Office Supplies purchase
+PO000282,VEN011,EMP063,Human Resources,Office Supplies,2024-01-18,8448.89,INR,Approved,Office Supplies purchase
+PO000283,VEN031,EMP034,Operations,Logistics,2023-11-22,86359.01,INR,Approved,Logistics purchase
+PO000284,VEN011,EMP082,Facilities,Office Supplies,2023-09-23,69918.68,INR,Approved,Office Supplies purchase
+PO000285,VEN039,EMP042,Operations,Facilities Management,2024-02-27,411000.73,INR,Approved,Facilities Management purchase
+PO000286,VEN043,EMP060,Information Technology,Utilities,2024-02-24,20578.92,INR,Approved,Utilities purchase
+PO000287,VEN045,EMP026,Finance,IT Services,2024-09-20,25835.88,INR,Approved,IT Services purchase
+PO000288,VEN011,EMP090,Facilities,Office Supplies,2023-10-14,41283.48,INR,Approved,Office Supplies purchase
+PO000289,VEN010,EMP105,Marketing,Office Supplies,2025-02-17,9870.87,INR,Approved,Office Supplies purchase
+PO000290,VEN052,EMP029,Finance,Equipment,2024-05-21,35698.12,INR,Approved,Equipment purchase
+PO000291,VEN007,EMP001,Procurement,Office Supplies,2024-03-27,65483.39,INR,Approved,Office Supplies purchase
+PO000292,VEN034,EMP069,Human Resources,Logistics,2024-10-20,22438.90,INR,Approved,Logistics purchase
+PO000293,VEN055,EMP034,Operations,Facilities Management,2024-01-26,42275.48,INR,Approved,Facilities Management purchase
+PO000294,VEN056,EMP018,Finance,Professional Services,2024-10-19,442212.66,INR,Rejected,Professional Services purchase
+PO000295,VEN034,EMP025,Finance,Logistics,2025-03-23,43464.64,INR,Closed,Logistics purchase
+PO000296,VEN009,EMP036,Operations,Office Supplies,2025-02-16,28511.03,INR,Approved,Office Supplies purchase
+PO000297,VEN006,EMP065,Human Resources,Office Supplies,2024-12-15,9638.48,INR,Approved,Office Supplies purchase
+PO000298,VEN044,EMP065,Human Resources,Equipment,2023-07-28,29299.61,INR,Approved,Equipment purchase
+PO000299,VEN037,EMP029,Finance,IT Services,2024-06-11,53662.13,INR,Closed,IT Services purchase
+PO000300,VEN049,EMP052,Information Technology,Logistics,2023-08-21,81006.74,INR,Approved,Logistics purchase
+PO000301,VEN057,EMP031,Operations,Logistics,2024-04-09,93611.58,INR,Approved,Logistics purchase
+PO000302,VEN007,EMP056,Information Technology,Office Supplies,2023-06-29,33539.92,INR,Approved,Office Supplies purchase
+PO000303,VEN042,EMP073,Human Resources,Marketing Services,2025-01-29,433951.52,INR,Approved,Marketing Services purchase
+PO000304,VEN055,EMP024,Finance,Facilities Management,2023-08-20,66299.06,INR,Approved,Facilities Management purchase
+PO000305,VEN008,EMP050,Information Technology,Office Supplies,2024-11-25,56434.60,INR,Approved,Office Supplies purchase
+PO000306,VEN046,EMP072,Human Resources,Office Supplies,2024-09-17,13161.37,INR,Approved,Office Supplies purchase
+PO000307,VEN034,EMP008,Procurement,Logistics,2023-12-15,49677.06,INR,Approved,Logistics purchase
+PO000308,VEN007,EMP006,Procurement,Office Supplies,2024-05-05,10477.43,INR,Approved,Office Supplies purchase
+PO000309,VEN011,EMP116,Legal,Office Supplies,2025-01-02,5276.28,INR,Approved,Office Supplies purchase
+PO000310,VEN011,EMP093,Marketing,Office Supplies,2024-12-13,43023.06,INR,Approved,Office Supplies purchase
+PO000311,VEN059,EMP098,Marketing,Utilities,2024-04-04,9731.22,INR,Approved,Utilities purchase
+PO000312,VEN011,EMP008,Procurement,Office Supplies,2024-07-01,32725.93,INR,Approved,Office Supplies purchase
+PO000313,VEN011,EMP061,Human Resources,Office Supplies,2024-02-10,16672.22,INR,Approved,Office Supplies purchase
+PO000314,VEN031,EMP030,Finance,Logistics,2024-11-12,22273.28,INR,Approved,Logistics purchase
+PO000315,VEN058,EMP120,Legal,Marketing Services,2024-03-15,114645.52,INR,Approved,Marketing Services purchase
+PO000316,VEN033,EMP116,Legal,Logistics,2023-07-23,181079.88,INR,Approved,Logistics purchase
+PO000317,VEN048,EMP107,Legal,Professional Services,2023-08-25,312452.91,INR,Approved,Professional Services purchase
+PO000318,VEN011,EMP057,Information Technology,Office Supplies,2024-05-02,75562.58,INR,Approved,Office Supplies purchase
+PO000319,VEN010,EMP097,Marketing,Office Supplies,2025-03-24,4407.61,INR,Approved,Office Supplies purchase
+PO000320,VEN007,EMP104,Marketing,Office Supplies,2025-03-15,5475.91,INR,Approved,Office Supplies purchase
+PO000321,VEN011,EMP028,Finance,Office Supplies,2024-04-05,5111.37,INR,Pending,Office Supplies purchase
+PO000322,VEN031,EMP033,Operations,Logistics,2023-12-28,42038.66,INR,Approved,Logistics purchase
+PO000323,VEN010,EMP030,Finance,Office Supplies,2023-04-04,19115.82,INR,Approved,Office Supplies purchase
+PO000324,VEN051,EMP025,Finance,Utilities,2024-09-08,15628.46,INR,Approved,Utilities purchase
+PO000325,VEN009,EMP110,Legal,Office Supplies,2023-07-19,40099.61,INR,Approved,Office Supplies purchase
+PO000326,VEN008,EMP098,Marketing,Office Supplies,2023-12-26,9287.59,INR,Approved,Office Supplies purchase
+PO000327,VEN009,EMP080,Facilities,Office Supplies,2023-10-17,10920.36,INR,Approved,Office Supplies purchase
+PO000328,VEN033,EMP021,Finance,Logistics,2024-10-01,21721.37,INR,Approved,Logistics purchase
+PO000329,VEN041,EMP022,Finance,Logistics,2024-10-23,21696.19,INR,Approved,Logistics purchase
+PO000330,VEN007,EMP027,Finance,Office Supplies,2025-01-25,33430.46,INR,Approved,Office Supplies purchase
+PO000331,VEN010,EMP038,Operations,Office Supplies,2024-03-29,17586.49,INR,Rejected,Office Supplies purchase
+PO000332,VEN007,EMP057,Information Technology,Office Supplies,2023-08-06,372935.38,INR,Approved,Office Supplies purchase
+PO000333,VEN041,EMP072,Human Resources,Logistics,2024-03-14,84047.06,INR,Approved,Logistics purchase
+PO000334,VEN010,EMP119,Legal,Office Supplies,2024-08-01,13175.77,INR,Approved,Office Supplies purchase
+PO000335,VEN009,EMP027,Finance,Office Supplies,2024-02-25,9281.15,INR,Pending,Office Supplies purchase
+PO000336,VEN033,EMP044,Operations,Logistics,2025-02-02,23481.86,INR,Approved,Logistics purchase
+PO000337,VEN008,EMP087,Facilities,Office Supplies,2023-10-02,25414.50,INR,Approved,Office Supplies purchase
+PO000338,VEN032,EMP073,Human Resources,Logistics,2023-08-23,27174.44,INR,Approved,Logistics purchase
+PO000339,VEN011,EMP070,Human Resources,Office Supplies,2024-03-14,19603.22,INR,Approved,Office Supplies purchase
+PO000340,VEN044,EMP018,Finance,Equipment,2023-08-06,492735.62,INR,Approved,Equipment purchase
+PO000341,VEN031,EMP064,Human Resources,Logistics,2025-01-04,115351.94,INR,Approved,Logistics purchase
+PO000342,VEN007,EMP099,Marketing,Office Supplies,2023-04-26,27658.73,INR,Closed,Office Supplies purchase
+PO000343,VEN043,EMP082,Facilities,Utilities,2025-03-13,61731.02,INR,Approved,Utilities purchase
+PO000344,VEN051,EMP090,Facilities,Utilities,2024-04-04,39957.16,INR,Approved,Utilities purchase
+PO000345,VEN009,EMP116,Legal,Office Supplies,2023-08-09,35543.04,INR,Approved,Office Supplies purchase
+PO000346,VEN007,EMP004,Procurement,Office Supplies,2024-05-31,409626.18,INR,Rejected,Office Supplies purchase
+PO000347,VEN032,EMP095,Marketing,Logistics,2023-11-07,84003.21,INR,Approved,Logistics purchase
+PO000348,VEN006,EMP046,Information Technology,Office Supplies,2024-03-12,36578.68,INR,Approved,Office Supplies purchase
+PO000349,VEN052,EMP022,Finance,Equipment,2024-06-25,240280.00,INR,Approved,Equipment purchase
+PO000350,VEN043,EMP076,Facilities,Utilities,2023-04-23,18074.80,INR,Approved,Utilities purchase
+PO000351,VEN044,EMP030,Finance,Equipment,2023-09-01,17917.12,INR,Approved,Equipment purchase
+PO000352,VEN041,EMP001,Procurement,Logistics,2024-06-16,22743.15,INR,Approved,Logistics purchase
+PO000353,VEN007,EMP051,Information Technology,Office Supplies,2023-09-10,9333.81,INR,Approved,Office Supplies purchase
+PO000354,VEN056,EMP087,Facilities,Professional Services,2024-12-17,291723.12,INR,Approved,Professional Services purchase
+PO000355,VEN057,EMP070,Human Resources,Logistics,2023-10-26,66030.88,INR,Approved,Logistics purchase
+PO000356,VEN009,EMP057,Information Technology,Office Supplies,2023-06-03,10790.37,INR,Approved,Office Supplies purchase
+PO000357,VEN041,EMP074,Human Resources,Logistics,2024-04-18,28081.23,INR,Approved,Logistics purchase
+PO000358,VEN034,EMP067,Human Resources,Logistics,2024-11-19,96046.12,INR,Approved,Logistics purchase
+PO000359,VEN049,EMP071,Human Resources,Logistics,2024-10-09,117143.70,INR,Approved,Logistics purchase
+PO000360,VEN048,EMP040,Operations,Professional Services,2024-02-11,115048.23,INR,Approved,Professional Services purchase
+PO000361,VEN034,EMP087,Facilities,Logistics,2023-10-27,11372.21,INR,Approved,Logistics purchase
+PO000362,VEN056,EMP023,Finance,Professional Services,2024-11-16,311326.86,INR,Approved,Professional Services purchase
+PO000363,VEN052,EMP082,Facilities,Equipment,2024-05-05,146972.12,INR,Approved,Equipment purchase
+PO000364,VEN034,EMP049,Information Technology,Logistics,2023-05-12,56956.46,INR,Approved,Logistics purchase
+PO000365,VEN011,EMP094,Marketing,Office Supplies,2025-01-03,39488.74,INR,Approved,Office Supplies purchase
+PO000366,VEN006,EMP114,Legal,Office Supplies,2023-12-03,16492.58,INR,Approved,Office Supplies purchase
+PO000367,VEN054,EMP098,Marketing,Office Supplies,2024-11-29,58198.19,INR,Approved,Office Supplies purchase
+PO000368,VEN006,EMP038,Operations,Office Supplies,2024-05-24,4194.91,INR,Approved,Office Supplies purchase
+PO000369,VEN047,EMP002,Procurement,Facilities Management,2024-08-07,344419.58,INR,Approved,Facilities Management purchase
+PO000370,VEN038,EMP063,Human Resources,Office Supplies,2025-02-24,44878.76,INR,Rejected,Office Supplies purchase
+PO000371,VEN033,EMP016,Finance,Logistics,2024-11-10,43537.07,INR,Approved,Logistics purchase
+PO000372,VEN006,EMP006,Procurement,Office Supplies,2024-02-10,34436.36,INR,Approved,Office Supplies purchase
+PO000373,VEN010,EMP070,Human Resources,Office Supplies,2025-02-18,38776.22,INR,Approved,Office Supplies purchase
+PO000374,VEN042,EMP090,Facilities,Marketing Services,2024-07-14,54768.45,INR,Approved,Marketing Services purchase
+PO000375,VEN053,EMP007,Procurement,IT Services,2023-09-12,53400.20,INR,Approved,IT Services purchase
+PO000376,VEN048,EMP076,Facilities,Professional Services,2023-07-07,219301.83,INR,Approved,Professional Services purchase
+PO000377,VEN007,EMP036,Operations,Office Supplies,2024-07-20,37844.16,INR,Approved,Office Supplies purchase
+PO000378,VEN045,EMP005,Procurement,IT Services,2024-05-14,97840.83,INR,Approved,IT Services purchase
+PO000379,VEN010,EMP100,Marketing,Office Supplies,2023-04-16,24332.76,INR,Approved,Office Supplies purchase
+PO000380,VEN009,EMP003,Procurement,Office Supplies,2024-05-06,23774.79,INR,Rejected,Office Supplies purchase
+PO000381,VEN011,EMP007,Procurement,Office Supplies,2024-07-24,85907.24,INR,Approved,Office Supplies purchase
+PO000382,VEN006,EMP075,Human Resources,Office Supplies,2025-01-13,100193.04,INR,Rejected,Office Supplies purchase
+PO000383,VEN052,EMP112,Legal,Equipment,2024-04-03,132238.47,INR,Approved,Equipment purchase
+PO000384,VEN048,EMP004,Procurement,Professional Services,2024-09-07,147342.80,INR,Approved,Professional Services purchase
+PO000385,VEN007,EMP076,Facilities,Office Supplies,2025-01-03,12609.69,INR,Approved,Office Supplies purchase
+PO000386,VEN011,EMP077,Facilities,Office Supplies,2023-11-10,30168.23,INR,Approved,Office Supplies purchase
+PO000387,VEN046,EMP092,Marketing,Office Supplies,2024-04-24,8078.21,INR,Approved,Office Supplies purchase
+PO000388,VEN032,EMP003,Procurement,Logistics,2023-11-11,41432.16,INR,Approved,Logistics purchase
+PO000389,VEN048,EMP074,Human Resources,Professional Services,2024-10-16,102750.06,INR,Approved,Professional Services purchase
+PO000390,VEN044,EMP103,Marketing,Equipment,2024-09-04,71693.17,INR,Approved,Equipment purchase
+PO000391,VEN039,EMP087,Facilities,Facilities Management,2024-11-05,130154.05,INR,Approved,Facilities Management purchase
+PO000392,VEN034,EMP059,Information Technology,Logistics,2023-06-02,66729.22,INR,Approved,Logistics purchase
+PO000393,VEN057,EMP071,Human Resources,Logistics,2023-11-27,23195.52,INR,Approved,Logistics purchase
+PO000394,VEN009,EMP028,Finance,Office Supplies,2024-03-21,40242.97,INR,Closed,Office Supplies purchase
+PO000395,VEN057,EMP071,Human Resources,Logistics,2023-12-25,27480.14,INR,Approved,Logistics purchase
+PO000396,VEN007,EMP064,Human Resources,Office Supplies,2023-11-02,9408.23,INR,Pending,Office Supplies purchase
+PO000397,VEN007,EMP057,Information Technology,Office Supplies,2023-10-04,75428.93,INR,Approved,Office Supplies purchase
+PO000398,VEN034,EMP110,Legal,Logistics,2024-07-26,62805.19,INR,Approved,Logistics purchase
+PO000399,VEN011,EMP077,Facilities,Office Supplies,2023-12-13,20029.04,INR,Approved,Office Supplies purchase
+PO000400,VEN055,EMP113,Legal,Facilities Management,2023-12-26,95125.07,INR,Approved,Facilities Management purchase
+PO000401,VEN056,EMP051,Information Technology,Professional Services,2023-09-26,796139.68,INR,Approved,Professional Services purchase
+PO000402,VEN008,EMP112,Legal,Office Supplies,2024-08-23,50856.10,INR,Approved,Office Supplies purchase
+PO000403,VEN006,EMP085,Facilities,Office Supplies,2025-02-06,29381.05,INR,Closed,Office Supplies purchase
+PO000404,VEN042,EMP064,Human Resources,Marketing Services,2025-03-05,26229.42,INR,Approved,Marketing Services purchase
+PO000405,VEN042,EMP078,Facilities,Marketing Services,2024-08-19,36614.04,INR,Rejected,Marketing Services purchase
+PO000406,VEN006,EMP062,Human Resources,Office Supplies,2025-02-15,52415.55,INR,Approved,Office Supplies purchase
+PO000407,VEN007,EMP109,Legal,Office Supplies,2023-04-04,37638.27,INR,Approved,Office Supplies purchase
+PO000408,VEN054,EMP074,Human Resources,Office Supplies,2024-12-20,8230.48,INR,Approved,Office Supplies purchase
+PO000409,VEN010,EMP072,Human Resources,Office Supplies,2025-03-29,10204.71,INR,Approved,Office Supplies purchase
+PO000410,VEN007,EMP054,Information Technology,Office Supplies,2023-11-10,32714.62,INR,Approved,Office Supplies purchase
+PO000411,VEN047,EMP076,Facilities,Facilities Management,2023-05-21,362780.76,INR,Approved,Facilities Management purchase
+PO000412,VEN008,EMP024,Finance,Office Supplies,2024-03-09,16227.60,INR,Approved,Office Supplies purchase
+PO000413,VEN040,EMP007,Procurement,Professional Services,2024-06-05,148959.09,INR,Approved,Professional Services purchase
+PO000414,VEN010,EMP036,Operations,Office Supplies,2024-05-06,59493.88,INR,Approved,Office Supplies purchase
+PO000415,VEN039,EMP032,Operations,Facilities Management,2024-04-03,124371.29,INR,Approved,Facilities Management purchase
+PO000416,VEN048,EMP109,Legal,Professional Services,2023-10-04,407341.29,INR,Approved,Professional Services purchase
+PO000417,VEN031,EMP069,Human Resources,Logistics,2025-02-05,22514.26,INR,Pending,Logistics purchase
+PO000418,VEN059,EMP023,Finance,Utilities,2025-03-14,18826.71,INR,Approved,Utilities purchase
+PO000419,VEN007,EMP008,Procurement,Office Supplies,2024-07-04,34552.88,INR,Approved,Office Supplies purchase
+PO000420,VEN048,EMP082,Facilities,Professional Services,2023-08-05,111936.22,INR,Approved,Professional Services purchase
+PO000421,VEN039,EMP093,Marketing,Facilities Management,2024-05-31,712956.56,INR,Approved,Facilities Management purchase
+PO000422,VEN033,EMP074,Human Resources,Logistics,2025-03-14,86892.34,INR,Approved,Logistics purchase
+PO000423,VEN011,EMP079,Facilities,Office Supplies,2024-01-11,249415.57,INR,Approved,Office Supplies purchase
+PO000424,VEN058,EMP096,Marketing,Marketing Services,2023-07-14,119508.46,INR,Pending,Marketing Services purchase
+PO000425,VEN033,EMP103,Marketing,Logistics,2024-11-06,29235.60,INR,Pending,Logistics purchase
+PO000426,VEN007,EMP085,Facilities,Office Supplies,2025-01-28,33115.38,INR,Approved,Office Supplies purchase
+PO000427,VEN009,EMP113,Legal,Office Supplies,2023-08-31,65748.84,INR,Approved,Office Supplies purchase
+PO000428,VEN051,EMP002,Procurement,Utilities,2025-01-11,4739.53,INR,Approved,Utilities purchase
+PO000429,VEN058,EMP045,Operations,Marketing Services,2025-01-26,78185.36,INR,Closed,Marketing Services purchase
+PO000430,VEN033,EMP065,Human Resources,Logistics,2023-04-24,63196.72,INR,Approved,Logistics purchase
+PO000431,VEN039,EMP108,Legal,Facilities Management,2024-02-19,395701.28,INR,Approved,Facilities Management purchase
+PO000432,VEN052,EMP032,Operations,Equipment,2024-03-04,374523.16,INR,Approved,Equipment purchase
+PO000433,VEN041,EMP106,Legal,Logistics,2024-01-01,85781.78,INR,Approved,Logistics purchase
+PO000434,VEN044,EMP051,Information Technology,Equipment,2023-04-20,72242.38,INR,Approved,Equipment purchase
+PO000435,VEN034,EMP104,Marketing,Logistics,2024-07-09,67235.92,INR,Closed,Logistics purchase
+PO000436,VEN058,EMP060,Information Technology,Marketing Services,2025-02-13,115744.36,INR,Approved,Marketing Services purchase
+PO000437,VEN007,EMP098,Marketing,Office Supplies,2023-05-30,9573.68,INR,Approved,Office Supplies purchase
+PO000438,VEN009,EMP104,Marketing,Office Supplies,2025-01-28,12517.79,INR,Approved,Office Supplies purchase
+PO000439,VEN057,EMP084,Facilities,Logistics,2023-09-24,21533.99,INR,Closed,Logistics purchase
+PO000440,VEN059,EMP019,Finance,Utilities,2023-04-22,16848.32,INR,Closed,Utilities purchase
+PO000441,VEN040,EMP112,Legal,Professional Services,2023-08-08,199907.25,INR,Approved,Professional Services purchase
+PO000442,VEN050,EMP084,Facilities,Marketing Services,2024-01-15,38841.94,INR,Approved,Marketing Services purchase
+PO000443,VEN010,EMP051,Information Technology,Office Supplies,2023-10-26,17239.47,INR,Approved,Office Supplies purchase
+PO000444,VEN031,EMP036,Operations,Logistics,2024-01-21,28068.37,INR,Approved,Logistics purchase
+PO000445,VEN040,EMP120,Legal,Professional Services,2023-09-02,509182.52,INR,Approved,Professional Services purchase
+PO000446,VEN031,EMP059,Information Technology,Logistics,2024-05-21,129256.38,INR,Approved,Logistics purchase
+PO000447,VEN008,EMP105,Marketing,Office Supplies,2024-02-04,14993.53,INR,Closed,Office Supplies purchase
+PO000448,VEN034,EMP096,Marketing,Logistics,2024-08-04,27735.07,INR,Approved,Logistics purchase
+PO000449,VEN037,EMP027,Finance,IT Services,2024-07-13,42375.05,INR,Approved,IT Services purchase
+PO000450,VEN008,EMP027,Finance,Office Supplies,2024-04-03,8014.23,INR,Approved,Office Supplies purchase
+PO000451,VEN007,EMP005,Procurement,Office Supplies,2024-07-26,103201.90,INR,Closed,Office Supplies purchase
+PO000452,VEN038,EMP008,Procurement,Office Supplies,2024-04-06,9869.05,INR,Approved,Office Supplies purchase
+PO000453,VEN039,EMP068,Human Resources,Facilities Management,2023-12-16,43296.40,INR,Approved,Facilities Management purchase
+PO000454,VEN044,EMP102,Marketing,Equipment,2024-09-27,197563.05,INR,Approved,Equipment purchase
+PO000455,VEN006,EMP006,Procurement,Office Supplies,2024-03-11,8563.52,INR,Approved,Office Supplies purchase
+PO000456,VEN034,EMP070,Human Resources,Logistics,2024-12-11,108360.86,INR,Approved,Logistics purchase
+PO000457,VEN049,EMP076,Facilities,Logistics,2024-01-31,116942.48,INR,Approved,Logistics purchase
+PO000458,VEN032,EMP118,Legal,Logistics,2025-03-17,11159.46,INR,Approved,Logistics purchase
+PO000459,VEN009,EMP085,Facilities,Office Supplies,2023-11-14,34648.89,INR,Approved,Office Supplies purchase
+PO000460,VEN048,EMP097,Marketing,Professional Services,2024-10-21,35736.85,INR,Approved,Professional Services purchase
+PO000461,VEN059,EMP035,Operations,Utilities,2024-02-10,20116.97,INR,Approved,Utilities purchase
+PO000462,VEN011,EMP065,Human Resources,Office Supplies,2024-04-08,53027.54,INR,Approved,Office Supplies purchase
+PO000463,VEN007,EMP001,Procurement,Office Supplies,2024-08-16,36385.58,INR,Approved,Office Supplies purchase
+PO000464,VEN055,EMP039,Operations,Facilities Management,2024-02-25,48047.15,INR,Pending,Facilities Management purchase
+PO000465,VEN006,EMP018,Finance,Office Supplies,2023-08-20,17750.78,INR,Approved,Office Supplies purchase
+PO000466,VEN007,EMP004,Procurement,Office Supplies,2024-09-13,71938.22,INR,Rejected,Office Supplies purchase
+PO000467,VEN059,EMP081,Facilities,Utilities,2024-07-18,70328.38,INR,Closed,Utilities purchase
+PO000468,VEN056,EMP019,Finance,Professional Services,2024-12-23,72205.01,INR,Approved,Professional Services purchase
+PO000469,VEN040,EMP038,Operations,Professional Services,2024-08-13,310595.87,INR,Approved,Professional Services purchase
+PO000470,VEN008,EMP032,Operations,Office Supplies,2024-09-02,44270.15,INR,Rejected,Office Supplies purchase
+PO000471,VEN033,EMP028,Finance,Logistics,2024-12-03,90443.37,INR,Approved,Logistics purchase
+PO000472,VEN046,EMP026,Finance,Office Supplies,2025-01-02,382669.16,INR,Approved,Office Supplies purchase
+PO000473,VEN046,EMP044,Operations,Office Supplies,2023-09-29,5279.70,INR,Pending,Office Supplies purchase
+PO000474,VEN046,EMP063,Human Resources,Office Supplies,2024-10-27,13023.77,INR,Approved,Office Supplies purchase
+PO000475,VEN006,EMP071,Human Resources,Office Supplies,2025-03-25,49327.60,INR,Approved,Office Supplies purchase
+PO000476,VEN006,EMP079,Facilities,Office Supplies,2025-03-03,66452.12,INR,Approved,Office Supplies purchase
+PO000477,VEN039,EMP055,Information Technology,Facilities Management,2024-11-23,259485.19,INR,Approved,Facilities Management purchase
+PO000478,VEN041,EMP079,Facilities,Logistics,2024-06-05,57196.16,INR,Approved,Logistics purchase
+PO000479,VEN010,EMP107,Legal,Office Supplies,2024-08-26,15474.65,INR,Approved,Office Supplies purchase
+PO000480,VEN052,EMP003,Procurement,Equipment,2023-08-02,38160.64,INR,Approved,Equipment purchase
+PO000481,VEN011,EMP081,Facilities,Office Supplies,2024-02-18,20944.72,INR,Approved,Office Supplies purchase
+PO000482,VEN034,EMP017,Finance,Logistics,2023-04-15,62553.85,INR,Approved,Logistics purchase
+PO000483,VEN052,EMP092,Marketing,Equipment,2024-11-10,114771.04,INR,Approved,Equipment purchase
+PO000484,VEN041,EMP101,Marketing,Logistics,2024-04-29,82133.38,INR,Approved,Logistics purchase
+PO000485,VEN043,EMP037,Operations,Utilities,2024-10-22,33948.03,INR,Approved,Utilities purchase
+PO000486,VEN006,EMP112,Legal,Office Supplies,2023-12-26,5497.55,INR,Approved,Office Supplies purchase
+PO000487,VEN032,EMP037,Operations,Logistics,2024-07-12,54686.98,INR,Approved,Logistics purchase
+PO000488,VEN037,EMP055,Information Technology,IT Services,2024-03-13,156185.18,INR,Approved,IT Services purchase
+PO000489,VEN048,EMP032,Operations,Professional Services,2024-03-13,213939.65,INR,Pending,Professional Services purchase
+PO000490,VEN010,EMP091,Marketing,Office Supplies,2023-05-18,36628.14,INR,Approved,Office Supplies purchase
+PO000491,VEN008,EMP002,Procurement,Office Supplies,2024-04-06,131215.06,INR,Approved,Office Supplies purchase
+PO000492,VEN011,EMP110,Legal,Office Supplies,2025-02-01,32148.80,INR,Approved,Office Supplies purchase
+PO000493,VEN006,EMP038,Operations,Office Supplies,2024-07-03,103920.95,INR,Rejected,Office Supplies purchase
+PO000494,VEN011,EMP031,Operations,Office Supplies,2023-04-30,135395.00,INR,Approved,Office Supplies purchase
+PO000495,VEN031,EMP088,Facilities,Logistics,2023-07-16,58829.06,INR,Approved,Logistics purchase
+PO000496,VEN051,EMP071,Human Resources,Utilities,2024-11-11,45656.71,INR,Approved,Utilities purchase
+PO000497,VEN010,EMP029,Finance,Office Supplies,2023-05-06,134371.04,INR,Closed,Office Supplies purchase
+PO000498,VEN042,EMP086,Facilities,Marketing Services,2024-09-16,119959.18,INR,Approved,Marketing Services purchase
+PO000499,VEN033,EMP043,Operations,Logistics,2025-03-05,32607.08,INR,Approved,Logistics purchase
+PO000500,VEN011,EMP016,Finance,Office Supplies,2024-04-28,5180.01,INR,Approved,Office Supplies purchase
+PO000501,VEN031,EMP074,Human Resources,Logistics,2025-03-12,116445.33,INR,Approved,Logistics purchase
+PO000502,VEN033,EMP047,Information Technology,Logistics,2023-10-16,53485.01,INR,Approved,Logistics purchase
+PO000503,VEN054,EMP004,Procurement,Office Supplies,2023-10-03,36924.32,INR,Approved,Office Supplies purchase
+PO000504,VEN006,EMP086,Facilities,Office Supplies,2023-04-18,8550.92,INR,Approved,Office Supplies purchase
+PO000505,VEN048,EMP092,Marketing,Professional Services,2024-11-23,226084.83,INR,Approved,Professional Services purchase
+PO000506,VEN037,EMP117,Legal,IT Services,2023-12-27,56970.02,INR,Approved,IT Services purchase
+PO000507,VEN040,EMP028,Finance,Professional Services,2023-04-19,146386.36,INR,Pending,Professional Services purchase
+PO000508,VEN031,EMP001,Procurement,Logistics,2023-08-26,113328.80,INR,Approved,Logistics purchase
+PO000509,VEN006,EMP116,Legal,Office Supplies,2024-01-26,10355.94,INR,Approved,Office Supplies purchase
+PO000510,VEN031,EMP038,Operations,Logistics,2024-02-29,33681.94,INR,Approved,Logistics purchase
+PO000511,VEN006,EMP065,Human Resources,Office Supplies,2023-04-21,568533.84,INR,Approved,Office Supplies purchase
+PO000512,VEN006,EMP065,Human Resources,Office Supplies,2023-05-14,39005.66,INR,Approved,Office Supplies purchase
+PO000513,VEN047,EMP039,Operations,Facilities Management,2023-10-19,189022.84,INR,Approved,Facilities Management purchase
+PO000514,VEN034,EMP006,Procurement,Logistics,2024-01-08,21946.28,INR,Approved,Logistics purchase
+PO000515,VEN010,EMP068,Human Resources,Office Supplies,2023-04-07,78171.50,INR,Pending,Office Supplies purchase
+PO000516,VEN034,EMP107,Legal,Logistics,2024-09-02,36479.50,INR,Approved,Logistics purchase
+PO000517,VEN008,EMP098,Marketing,Office Supplies,2024-03-04,38340.08,INR,Approved,Office Supplies purchase
+PO000518,VEN007,EMP061,Human Resources,Office Supplies,2023-11-24,25845.56,INR,Approved,Office Supplies purchase
+PO000519,VEN011,EMP001,Procurement,Office Supplies,2024-08-31,18357.99,INR,Approved,Office Supplies purchase
+PO000520,VEN008,EMP099,Marketing,Office Supplies,2024-04-08,12440.43,INR,Approved,Office Supplies purchase
+PO000521,VEN045,EMP065,Human Resources,IT Services,2024-09-10,24507.36,INR,Approved,IT Services purchase
+PO000522,VEN031,EMP001,Procurement,Logistics,2023-09-29,32064.22,INR,Approved,Logistics purchase
+PO000523,VEN054,EMP119,Legal,Office Supplies,2023-08-24,9374.30,INR,Approved,Office Supplies purchase
+PO000524,VEN011,EMP053,Information Technology,Office Supplies,2024-05-29,19260.41,INR,Approved,Office Supplies purchase
+PO000525,VEN008,EMP119,Legal,Office Supplies,2024-09-16,12871.40,INR,Approved,Office Supplies purchase
+PO000526,VEN010,EMP105,Marketing,Office Supplies,2023-06-12,8679.82,INR,Approved,Office Supplies purchase
+PO000527,VEN057,EMP058,Information Technology,Logistics,2024-01-30,33872.21,INR,Approved,Logistics purchase
+PO000528,VEN031,EMP049,Information Technology,Logistics,2024-06-16,116581.38,INR,Rejected,Logistics purchase
+PO000529,VEN033,EMP047,Information Technology,Logistics,2023-11-24,67246.69,INR,Approved,Logistics purchase
+PO000530,VEN031,EMP075,Human Resources,Logistics,2023-04-13,36221.60,INR,Approved,Logistics purchase
+PO000531,VEN011,EMP110,Legal,Office Supplies,2025-02-22,12176.18,INR,Approved,Office Supplies purchase
+PO000532,VEN008,EMP067,Human Resources,Office Supplies,2023-04-27,9919.80,INR,Approved,Office Supplies purchase
+PO000533,VEN053,EMP038,Operations,IT Services,2023-07-17,238657.49,INR,Approved,IT Services purchase
+PO000534,VEN006,EMP106,Legal,Office Supplies,2024-02-19,9832.70,INR,Closed,Office Supplies purchase
+PO000535,VEN032,EMP050,Information Technology,Logistics,2023-10-24,28789.37,INR,Approved,Logistics purchase
+PO000536,VEN006,EMP057,Information Technology,Office Supplies,2024-04-20,16529.96,INR,Approved,Office Supplies purchase
+PO000537,VEN011,EMP119,Legal,Office Supplies,2025-03-26,9580.41,INR,Approved,Office Supplies purchase
+PO000538,VEN031,EMP066,Human Resources,Logistics,2023-05-06,67390.91,INR,Approved,Logistics purchase
+PO000539,VEN009,EMP033,Operations,Office Supplies,2025-03-16,35025.92,INR,Approved,Office Supplies purchase
+PO000540,VEN010,EMP027,Finance,Office Supplies,2023-06-09,16973.36,INR,Approved,Office Supplies purchase
+PO000541,VEN041,EMP028,Finance,Logistics,2024-11-18,20633.29,INR,Approved,Logistics purchase
+PO000542,VEN057,EMP044,Operations,Logistics,2024-05-04,107422.72,INR,Approved,Logistics purchase
+PO000543,VEN010,EMP106,Legal,Office Supplies,2024-09-26,9501.64,INR,Closed,Office Supplies purchase
+PO000544,VEN044,EMP001,Procurement,Equipment,2024-09-15,73420.78,INR,Approved,Equipment purchase
+PO000545,VEN031,EMP006,Procurement,Logistics,2023-10-21,11042.55,INR,Approved,Logistics purchase
+PO000546,VEN007,EMP079,Facilities,Office Supplies,2025-02-18,8026.50,INR,Approved,Office Supplies purchase
+PO000547,VEN008,EMP109,Legal,Office Supplies,2024-10-08,34459.87,INR,Approved,Office Supplies purchase
+PO000548,VEN008,EMP029,Finance,Office Supplies,2024-05-09,8780.36,INR,Approved,Office Supplies purchase
+PO000549,VEN010,EMP073,Human Resources,Office Supplies,2023-05-11,17297.56,INR,Approved,Office Supplies purchase
+PO000550,VEN031,EMP049,Information Technology,Logistics,2024-07-18,35191.19,INR,Rejected,Logistics purchase
+PO000551,VEN052,EMP052,Information Technology,Equipment,2024-09-11,71669.52,INR,Approved,Equipment purchase
+PO000552,VEN034,EMP110,Legal,Logistics,2024-10-08,111746.24,INR,Approved,Logistics purchase
+PO000553,VEN052,EMP004,Procurement,Equipment,2023-09-10,76955.12,INR,Approved,Equipment purchase
+PO000554,VEN050,EMP085,Facilities,Marketing Services,2024-02-10,219428.69,INR,Approved,Marketing Services purchase
+PO000555,VEN041,EMP004,Procurement,Logistics,2024-07-26,88020.47,INR,Pending,Logistics purchase
+PO000556,VEN007,EMP079,Facilities,Office Supplies,2025-03-11,16007.92,INR,Approved,Office Supplies purchase
+PO000557,VEN007,EMP020,Finance,Office Supplies,2025-02-15,10651.41,INR,Approved,Office Supplies purchase
+PO000558,VEN031,EMP063,Human Resources,Logistics,2023-06-12,21930.61,INR,Approved,Logistics purchase
+PO000559,VEN033,EMP051,Information Technology,Logistics,2023-12-27,22562.63,INR,Approved,Logistics purchase
+PO000560,VEN007,EMP067,Human Resources,Office Supplies,2023-12-30,4330.85,INR,Approved,Office Supplies purchase
+PO000561,VEN011,EMP070,Human Resources,Office Supplies,2024-05-12,16808.89,INR,Approved,Office Supplies purchase
+PO000562,VEN033,EMP055,Information Technology,Logistics,2024-01-25,21546.14,INR,Approved,Logistics purchase
+PO000563,VEN010,EMP018,Finance,Office Supplies,2023-07-18,32863.82,INR,Approved,Office Supplies purchase
+PO000564,VEN008,EMP046,Information Technology,Office Supplies,2024-12-20,138425.24,INR,Approved,Office Supplies purchase
+PO000565,VEN034,EMP007,Procurement,Logistics,2024-02-14,67615.95,INR,Approved,Logistics purchase
+PO000566,VEN039,EMP048,Information Technology,Facilities Management,2024-12-31,186846.83,INR,Approved,Facilities Management purchase
+PO000567,VEN031,EMP073,Human Resources,Logistics,2023-07-13,32981.15,INR,Approved,Logistics purchase
+PO000568,VEN059,EMP082,Facilities,Utilities,2024-08-23,42310.32,INR,Approved,Utilities purchase
+PO000569,VEN033,EMP085,Facilities,Logistics,2024-04-23,87748.76,INR,Approved,Logistics purchase
+PO000570,VEN034,EMP018,Finance,Logistics,2023-05-22,11640.37,INR,Closed,Logistics purchase
+PO000571,VEN008,EMP079,Facilities,Office Supplies,2023-11-10,24967.98,INR,Approved,Office Supplies purchase
+PO000572,VEN034,EMP036,Operations,Logistics,2025-02-10,83346.80,INR,Approved,Logistics purchase
+PO000573,VEN048,EMP090,Facilities,Professional Services,2023-08-30,43074.63,INR,Approved,Professional Services purchase
+PO000574,VEN009,EMP064,Human Resources,Office Supplies,2024-02-17,5517.33,INR,Approved,Office Supplies purchase
+PO000575,VEN009,EMP047,Information Technology,Office Supplies,2023-07-08,21170.91,INR,Approved,Office Supplies purchase
+PO000576,VEN033,EMP051,Information Technology,Logistics,2024-02-29,43391.04,INR,Approved,Logistics purchase
+PO000577,VEN046,EMP024,Finance,Office Supplies,2025-02-04,20497.88,INR,Closed,Office Supplies purchase
+PO000578,VEN032,EMP018,Finance,Logistics,2025-03-17,65902.06,INR,Approved,Logistics purchase
+PO000579,VEN033,EMP016,Finance,Logistics,2024-12-31,85388.86,INR,Approved,Logistics purchase
+PO000580,VEN007,EMP093,Marketing,Office Supplies,2023-07-03,18900.56,INR,Approved,Office Supplies purchase
+PO000581,VEN032,EMP022,Finance,Logistics,2023-04-15,115546.50,INR,Approved,Logistics purchase
+PO000582,VEN011,EMP028,Finance,Office Supplies,2024-05-21,34144.10,INR,Approved,Office Supplies purchase
+PO000583,VEN032,EMP055,Information Technology,Logistics,2023-11-22,44224.39,INR,Approved,Logistics purchase
+PO000584,VEN008,EMP038,Operations,Office Supplies,2024-10-03,15271.21,INR,Approved,Office Supplies purchase
+PO000585,VEN049,EMP070,Human Resources,Logistics,2024-11-01,63563.53,INR,Approved,Logistics purchase
+PO000586,VEN042,EMP005,Procurement,Marketing Services,2024-07-26,39593.63,INR,Approved,Marketing Services purchase
+PO000587,VEN057,EMP095,Marketing,Logistics,2025-03-04,45391.13,INR,Approved,Logistics purchase
+PO000588,VEN007,EMP061,Human Resources,Office Supplies,2024-02-04,9115.15,INR,Approved,Office Supplies purchase
+PO000589,VEN009,EMP087,Facilities,Office Supplies,2023-12-08,33040.12,INR,Approved,Office Supplies purchase
+PO000590,VEN011,EMP004,Procurement,Office Supplies,2024-09-29,9973.73,INR,Approved,Office Supplies purchase
+PO000591,VEN050,EMP023,Finance,Marketing Services,2024-11-22,60020.45,INR,Approved,Marketing Services purchase
+PO000592,VEN008,EMP116,Legal,Office Supplies,2024-11-17,8823.83,INR,Approved,Office Supplies purchase
+PO000593,VEN047,EMP077,Facilities,Facilities Management,2023-06-26,171000.32,INR,Closed,Facilities Management purchase
+PO000594,VEN007,EMP119,Legal,Office Supplies,2023-05-06,15137.25,INR,Approved,Office Supplies purchase
+PO000595,VEN033,EMP005,Procurement,Logistics,2023-10-31,42567.66,INR,Approved,Logistics purchase
+PO000596,VEN008,EMP049,Information Technology,Office Supplies,2025-01-24,31935.84,INR,Approved,Office Supplies purchase
+PO000597,VEN010,EMP063,Human Resources,Office Supplies,2023-06-02,58402.43,INR,Rejected,Office Supplies purchase
+PO000598,VEN052,EMP078,Facilities,Equipment,2024-06-04,254961.70,INR,Approved,Equipment purchase
+PO000599,VEN009,EMP086,Facilities,Office Supplies,2024-01-17,10904.78,INR,Approved,Office Supplies purchase
+PO000600,VEN008,EMP103,Marketing,Office Supplies,2024-05-18,36462.24,INR,Approved,Office Supplies purchase
+PO000601,VEN031,EMP041,Operations,Logistics,2024-03-23,49412.76,INR,Approved,Logistics purchase
+PO000602,VEN041,EMP071,Human Resources,Logistics,2024-05-18,34275.80,INR,Pending,Logistics purchase
+PO000603,VEN006,EMP102,Marketing,Office Supplies,2024-05-10,4165.06,INR,Closed,Office Supplies purchase
+PO000604,VEN054,EMP106,Legal,Office Supplies,2023-09-14,16340.17,INR,Approved,Office Supplies purchase
+PO000605,VEN048,EMP001,Procurement,Professional Services,2024-10-03,200385.12,INR,Approved,Professional Services purchase
+PO000606,VEN011,EMP034,Operations,Office Supplies,2023-06-04,5490.53,INR,Approved,Office Supplies purchase
+PO000607,VEN031,EMP094,Marketing,Logistics,2023-09-18,46461.27,INR,Approved,Logistics purchase
+PO000608,VEN032,EMP003,Procurement,Logistics,2023-12-14,58454.53,INR,Approved,Logistics purchase
+PO000609,VEN056,EMP004,Procurement,Professional Services,2024-01-02,496775.58,INR,Approved,Professional Services purchase
+PO000610,VEN011,EMP073,Human Resources,Office Supplies,2024-06-13,34925.92,INR,Approved,Office Supplies purchase
+PO000611,VEN041,EMP088,Facilities,Logistics,2024-07-09,34465.51,INR,Approved,Logistics purchase
+PO000612,VEN034,EMP090,Facilities,Logistics,2023-12-04,21463.19,INR,Approved,Logistics purchase
+PO000613,VEN044,EMP006,Procurement,Equipment,2024-10-09,18732.74,INR,Approved,Equipment purchase
+PO000614,VEN049,EMP058,Information Technology,Logistics,2023-09-13,81570.24,INR,Approved,Logistics purchase
+PO000615,VEN007,EMP003,Procurement,Office Supplies,2024-10-11,16163.53,INR,Approved,Office Supplies purchase
+PO000616,VEN010,EMP054,Information Technology,Office Supplies,2023-12-04,18292.05,INR,Closed,Office Supplies purchase
+PO000617,VEN045,EMP116,Legal,IT Services,2024-10-18,241047.24,INR,Approved,IT Services purchase
+PO000618,VEN052,EMP048,Information Technology,Equipment,2024-10-12,260776.98,INR,Approved,Equipment purchase
+PO000619,VEN010,EMP097,Marketing,Office Supplies,2023-07-19,5475.66,INR,Approved,Office Supplies purchase
+PO000620,VEN011,EMP053,Information Technology,Office Supplies,2024-06-28,103280.64,INR,Approved,Office Supplies purchase
+PO000621,VEN011,EMP036,Operations,Office Supplies,2023-06-25,27725.53,INR,Approved,Office Supplies purchase
+PO000622,VEN034,EMP109,Legal,Logistics,2024-11-15,399449.85,INR,Approved,Logistics purchase
+PO000623,VEN031,EMP055,Information Technology,Logistics,2024-08-10,43816.82,INR,Approved,Logistics purchase
+PO000624,VEN051,EMP072,Human Resources,Utilities,2024-12-07,73604.58,INR,Approved,Utilities purchase
+PO000625,VEN037,EMP038,Operations,IT Services,2025-03-29,24898.67,INR,Approved,IT Services purchase
+PO000626,VEN010,EMP055,Information Technology,Office Supplies,2024-01-09,4314.40,INR,Approved,Office Supplies purchase
+PO000627,VEN011,EMP100,Marketing,Office Supplies,2025-02-10,27998.28,INR,Approved,Office Supplies purchase
+PO000628,VEN032,EMP103,Marketing,Logistics,2023-12-16,11272.22,INR,Approved,Logistics purchase
+PO000629,VEN055,EMP097,Marketing,Facilities Management,2025-01-01,21183.91,INR,Approved,Facilities Management purchase
+PO000630,VEN011,EMP051,Information Technology,Office Supplies,2024-07-21,18327.29,INR,Approved,Office Supplies purchase
+PO000631,VEN037,EMP042,Operations,IT Services,2023-04-05,618979.38,INR,Approved,IT Services purchase
+PO000632,VEN009,EMP113,Legal,Office Supplies,2023-10-06,75582.68,INR,Approved,Office Supplies purchase
+PO000633,VEN034,EMP004,Procurement,Logistics,2024-03-22,45638.34,INR,Approved,Logistics purchase
+PO000634,VEN006,EMP008,Procurement,Office Supplies,2024-04-13,71027.32,INR,Approved,Office Supplies purchase
+PO000635,VEN037,EMP055,Information Technology,IT Services,2024-04-12,164606.88,INR,Approved,IT Services purchase
+PO000636,VEN043,EMP028,Finance,Utilities,2024-12-22,24654.40,INR,Approved,Utilities purchase
+PO000637,VEN053,EMP030,Finance,IT Services,2024-07-17,57412.43,INR,Approved,IT Services purchase
+PO000638,VEN052,EMP030,Finance,Equipment,2024-07-24,36158.40,INR,Approved,Equipment purchase
+PO000639,VEN037,EMP046,Information Technology,IT Services,2024-05-11,102424.70,INR,Closed,IT Services purchase
+PO000640,VEN044,EMP090,Facilities,Equipment,2024-01-30,262945.26,INR,Approved,Equipment purchase
+PO000641,VEN043,EMP058,Information Technology,Utilities,2024-03-28,56122.48,INR,Approved,Utilities purchase
+PO000642,VEN034,EMP040,Operations,Logistics,2025-03-03,10536.08,INR,Approved,Logistics purchase
+PO000643,VEN011,EMP105,Marketing,Office Supplies,2025-03-17,18743.40,INR,Approved,Office Supplies purchase
+PO000644,VEN034,EMP004,Procurement,Logistics,2024-04-21,43129.50,INR,Approved,Logistics purchase
+PO000645,VEN011,EMP118,Legal,Office Supplies,2023-04-14,10350.68,INR,Approved,Office Supplies purchase
+PO000646,VEN052,EMP074,Human Resources,Equipment,2024-11-22,54083.38,INR,Approved,Equipment purchase
+PO000647,VEN009,EMP109,Legal,Office Supplies,2023-11-08,37606.60,INR,Approved,Office Supplies purchase
+PO000648,VEN008,EMP029,Finance,Office Supplies,2024-06-16,27894.24,INR,Approved,Office Supplies purchase
+PO000649,VEN010,EMP066,Human Resources,Office Supplies,2023-06-24,26381.62,INR,Approved,Office Supplies purchase
+PO000650,VEN031,EMP118,Legal,Logistics,2023-08-22,23538.31,INR,Approved,Logistics purchase
+PO000651,VEN056,EMP068,Human Resources,Professional Services,2024-12-21,225872.28,INR,Approved,Professional Services purchase
+PO000652,VEN006,EMP042,Operations,Office Supplies,2024-07-31,10275.56,INR,Approved,Office Supplies purchase
+PO000653,VEN009,EMP119,Legal,Office Supplies,2023-12-17,97905.14,INR,Closed,Office Supplies purchase
+PO000654,VEN053,EMP112,Legal,IT Services,2025-02-27,43528.09,INR,Approved,IT Services purchase
+PO000655,VEN055,EMP058,Information Technology,Facilities Management,2024-03-11,98302.30,INR,Approved,Facilities Management purchase
+PO000656,VEN006,EMP090,Facilities,Office Supplies,2023-05-17,33106.65,INR,Approved,Office Supplies purchase
+PO000657,VEN033,EMP052,Information Technology,Logistics,2024-03-26,82405.85,INR,Approved,Logistics purchase
+PO000658,VEN008,EMP088,Facilities,Office Supplies,2023-12-17,10274.78,INR,Approved,Office Supplies purchase
+PO000659,VEN037,EMP033,Operations,IT Services,2023-05-07,45159.71,INR,Approved,IT Services purchase
+PO000660,VEN042,EMP070,Human Resources,Marketing Services,2023-04-21,112863.22,INR,Approved,Marketing Services purchase
+PO000661,VEN043,EMP053,Information Technology,Utilities,2024-04-22,21068.63,INR,Approved,Utilities purchase
+PO000662,VEN010,EMP081,Facilities,Office Supplies,2023-11-22,19854.87,INR,Approved,Office Supplies purchase
+PO000663,VEN043,EMP098,Marketing,Utilities,2024-01-13,24484.91,INR,Approved,Utilities purchase
+PO000664,VEN007,EMP117,Legal,Office Supplies,2023-06-10,15885.64,INR,Approved,Office Supplies purchase
+PO000665,VEN044,EMP059,Information Technology,Equipment,2023-05-15,64668.33,INR,Approved,Equipment purchase
+PO000666,VEN043,EMP051,Information Technology,Utilities,2024-06-01,40849.24,INR,Closed,Utilities purchase
+PO000667,VEN007,EMP068,Human Resources,Office Supplies,2024-03-11,138582.22,INR,Approved,Office Supplies purchase
+PO000668,VEN059,EMP005,Procurement,Utilities,2024-04-09,33223.70,INR,Approved,Utilities purchase
+PO000669,VEN050,EMP067,Human Resources,Marketing Services,2024-10-25,26257.60,INR,Approved,Marketing Services purchase
+PO000670,VEN010,EMP019,Finance,Office Supplies,2023-08-12,62075.36,INR,Approved,Office Supplies purchase
+PO000671,VEN007,EMP070,Human Resources,Office Supplies,2024-04-12,19090.94,INR,Closed,Office Supplies purchase
+PO000672,VEN031,EMP002,Procurement,Logistics,2023-11-29,162947.26,INR,Approved,Logistics purchase
+PO000673,VEN057,EMP101,Marketing,Logistics,2025-03-30,22096.82,INR,Approved,Logistics purchase
+PO000674,VEN049,EMP040,Operations,Logistics,2024-10-12,44418.65,INR,Approved,Logistics purchase
+PO000675,VEN041,EMP026,Finance,Logistics,2024-12-28,64425.42,INR,Approved,Logistics purchase
+PO000676,VEN033,EMP052,Information Technology,Logistics,2024-04-28,159851.54,INR,Approved,Logistics purchase
+PO000677,VEN055,EMP063,Human Resources,Facilities Management,2023-09-20,60857.34,INR,Closed,Facilities Management purchase
+PO000678,VEN006,EMP025,Finance,Office Supplies,2023-09-29,16921.58,INR,Approved,Office Supplies purchase
+PO000679,VEN009,EMP039,Operations,Office Supplies,2023-04-17,20273.39,INR,Approved,Office Supplies purchase
+PO000680,VEN033,EMP066,Human Resources,Logistics,2023-05-15,56106.07,INR,Approved,Logistics purchase
+PO000681,VEN050,EMP052,Information Technology,Marketing Services,2023-07-19,63403.76,INR,Approved,Marketing Services purchase
+PO000682,VEN034,EMP060,Information Technology,Logistics,2023-07-07,45383.79,INR,Approved,Logistics purchase
+PO000683,VEN011,EMP071,Human Resources,Office Supplies,2024-07-20,15691.90,INR,Approved,Office Supplies purchase
+PO000684,VEN010,EMP073,Human Resources,Office Supplies,2023-07-28,10966.64,INR,Approved,Office Supplies purchase
+PO000685,VEN006,EMP087,Facilities,Office Supplies,2023-06-19,36704.56,INR,Approved,Office Supplies purchase
+PO000686,VEN009,EMP078,Facilities,Office Supplies,2024-02-15,50844.79,INR,Rejected,Office Supplies purchase
+PO000687,VEN054,EMP120,Legal,Office Supplies,2023-10-08,22253.02,INR,Closed,Office Supplies purchase
+PO000688,VEN006,EMP016,Finance,Office Supplies,2023-10-20,49950.14,INR,Approved,Office Supplies purchase
+PO000689,VEN010,EMP059,Information Technology,Office Supplies,2024-02-10,16190.79,INR,Approved,Office Supplies purchase
+PO000690,VEN056,EMP038,Operations,Professional Services,2024-02-27,304916.73,INR,Pending,Professional Services purchase
+PO000691,VEN051,EMP003,Procurement,Utilities,2025-02-18,41943.34,INR,Approved,Utilities purchase
+PO000692,VEN008,EMP016,Finance,Office Supplies,2024-07-24,56807.30,INR,Approved,Office Supplies purchase
+PO000693,VEN031,EMP042,Operations,Logistics,2024-04-13,65980.71,INR,Approved,Logistics purchase
+PO000694,VEN010,EMP051,Information Technology,Office Supplies,2024-03-07,8376.34,INR,Approved,Office Supplies purchase
+PO000695,VEN034,EMP018,Finance,Logistics,2023-06-13,44626.56,INR,Approved,Logistics purchase
+PO000696,VEN041,EMP001,Procurement,Logistics,2024-08-25,21608.47,INR,Approved,Logistics purchase
+PO000697,VEN048,EMP117,Legal,Professional Services,2023-11-10,107703.12,INR,Approved,Professional Services purchase
+PO000698,VEN053,EMP020,Finance,IT Services,2024-08-26,61180.47,INR,Approved,IT Services purchase
+PO000699,VEN032,EMP084,Facilities,Logistics,2023-05-16,22263.23,INR,Approved,Logistics purchase
+PO000700,VEN056,EMP063,Human Resources,Professional Services,2025-01-19,155827.31,INR,Approved,Professional Services purchase
+PO000701,VEN032,EMP074,Human Resources,Logistics,2023-09-29,66350.50,INR,Approved,Logistics purchase
+PO000702,VEN033,EMP111,Legal,Logistics,2023-08-16,22675.14,INR,Approved,Logistics purchase
+PO000703,VEN009,EMP055,Information Technology,Office Supplies,2023-08-11,34580.43,INR,Rejected,Office Supplies purchase
+PO000704,VEN051,EMP042,Operations,Utilities,2023-10-09,17757.04,INR,Approved,Utilities purchase
+PO000705,VEN032,EMP020,Finance,Logistics,2023-05-25,53468.35,INR,Approved,Logistics purchase
+PO000706,VEN007,EMP051,Information Technology,Office Supplies,2023-12-02,21922.28,INR,Approved,Office Supplies purchase
+PO000707,VEN011,EMP095,Marketing,Office Supplies,2023-04-23,13036.37,INR,Approved,Office Supplies purchase
+PO000708,VEN006,EMP007,Procurement,Office Supplies,2024-05-16,12828.32,INR,Approved,Office Supplies purchase
+PO000709,VEN033,EMP070,Human Resources,Logistics,2023-06-18,133849.52,INR,Closed,Logistics purchase
+PO000710,VEN011,EMP119,Legal,Office Supplies,2023-05-14,10137.14,INR,Approved,Office Supplies purchase
+PO000711,VEN038,EMP002,Procurement,Office Supplies,2024-05-10,10722.70,INR,Approved,Office Supplies purchase
+PO000712,VEN040,EMP092,Marketing,Professional Services,2024-07-27,156754.91,INR,Pending,Professional Services purchase
+PO000713,VEN008,EMP038,Operations,Office Supplies,2024-10-30,49002.38,INR,Approved,Office Supplies purchase
+PO000714,VEN006,EMP033,Operations,Office Supplies,2024-08-24,65625.28,INR,Approved,Office Supplies purchase
+PO000715,VEN032,EMP057,Information Technology,Logistics,2023-12-15,43981.10,INR,Approved,Logistics purchase
+PO000716,VEN011,EMP115,Legal,Office Supplies,2023-06-22,4181.27,INR,Approved,Office Supplies purchase
+PO000717,VEN058,EMP077,Facilities,Marketing Services,2023-10-12,65070.07,INR,Pending,Marketing Services purchase
+PO000718,VEN008,EMP055,Information Technology,Office Supplies,2025-02-19,273913.04,INR,Approved,Office Supplies purchase
+PO000719,VEN009,EMP005,Procurement,Office Supplies,2024-06-07,16411.78,INR,Pending,Office Supplies purchase
+PO000720,VEN008,EMP001,Procurement,Office Supplies,2024-04-27,19194.04,INR,Approved,Office Supplies purchase
+PO000721,VEN031,EMP092,Marketing,Logistics,2023-10-13,61730.38,INR,Approved,Logistics purchase
+PO000722,VEN031,EMP044,Operations,Logistics,2024-05-04,63607.89,INR,Approved,Logistics purchase
+PO000723,VEN050,EMP049,Information Technology,Marketing Services,2023-08-26,252505.23,INR,Approved,Marketing Services purchase
+PO000724,VEN057,EMP093,Marketing,Logistics,2023-04-11,37517.87,INR,Approved,Logistics purchase
+PO000725,VEN011,EMP079,Facilities,Office Supplies,2024-03-20,8109.93,INR,Approved,Office Supplies purchase
+PO000726,VEN053,EMP022,Finance,IT Services,2024-09-20,21993.10,INR,Closed,IT Services purchase
+PO000727,VEN057,EMP097,Marketing,Logistics,2023-05-12,53247.55,INR,Approved,Logistics purchase
+PO000728,VEN037,EMP069,Human Resources,IT Services,2024-02-12,63746.96,INR,Rejected,IT Services purchase
+PO000729,VEN006,EMP071,Human Resources,Office Supplies,2023-06-19,17216.24,INR,Approved,Office Supplies purchase
+PO000730,VEN054,EMP040,Operations,Office Supplies,2024-08-03,40980.92,INR,Approved,Office Supplies purchase
+PO000731,VEN010,EMP108,Legal,Office Supplies,2024-10-18,5512.96,INR,Closed,Office Supplies purchase
+PO000732,VEN034,EMP057,Information Technology,Logistics,2023-08-10,10982.07,INR,Approved,Logistics purchase
+PO000733,VEN007,EMP057,Information Technology,Office Supplies,2024-01-04,67165.13,INR,Approved,Office Supplies purchase
+PO000734,VEN011,EMP052,Information Technology,Office Supplies,2024-08-12,367358.10,INR,Approved,Office Supplies purchase
+PO000735,VEN009,EMP052,Information Technology,Office Supplies,2023-09-12,68625.64,INR,Approved,Office Supplies purchase
+PO000736,VEN041,EMP100,Marketing,Logistics,2024-06-08,79950.76,INR,Approved,Logistics purchase
+PO000737,VEN008,EMP008,Procurement,Office Supplies,2024-05-19,58156.52,INR,Approved,Office Supplies purchase
+PO000738,VEN007,EMP098,Marketing,Office Supplies,2023-07-26,5414.60,INR,Approved,Office Supplies purchase
+PO000739,VEN052,EMP064,Human Resources,Equipment,2024-12-29,250926.81,INR,Approved,Equipment purchase
+PO000740,VEN058,EMP117,Legal,Marketing Services,2024-04-09,182761.42,INR,Approved,Marketing Services purchase
+PO000741,VEN031,EMP044,Operations,Logistics,2024-06-05,45081.52,INR,Approved,Logistics purchase
+PO000742,VEN011,EMP043,Operations,Office Supplies,2023-07-31,39995.76,INR,Approved,Office Supplies purchase
+PO000743,VEN043,EMP114,Legal,Utilities,2023-10-02,80914.96,INR,Approved,Utilities purchase
+PO000744,VEN032,EMP001,Procurement,Logistics,2024-01-05,41291.98,INR,Approved,Logistics purchase
+PO000745,VEN032,EMP075,Human Resources,Logistics,2023-10-26,215194.34,INR,Approved,Logistics purchase
+PO000746,VEN041,EMP090,Facilities,Logistics,2024-08-16,54802.10,INR,Approved,Logistics purchase
+PO000747,VEN010,EMP108,Legal,Office Supplies,2024-11-23,10746.99,INR,Approved,Office Supplies purchase
+PO000748,VEN011,EMP037,Operations,Office Supplies,2023-09-03,4155.58,INR,Pending,Office Supplies purchase
+PO000749,VEN048,EMP005,Procurement,Professional Services,2024-10-30,56590.37,INR,Approved,Professional Services purchase
+PO000750,VEN011,EMP008,Procurement,Office Supplies,2024-10-24,8509.85,INR,Approved,Office Supplies purchase
+PO000751,VEN009,EMP021,Finance,Office Supplies,2024-04-28,16127.43,INR,Approved,Office Supplies purchase
+PO000752,VEN034,EMP112,Legal,Logistics,2024-12-09,46271.58,INR,Approved,Logistics purchase
+PO000753,VEN032,EMP040,Operations,Logistics,2024-08-04,64154.96,INR,Approved,Logistics purchase
+PO000754,VEN011,EMP099,Marketing,Office Supplies,2023-05-28,9825.93,INR,Approved,Office Supplies purchase
+PO000755,VEN041,EMP067,Human Resources,Logistics,2024-06-22,57183.37,INR,Approved,Logistics purchase
+PO000756,VEN043,EMP021,Finance,Utilities,2025-01-21,71302.26,INR,Approved,Utilities purchase
+PO000757,VEN056,EMP074,Human Resources,Professional Services,2025-02-19,147004.59,INR,Approved,Professional Services purchase
+PO000758,VEN045,EMP059,Information Technology,IT Services,2023-06-17,658841.02,INR,Approved,IT Services purchase
+PO000759,VEN032,EMP098,Marketing,Logistics,2024-01-17,60125.99,INR,Approved,Logistics purchase
+PO000760,VEN006,EMP036,Operations,Office Supplies,2024-09-26,4076.02,INR,Approved,Office Supplies purchase
+PO000761,VEN011,EMP002,Procurement,Office Supplies,2024-11-23,15421.87,INR,Approved,Office Supplies purchase
+PO000762,VEN050,EMP083,Facilities,Marketing Services,2024-03-21,264220.74,INR,Approved,Marketing Services purchase
+PO000763,VEN008,EMP091,Marketing,Office Supplies,2024-06-18,4347.08,INR,Approved,Office Supplies purchase
+PO000764,VEN045,EMP099,Marketing,IT Services,2024-12-18,42058.74,INR,Approved,IT Services purchase
+PO000765,VEN007,EMP039,Operations,Office Supplies,2024-08-21,32198.75,INR,Closed,Office Supplies purchase
+PO000766,VEN054,EMP049,Information Technology,Office Supplies,2023-08-02,15467.15,INR,Closed,Office Supplies purchase
+PO000767,VEN050,EMP064,Human Resources,Marketing Services,2024-11-15,87877.28,INR,Approved,Marketing Services purchase
+PO000768,VEN039,EMP029,Finance,Facilities Management,2023-05-12,93624.61,INR,Approved,Facilities Management purchase
+PO000769,VEN031,EMP062,Human Resources,Logistics,2023-08-04,21999.90,INR,Approved,Logistics purchase
+PO000770,VEN051,EMP021,Finance,Utilities,2024-10-04,44047.49,INR,Approved,Utilities purchase
+PO000771,VEN058,EMP033,Operations,Marketing Services,2025-03-04,61771.70,INR,Approved,Marketing Services purchase
+PO000772,VEN039,EMP071,Human Resources,Facilities Management,2024-01-25,87673.67,INR,Approved,Facilities Management purchase
+PO000773,VEN040,EMP103,Marketing,Professional Services,2024-08-24,232317.95,INR,Approved,Professional Services purchase
+PO000774,VEN034,EMP116,Legal,Logistics,2025-01-13,57454.77,INR,Approved,Logistics purchase
+PO000775,VEN007,EMP107,Legal,Office Supplies,2023-07-15,17664.03,INR,Closed,Office Supplies purchase
+PO000776,VEN058,EMP037,Operations,Marketing Services,2025-03-27,38261.91,INR,Closed,Marketing Services purchase
+PO000777,VEN009,EMP105,Marketing,Office Supplies,2025-03-06,39044.78,INR,Approved,Office Supplies purchase
+PO000778,VEN055,EMP038,Operations,Facilities Management,2024-03-25,31183.90,INR,Approved,Facilities Management purchase
+PO000779,VEN010,EMP008,Procurement,Office Supplies,2024-07-28,38265.56,INR,Approved,Office Supplies purchase
+PO000780,VEN011,EMP029,Finance,Office Supplies,2024-06-17,15971.17,INR,Approved,Office Supplies purchase
+PO000781,VEN041,EMP008,Procurement,Logistics,2024-09-18,81914.25,INR,Approved,Logistics purchase
+PO000782,VEN011,EMP001,Procurement,Office Supplies,2024-12-15,15100.68,INR,Rejected,Office Supplies purchase
+PO000783,VEN007,EMP031,Operations,Office Supplies,2024-09-19,17528.73,INR,Approved,Office Supplies purchase
+PO000784,VEN008,EMP025,Finance,Office Supplies,2024-09-02,10993.87,INR,Approved,Office Supplies purchase
+PO000785,VEN010,EMP047,Information Technology,Office Supplies,2024-04-10,15518.55,INR,Approved,Office Supplies purchase
+PO000786,VEN055,EMP110,Legal,Facilities Management,2024-01-16,174502.81,INR,Approved,Facilities Management purchase
+PO000787,VEN009,EMP018,Finance,Office Supplies,2024-06-05,21676.61,INR,Approved,Office Supplies purchase
+PO000788,VEN010,EMP085,Facilities,Office Supplies,2023-12-18,13004.90,INR,Approved,Office Supplies purchase
+PO000789,VEN058,EMP095,Marketing,Marketing Services,2023-08-12,63476.88,INR,Approved,Marketing Services purchase
+PO000790,VEN053,EMP115,Legal,IT Services,2023-04-20,76541.35,INR,Approved,IT Services purchase
+PO000791,VEN008,EMP081,Facilities,Office Supplies,2024-01-18,38938.44,INR,Approved,Office Supplies purchase
+PO000792,VEN007,EMP019,Finance,Office Supplies,2025-03-13,15044.54,INR,Approved,Office Supplies purchase
+PO000793,VEN006,EMP022,Finance,Office Supplies,2023-11-29,9237.83,INR,Approved,Office Supplies purchase
+PO000794,VEN006,EMP111,Legal,Office Supplies,2024-03-11,36983.23,INR,Approved,Office Supplies purchase
+PO000795,VEN059,EMP022,Finance,Utilities,2023-05-23,50516.33,INR,Approved,Utilities purchase
+PO000796,VEN055,EMP058,Information Technology,Facilities Management,2024-04-09,62577.81,INR,Approved,Facilities Management purchase
+PO000797,VEN006,EMP070,Human Resources,Office Supplies,2023-07-29,17687.57,INR,Approved,Office Supplies purchase
+PO000798,VEN007,EMP019,Finance,Office Supplies,2023-04-06,12120.50,INR,Closed,Office Supplies purchase
+PO000799,VEN051,EMP051,Information Technology,Utilities,2023-07-11,30634.23,INR,Approved,Utilities purchase
+PO000800,VEN033,EMP017,Finance,Logistics,2025-02-06,106884.07,INR,Approved,Logistics purchase
+PO000801,VEN009,EMP087,Facilities,Office Supplies,2024-03-10,9906.90,INR,Approved,Office Supplies purchase
+PO000802,VEN006,EMP043,Operations,Office Supplies,2024-10-23,12993.82,INR,Closed,Office Supplies purchase
+PO000803,VEN010,EMP045,Operations,Office Supplies,2024-06-04,31466.86,INR,Approved,Office Supplies purchase
+PO000804,VEN041,EMP088,Facilities,Logistics,2024-09-14,108212.89,INR,Approved,Logistics purchase
+PO000805,VEN006,EMP034,Operations,Office Supplies,2024-11-27,19347.30,INR,Approved,Office Supplies purchase
+PO000806,VEN009,EMP067,Human Resources,Office Supplies,2024-03-14,19635.06,INR,Pending,Office Supplies purchase
+PO000807,VEN008,EMP047,Information Technology,Office Supplies,2025-03-15,8528.21,INR,Closed,Office Supplies purchase
+PO000808,VEN006,EMP056,Information Technology,Office Supplies,2024-05-25,8410.95,INR,Approved,Office Supplies purchase
+PO000809,VEN031,EMP097,Marketing,Logistics,2023-11-12,111383.46,INR,Approved,Logistics purchase
+PO000810,VEN044,EMP089,Facilities,Equipment,2024-02-29,61783.47,INR,Approved,Equipment purchase
+PO000811,VEN054,EMP070,Human Resources,Office Supplies,2025-01-24,30357.42,INR,Approved,Office Supplies purchase
+PO000812,VEN009,EMP080,Facilities,Office Supplies,2024-04-19,19268.52,INR,Approved,Office Supplies purchase
+PO000813,VEN037,EMP001,Procurement,IT Services,2024-03-09,20003.84,INR,Pending,IT Services purchase
+PO000814,VEN011,EMP114,Legal,Office Supplies,2023-07-23,50001.79,INR,Approved,Office Supplies purchase
+PO000815,VEN010,EMP032,Operations,Office Supplies,2024-06-26,38091.01,INR,Approved,Office Supplies purchase
+PO000816,VEN007,EMP066,Human Resources,Office Supplies,2024-05-15,35283.84,INR,Approved,Office Supplies purchase
+PO000817,VEN031,EMP003,Procurement,Logistics,2023-12-23,11204.34,INR,Approved,Logistics purchase
+PO000818,VEN034,EMP083,Facilities,Logistics,2024-01-08,85938.10,INR,Approved,Logistics purchase
+PO000819,VEN009,EMP042,Operations,Office Supplies,2023-05-12,77163.70,INR,Closed,Office Supplies purchase
+PO000820,VEN052,EMP049,Information Technology,Equipment,2024-11-11,198309.67,INR,Approved,Equipment purchase
+PO000821,VEN052,EMP050,Information Technology,Equipment,2024-12-02,119949.67,INR,Approved,Equipment purchase
+PO000822,VEN047,EMP039,Operations,Facilities Management,2023-11-13,84664.48,INR,Approved,Facilities Management purchase
+PO000823,VEN039,EMP109,Legal,Facilities Management,2024-03-22,45430.30,INR,Approved,Facilities Management purchase
+PO000824,VEN040,EMP112,Legal,Professional Services,2023-09-27,189093.49,INR,Approved,Professional Services purchase
+PO000825,VEN041,EMP053,Information Technology,Logistics,2025-03-26,112211.25,INR,Approved,Logistics purchase
+PO000826,VEN047,EMP029,Finance,Facilities Management,2024-06-08,40926.18,INR,Approved,Facilities Management purchase
+PO000827,VEN040,EMP071,Human Resources,Professional Services,2023-05-02,72196.58,INR,Approved,Professional Services purchase
+PO000828,VEN031,EMP083,Facilities,Logistics,2023-08-10,45199.95,INR,Approved,Logistics purchase
+PO000829,VEN009,EMP116,Legal,Office Supplies,2024-01-12,15680.82,INR,Approved,Office Supplies purchase
+PO000830,VEN033,EMP040,Operations,Logistics,2023-04-29,22630.58,INR,Approved,Logistics purchase
+PO000831,VEN007,EMP082,Facilities,Office Supplies,2023-04-13,594697.89,INR,Approved,Office Supplies purchase
+PO000832,VEN041,EMP058,Information Technology,Logistics,2023-04-01,48957.35,INR,Approved,Logistics purchase
+PO000833,VEN008,EMP068,Human Resources,Office Supplies,2023-06-04,65097.48,INR,Approved,Office Supplies purchase
+PO000834,VEN047,EMP094,Marketing,Facilities Management,2025-02-16,36336.65,INR,Approved,Facilities Management purchase
+PO000835,VEN037,EMP046,Information Technology,IT Services,2024-06-13,44591.86,INR,Approved,IT Services purchase
+PO000836,VEN031,EMP020,Finance,Logistics,2024-12-18,34725.70,INR,Approved,Logistics purchase
+PO000837,VEN008,EMP077,Facilities,Office Supplies,2024-02-09,53327.94,INR,Closed,Office Supplies purchase
+PO000838,VEN007,EMP109,Legal,Office Supplies,2023-08-12,27680.46,INR,Approved,Office Supplies purchase
+PO000839,VEN007,EMP088,Facilities,Office Supplies,2023-05-19,21048.88,INR,Approved,Office Supplies purchase
+PO000840,VEN008,EMP108,Legal,Office Supplies,2024-12-25,4087.72,INR,Approved,Office Supplies purchase
+PO000841,VEN031,EMP114,Legal,Logistics,2023-09-19,89321.28,INR,Approved,Logistics purchase
+PO000842,VEN007,EMP061,Human Resources,Office Supplies,2024-06-16,85182.62,INR,Rejected,Office Supplies purchase
+PO000843,VEN044,EMP039,Operations,Equipment,2024-03-01,65353.45,INR,Approved,Equipment purchase
+PO000844,VEN039,EMP088,Facilities,Facilities Management,2024-12-03,43849.18,INR,Approved,Facilities Management purchase
+PO000845,VEN044,EMP001,Procurement,Equipment,2024-11-06,392034.12,INR,Approved,Equipment purchase
+PO000846,VEN045,EMP005,Procurement,IT Services,2024-06-22,13877.48,INR,Approved,IT Services purchase
+PO000847,VEN042,EMP004,Procurement,Marketing Services,2024-08-26,163690.24,INR,Approved,Marketing Services purchase
+PO000848,VEN054,EMP112,Legal,Office Supplies,2023-11-03,12383.66,INR,Approved,Office Supplies purchase
+PO000849,VEN033,EMP059,Information Technology,Logistics,2024-06-04,21361.03,INR,Approved,Logistics purchase
+PO000850,VEN048,EMP041,Operations,Professional Services,2024-04-13,43224.93,INR,Approved,Professional Services purchase

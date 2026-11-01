@@ -1,0 +1,901 @@
+expense_id,employee_id,expense_date,submitted_at,category,amount_inr,currency,description,receipt_attached,status
+EXP000001,EMP040,2023-11-01,2023-11-02 14:56:00,Travel,12069.12,INR,Intercity travel,True,Reimbursed
+EXP000002,EMP057,2023-04-29,2023-05-01 15:39:00,Lodging,4300.77,INR,Hotel stay,True,Reimbursed
+EXP000003,EMP019,2024-09-26,2024-09-27 10:15:00,Lodging,4316.48,INR,Hotel stay,True,Reimbursed
+EXP000004,EMP118,2023-08-07,2023-08-08 10:35:00,Office Supplies,1327.95,INR,Office consumables,True,Reimbursed
+EXP000005,EMP056,2024-07-18,2024-07-19 11:31:00,Fuel,1667.12,INR,Local travel fuel,True,Reimbursed
+EXP000006,EMP113,2024-03-02,2024-03-04 09:08:00,Travel,8282.88,INR,Intercity travel,True,Reimbursed
+EXP000007,EMP043,2023-11-27,2023-11-28 17:20:00,Lodging,8983.42,INR,Hotel stay,True,Reimbursed
+EXP000008,EMP106,2023-10-02,2023-10-03 15:25:00,Meals,1224.51,INR,Business meal,True,Reimbursed
+EXP000009,EMP079,2024-11-09,2024-11-11 14:54:00,Client Entertainment,5492.45,INR,Client meeting,True,Reimbursed
+EXP000010,EMP002,2024-01-08,2024-01-09 10:03:00,Meals,4620.00,INR,Business meal,True,Reimbursed
+EXP000011,EMP059,2024-06-17,2024-06-18 13:53:00,Meals,1177.48,INR,Business meal,True,Reimbursed
+EXP000012,EMP035,2024-11-19,2024-11-20 15:08:00,Lodging,7104.80,INR,Hotel stay,True,Reimbursed
+EXP000013,EMP063,2024-10-09,2024-10-10 11:12:00,Travel,8008.84,INR,Intercity travel,True,Reimbursed
+EXP000014,EMP088,2023-06-08,2023-06-09 09:12:00,Fuel,3342.38,INR,Local travel fuel,False,Reimbursed
+EXP000015,EMP070,2024-02-10,2024-02-10 23:39:00,Client Entertainment,4300.00,INR,Client meeting,True,Reimbursed
+EXP000016,EMP078,2023-05-08,2023-05-09 11:46:00,Office Supplies,1456.16,INR,Office consumables,True,Reimbursed
+EXP000017,EMP064,2024-10-21,2024-10-22 11:51:00,Meals,1153.17,INR,Business meal,True,Reimbursed
+EXP000018,EMP088,2025-01-08,2025-01-09 11:04:00,Office Supplies,1240.53,INR,Office consumables,True,Reimbursed
+EXP000019,EMP002,2024-01-15,2024-01-16 09:06:00,Meals,4710.00,INR,Business meal,True,Reimbursed
+EXP000020,EMP091,2023-08-26,2023-08-28 15:46:00,Office Supplies,1718.40,INR,Office consumables,True,Reimbursed
+EXP000021,EMP116,2024-10-08,2024-10-09 17:06:00,Fuel,3095.93,INR,Local travel fuel,True,Reimbursed
+EXP000022,EMP068,2023-12-25,2023-12-26 13:58:00,Fuel,2863.50,INR,Local travel fuel,True,Reimbursed
+EXP000023,EMP035,2024-08-08,2024-08-09 16:48:00,Client Entertainment,3193.98,INR,Client meeting,False,Reimbursed
+EXP000024,EMP037,2023-11-30,2023-12-01 14:57:00,Client Entertainment,6872.92,INR,Client meeting,False,Reimbursed
+EXP000025,EMP081,2025-03-05,2025-03-06 14:37:00,Meals,2445.42,INR,Business meal,True,Reimbursed
+EXP000026,EMP032,2023-11-06,2023-11-07 13:29:00,Travel,6400.00,INR,Intercity travel,True,Reimbursed
+EXP000027,EMP089,2023-11-03,2023-11-06 12:33:00,Client Entertainment,2969.56,INR,Client meeting,False,Reimbursed
+EXP000028,EMP040,2023-07-12,2023-07-13 11:39:00,Office Supplies,527.57,INR,Office consumables,True,Reimbursed
+EXP000029,EMP097,2024-04-04,2024-04-05 17:07:00,Meals,1536.00,INR,Business meal,True,Reimbursed
+EXP000030,EMP086,2023-07-30,2023-07-31 17:06:00,Lodging,3600.00,INR,Hotel stay,False,Reimbursed
+EXP000031,EMP082,2024-03-12,2024-03-13 12:56:00,Office Supplies,893.21,INR,Office consumables,False,Reimbursed
+EXP000032,EMP081,2024-03-24,2024-03-25 13:15:00,Office Supplies,847.45,INR,Office consumables,True,Reimbursed
+EXP000033,EMP031,2025-02-14,2025-02-17 13:45:00,Office Supplies,1264.49,INR,Office consumables,False,Reimbursed
+EXP000034,EMP106,2024-06-22,2024-06-24 13:10:00,Office Supplies,840.08,INR,Office consumables,False,Reimbursed
+EXP000035,EMP063,2023-09-07,2023-09-08 17:57:00,Travel,7250.65,INR,Intercity travel,True,Reimbursed
+EXP000036,EMP098,2024-04-12,2024-04-15 13:33:00,Lodging,5128.82,INR,Hotel stay,True,Reimbursed
+EXP000037,EMP075,2024-02-05,2024-02-05 23:32:00,Client Entertainment,4300.00,INR,Client meeting,False,Reimbursed
+EXP000038,EMP120,2024-02-09,2024-02-12 11:42:00,Travel,6323.21,INR,Intercity travel,True,Reimbursed
+EXP000039,EMP058,2024-04-23,2024-04-24 09:20:00,Travel,6241.47,INR,Intercity travel,True,Reimbursed
+EXP000040,EMP046,2023-12-25,2023-12-26 15:53:00,Meals,1676.71,INR,Business meal,True,Reimbursed
+EXP000041,EMP033,2025-03-31,2025-03-31 12:53:00,Travel,8248.88,INR,Intercity travel,True,Reimbursed
+EXP000042,EMP096,2024-04-24,2024-04-25 10:24:00,Client Entertainment,2485.27,INR,Client meeting,True,Reimbursed
+EXP000043,EMP103,2023-12-12,2023-12-13 09:32:00,Lodging,4851.58,INR,Hotel stay,False,Reimbursed
+EXP000044,EMP028,2024-09-08,2024-09-09 16:13:00,Client Entertainment,3110.72,INR,Client meeting,True,Reimbursed
+EXP000045,EMP117,2023-06-27,2023-06-28 14:38:00,Travel,10982.36,INR,Intercity travel,True,Reimbursed
+EXP000046,EMP005,2024-05-24,2024-05-27 16:46:00,Office Supplies,678.21,INR,Office consumables,True,Reimbursed
+EXP000047,EMP032,2023-11-07,2023-11-08 12:48:00,Travel,6400.00,INR,Intercity travel,True,Reimbursed
+EXP000048,EMP032,2024-05-27,2024-05-28 12:24:00,Meals,1985.76,INR,Business meal,False,Reimbursed
+EXP000049,EMP113,2024-10-13,2024-10-14 14:42:00,Client Entertainment,4829.58,INR,Client meeting,True,Reimbursed
+EXP000050,EMP116,2023-06-30,2023-07-03 17:13:00,Client Entertainment,4453.57,INR,Client meeting,True,Reimbursed
+EXP000051,EMP050,2025-03-28,2025-03-31 10:51:00,Lodging,4422.00,INR,Hotel stay,False,Reimbursed
+EXP000052,EMP052,2023-07-30,2023-07-31 13:24:00,Lodging,3440.42,INR,Hotel stay,False,Reimbursed
+EXP000053,EMP033,2023-12-06,2023-12-07 09:25:00,Travel,6525.00,INR,Intercity travel,True,Reimbursed
+EXP000054,EMP071,2024-07-30,2024-07-31 13:07:00,Client Entertainment,3611.93,INR,Client meeting,True,Reimbursed
+EXP000055,EMP049,2023-07-07,2023-07-10 11:52:00,Client Entertainment,6716.55,INR,Client meeting,True,Reimbursed
+EXP000056,EMP053,2023-07-26,2023-07-27 10:04:00,Fuel,1949.50,INR,Local travel fuel,False,Reimbursed
+EXP000057,EMP036,2023-05-30,2023-05-31 11:34:00,Travel,7184.49,INR,Intercity travel,True,Reimbursed
+EXP000058,EMP070,2023-05-08,2023-05-09 12:19:00,Fuel,2469.21,INR,Local travel fuel,True,Reimbursed
+EXP000059,EMP109,2024-01-31,2024-02-01 15:57:00,Fuel,2662.25,INR,Local travel fuel,True,Reimbursed
+EXP000060,EMP021,2024-06-26,2024-06-27 17:25:00,Office Supplies,762.41,INR,Office consumables,True,Reimbursed
+EXP000061,EMP043,2024-04-15,2024-04-16 15:45:00,Office Supplies,2112.20,INR,Office consumables,True,Reimbursed
+EXP000062,EMP119,2024-07-10,2024-07-11 15:06:00,Client Entertainment,2848.77,INR,Client meeting,False,Reimbursed
+EXP000063,EMP043,2024-09-16,2024-09-17 13:52:00,Fuel,2368.67,INR,Local travel fuel,True,Reimbursed
+EXP000064,EMP083,2025-02-21,2025-02-24 15:57:00,Lodging,2241.75,INR,Hotel stay,True,Reimbursed
+EXP000065,EMP050,2024-11-17,2024-11-18 15:40:00,Office Supplies,1217.54,INR,Office consumables,True,Reimbursed
+EXP000066,EMP111,2024-05-05,2024-05-06 09:53:00,Travel,14718.99,INR,Intercity travel,True,Reimbursed
+EXP000067,EMP083,2024-12-25,2024-12-26 10:47:00,Office Supplies,1169.11,INR,Office consumables,True,Reimbursed
+EXP000068,EMP042,2023-05-10,2023-05-12 16:24:00,Lodging,5100.00,INR,Hotel stay,True,Reimbursed
+EXP000069,EMP066,2024-02-05,2024-02-06 10:29:00,Client Entertainment,3648.26,INR,Client meeting,True,Reimbursed
+EXP000070,EMP115,2025-03-07,2025-03-10 15:38:00,Travel,9895.85,INR,Intercity travel,True,Reimbursed
+EXP000071,EMP109,2024-08-07,2024-08-08 10:57:00,Fuel,5738.67,INR,Local travel fuel,True,Reimbursed
+EXP000072,EMP025,2023-08-12,2023-08-14 09:58:00,Travel,11057.04,INR,Intercity travel,True,Reimbursed
+EXP000073,EMP033,2023-12-07,2023-12-08 10:45:00,Travel,6525.00,INR,Intercity travel,True,Reimbursed
+EXP000074,EMP033,2024-04-12,2024-04-15 17:21:00,Office Supplies,1826.05,INR,Office consumables,True,Reimbursed
+EXP000075,EMP062,2023-11-25,2023-11-27 12:43:00,Client Entertainment,4494.21,INR,Client meeting,True,Reimbursed
+EXP000076,EMP002,2024-01-22,2024-01-23 16:02:00,Meals,4880.00,INR,Business meal,True,Reimbursed
+EXP000077,EMP006,2024-08-17,2024-08-19 12:08:00,Lodging,5063.66,INR,Hotel stay,True,Reimbursed
+EXP000078,EMP091,2023-04-10,2023-04-11 09:50:00,Client Entertainment,5132.76,INR,Client meeting,True,Reimbursed
+EXP000079,EMP110,2023-08-14,2023-08-15 15:11:00,Lodging,4888.70,INR,Hotel stay,True,Reimbursed
+EXP000080,EMP042,2024-05-10,2024-05-13 16:50:00,Fuel,3588.29,INR,Local travel fuel,True,Reimbursed
+EXP000081,EMP074,2025-01-05,2025-01-06 12:47:00,Meals,866.55,INR,Business meal,True,Reimbursed
+EXP000082,EMP046,2025-01-11,2025-01-13 17:53:00,Client Entertainment,4269.62,INR,Client meeting,True,Reimbursed
+EXP000083,EMP053,2024-02-10,2024-02-10 23:05:00,Client Entertainment,4500.00,INR,Client meeting,False,Reimbursed
+EXP000084,EMP029,2024-03-19,2024-03-20 14:13:00,Fuel,2495.71,INR,Local travel fuel,True,Reimbursed
+EXP000085,EMP034,2024-01-05,2024-01-08 14:42:00,Travel,6650.00,INR,Intercity travel,True,Reimbursed
+EXP000086,EMP072,2024-05-31,2024-06-03 10:46:00,Travel,10064.46,INR,Intercity travel,True,Reimbursed
+EXP000087,EMP082,2024-07-17,2024-07-18 09:01:00,Fuel,1519.06,INR,Local travel fuel,True,Reimbursed
+EXP000088,EMP002,2024-01-29,2024-01-30 11:36:00,Meals,4950.00,INR,Business meal,True,Reimbursed
+EXP000089,EMP021,2023-08-09,2023-08-10 12:09:00,Office Supplies,639.93,INR,Office consumables,True,Reimbursed
+EXP000090,EMP118,2025-03-11,2025-03-12 10:15:00,Lodging,2664.84,INR,Hotel stay,True,Reimbursed
+EXP000091,EMP077,2023-11-15,2023-11-16 11:09:00,Client Entertainment,5203.21,INR,Client meeting,True,Reimbursed
+EXP000092,EMP049,2024-03-06,2024-03-07 13:49:00,Office Supplies,1068.44,INR,Office consumables,True,Reimbursed
+EXP000093,EMP094,2024-07-18,2024-07-19 15:28:00,Travel,5428.55,INR,Intercity travel,True,Reimbursed
+EXP000094,EMP046,2024-11-30,2024-12-02 15:12:00,Fuel,2575.79,INR,Local travel fuel,True,Reimbursed
+EXP000095,EMP084,2023-05-16,2023-05-17 14:03:00,Fuel,1227.72,INR,Local travel fuel,True,Reimbursed
+EXP000096,EMP003,2024-02-17,2024-02-19 14:49:00,Meals,4620.00,INR,Business meal,True,Reimbursed
+EXP000097,EMP093,2023-07-10,2023-07-11 16:04:00,Lodging,6525.90,INR,Hotel stay,True,Reimbursed
+EXP000098,EMP047,2023-07-21,2023-07-24 13:56:00,Lodging,3746.37,INR,Hotel stay,True,Reimbursed
+EXP000099,EMP066,2024-02-10,2024-02-10 23:32:00,Client Entertainment,4300.00,INR,Client meeting,False,Reimbursed
+EXP000100,EMP045,2024-08-12,2024-08-13 13:47:00,Fuel,1639.50,INR,Local travel fuel,True,Reimbursed
+EXP000101,EMP006,2023-12-15,2023-12-18 09:16:00,Office Supplies,2141.26,INR,Office consumables,True,Reimbursed
+EXP000102,EMP088,2023-05-13,2023-05-15 11:43:00,Office Supplies,841.60,INR,Office consumables,True,Reimbursed
+EXP000103,EMP003,2024-02-24,2024-02-26 17:24:00,Meals,4710.00,INR,Business meal,True,Reimbursed
+EXP000104,EMP044,2023-07-20,2023-07-21 17:02:00,Fuel,3241.25,INR,Local travel fuel,True,Reimbursed
+EXP000105,EMP031,2023-12-15,2023-12-18 13:07:00,Office Supplies,991.26,INR,Office consumables,True,Reimbursed
+EXP000106,EMP105,2023-10-01,2023-10-02 14:28:00,Fuel,4219.65,INR,Local travel fuel,True,Reimbursed
+EXP000107,EMP064,2024-12-21,2024-12-23 12:57:00,Client Entertainment,4723.13,INR,Client meeting,False,Reimbursed
+EXP000108,EMP111,2023-11-02,2023-11-03 16:16:00,Travel,14336.37,INR,Intercity travel,True,Reimbursed
+EXP000109,EMP048,2024-05-08,2024-05-09 13:51:00,Lodging,10800.00,INR,Hotel stay,True,Reimbursed
+EXP000110,EMP086,2023-10-31,2023-11-01 14:14:00,Office Supplies,679.98,INR,Office consumables,False,Reimbursed
+EXP000111,EMP064,2025-03-02,2025-03-03 10:46:00,Lodging,7340.90,INR,Hotel stay,True,Reimbursed
+EXP000112,EMP062,2024-05-24,2024-05-27 09:10:00,Fuel,2795.55,INR,Local travel fuel,True,Reimbursed
+EXP000113,EMP033,2024-06-02,2024-06-03 12:10:00,Meals,1437.35,INR,Business meal,True,Reimbursed
+EXP000114,EMP113,2023-04-04,2023-04-05 09:11:00,Fuel,5210.93,INR,Local travel fuel,True,Reimbursed
+EXP000115,EMP086,2023-12-13,2023-12-14 17:30:00,Lodging,3603.43,INR,Hotel stay,True,Reimbursed
+EXP000116,EMP082,2023-06-11,2023-06-12 15:29:00,Meals,1293.41,INR,Business meal,True,Reimbursed
+EXP000117,EMP005,2025-03-04,2025-03-05 17:57:00,Office Supplies,1525.27,INR,Office consumables,True,Reimbursed
+EXP000118,EMP117,2024-05-19,2024-05-20 09:07:00,Travel,15013.09,INR,Intercity travel,True,Reimbursed
+EXP000119,EMP035,2024-04-06,2024-04-08 13:36:00,Lodging,5920.42,INR,Hotel stay,True,Reimbursed
+EXP000120,EMP006,2023-10-16,2023-10-17 15:49:00,Fuel,2414.08,INR,Local travel fuel,True,Reimbursed
+EXP000121,EMP066,2023-05-12,2023-05-15 11:58:00,Meals,1356.36,INR,Business meal,True,Reimbursed
+EXP000122,EMP074,2024-02-01,2024-02-02 10:02:00,Travel,7678.72,INR,Intercity travel,True,Reimbursed
+EXP000123,EMP060,2024-04-14,2024-04-15 11:12:00,Office Supplies,1135.33,INR,Office consumables,True,Reimbursed
+EXP000124,EMP106,2024-06-28,2024-07-01 16:07:00,Client Entertainment,4820.57,INR,Client meeting,True,Reimbursed
+EXP000125,EMP042,2025-02-03,2025-02-04 10:48:00,Client Entertainment,4666.65,INR,Client meeting,True,Reimbursed
+EXP000126,EMP071,2024-09-18,2024-09-19 12:48:00,Client Entertainment,5441.57,INR,Client meeting,False,Reimbursed
+EXP000127,EMP022,2023-05-16,2023-05-17 10:53:00,Office Supplies,827.26,INR,Office consumables,True,Reimbursed
+EXP000128,EMP023,2023-11-25,2023-11-27 14:29:00,Lodging,4400.99,INR,Hotel stay,True,Reimbursed
+EXP000129,EMP029,2024-04-24,2024-04-25 16:15:00,Travel,6792.76,INR,Intercity travel,True,Reimbursed
+EXP000130,EMP086,2024-02-25,2024-02-26 11:45:00,Client Entertainment,3215.07,INR,Client meeting,True,Reimbursed
+EXP000131,EMP046,2024-08-26,2024-08-27 16:52:00,Client Entertainment,3023.59,INR,Client meeting,True,Reimbursed
+EXP000132,EMP110,2024-02-20,2024-02-21 10:22:00,Office Supplies,648.09,INR,Office consumables,True,Reimbursed
+EXP000133,EMP118,2024-05-23,2024-05-24 11:10:00,Office Supplies,993.90,INR,Office consumables,True,Reimbursed
+EXP000134,EMP113,2024-05-20,2024-05-21 12:19:00,Travel,6711.95,INR,Intercity travel,True,Reimbursed
+EXP000135,EMP065,2023-07-23,2023-07-24 09:49:00,Meals,1273.25,INR,Business meal,True,Reimbursed
+EXP000136,EMP019,2024-07-03,2024-07-04 13:46:00,Office Supplies,598.91,INR,Office consumables,False,Reimbursed
+EXP000137,EMP071,2024-02-24,2024-02-24 23:07:00,Client Entertainment,4325.00,INR,Client meeting,True,Reimbursed
+EXP000138,EMP099,2023-10-30,2023-10-31 16:55:00,Meals,2631.20,INR,Business meal,True,Reimbursed
+EXP000139,EMP025,2025-01-08,2025-01-09 10:02:00,Client Entertainment,3569.24,INR,Client meeting,True,Reimbursed
+EXP000140,EMP024,2024-08-01,2024-08-02 13:28:00,Office Supplies,1177.26,INR,Office consumables,True,Reimbursed
+EXP000141,EMP021,2024-04-02,2024-04-03 11:01:00,Meals,4800.00,INR,Business meal,True,Reimbursed
+EXP000142,EMP074,2024-01-27,2024-01-29 11:29:00,Fuel,2063.10,INR,Local travel fuel,True,Reimbursed
+EXP000143,EMP003,2023-10-05,2023-10-06 13:32:00,Office Supplies,1273.62,INR,Office consumables,True,Reimbursed
+EXP000144,EMP079,2023-11-26,2023-11-27 09:37:00,Office Supplies,364.14,INR,Office consumables,True,Reimbursed
+EXP000145,EMP077,2024-02-23,2024-02-23 23:08:00,Client Entertainment,4325.00,INR,Client meeting,False,Reimbursed
+EXP000146,EMP019,2024-12-28,2024-12-30 14:36:00,Travel,7599.84,INR,Intercity travel,True,Reimbursed
+EXP000147,EMP040,2024-09-18,2024-09-19 15:21:00,Meals,1505.90,INR,Business meal,True,Reimbursed
+EXP000148,EMP043,2024-08-13,2024-08-14 12:48:00,Client Entertainment,3896.48,INR,Client meeting,True,Reimbursed
+EXP000149,EMP005,2023-05-10,2023-05-11 15:09:00,Fuel,3109.87,INR,Local travel fuel,True,Reimbursed
+EXP000150,EMP086,2024-05-10,2024-05-13 14:28:00,Client Entertainment,2427.28,INR,Client meeting,True,Reimbursed
+EXP000151,EMP078,2024-08-23,2024-08-26 15:31:00,Office Supplies,814.02,INR,Office consumables,False,Reimbursed
+EXP000152,EMP120,2023-04-09,2023-04-10 15:53:00,Office Supplies,527.54,INR,Office consumables,True,Reimbursed
+EXP000153,EMP019,2023-04-21,2023-04-24 12:41:00,Client Entertainment,4119.73,INR,Client meeting,True,Reimbursed
+EXP000154,EMP118,2023-10-18,2023-10-19 13:26:00,Meals,790.42,INR,Business meal,True,Reimbursed
+EXP000155,EMP052,2024-04-15,2024-04-16 16:36:00,Client Entertainment,2469.96,INR,Client meeting,True,Reimbursed
+EXP000156,EMP033,2024-03-25,2024-03-26 09:53:00,Fuel,1730.26,INR,Local travel fuel,True,Reimbursed
+EXP000157,EMP105,2023-10-16,2023-10-17 17:35:00,Client Entertainment,1645.18,INR,Client meeting,True,Reimbursed
+EXP000158,EMP116,2024-03-29,2024-04-01 17:35:00,Fuel,2110.08,INR,Local travel fuel,True,Reimbursed
+EXP000159,EMP056,2024-05-21,2024-05-22 14:03:00,Lodging,5893.58,INR,Hotel stay,True,Reimbursed
+EXP000160,EMP079,2023-04-17,2023-04-18 16:50:00,Meals,1617.53,INR,Business meal,True,Reimbursed
+EXP000161,EMP016,2024-10-15,2024-10-16 13:34:00,Office Supplies,1574.56,INR,Office consumables,True,Reimbursed
+EXP000162,EMP031,2023-05-09,2023-05-10 09:15:00,Meals,963.59,INR,Business meal,True,Reimbursed
+EXP000163,EMP035,2023-07-30,2023-07-31 14:48:00,Travel,11076.63,INR,Intercity travel,True,Reimbursed
+EXP000164,EMP081,2024-09-02,2024-09-03 16:38:00,Meals,1677.41,INR,Business meal,True,Reimbursed
+EXP000165,EMP003,2024-03-02,2024-03-04 11:05:00,Meals,4880.00,INR,Business meal,True,Reimbursed
+EXP000166,EMP051,2024-02-13,2024-02-14 14:54:00,Meals,1242.43,INR,Business meal,True,Reimbursed
+EXP000167,EMP020,2024-02-10,2024-02-12 11:57:00,Lodging,8658.79,INR,Hotel stay,True,Reimbursed
+EXP000168,EMP113,2024-11-24,2024-11-25 13:06:00,Lodging,3451.54,INR,Hotel stay,True,Reimbursed
+EXP000169,EMP057,2023-07-22,2023-07-24 15:27:00,Travel,6630.19,INR,Intercity travel,True,Reimbursed
+EXP000170,EMP026,2023-09-10,2023-09-11 16:11:00,Travel,14047.03,INR,Intercity travel,True,Reimbursed
+EXP000171,EMP120,2025-01-19,2025-01-20 16:04:00,Fuel,2460.14,INR,Local travel fuel,True,Reimbursed
+EXP000172,EMP110,2024-05-08,2024-05-09 13:15:00,Fuel,3284.74,INR,Local travel fuel,True,Reimbursed
+EXP000173,EMP063,2023-11-30,2023-12-01 17:51:00,Office Supplies,1003.36,INR,Office consumables,False,Reimbursed
+EXP000174,EMP076,2025-03-20,2025-03-21 10:48:00,Client Entertainment,7200.00,INR,Client meeting,True,Reimbursed
+EXP000175,EMP031,2023-09-21,2023-09-22 15:40:00,Fuel,3005.31,INR,Local travel fuel,True,Reimbursed
+EXP000176,EMP109,2023-12-06,2023-12-07 13:44:00,Fuel,2881.71,INR,Local travel fuel,True,Reimbursed
+EXP000177,EMP088,2024-12-11,2024-12-12 17:15:00,Meals,1774.25,INR,Business meal,False,Reimbursed
+EXP000178,EMP079,2023-12-01,2023-12-04 14:04:00,Fuel,4259.48,INR,Local travel fuel,True,Reimbursed
+EXP000179,EMP034,2024-01-06,2024-01-08 09:27:00,Travel,6650.00,INR,Intercity travel,True,Reimbursed
+EXP000180,EMP102,2024-03-08,2024-03-11 10:54:00,Client Entertainment,2551.06,INR,Client meeting,True,Reimbursed
+EXP000181,EMP046,2023-10-27,2023-10-30 17:47:00,Office Supplies,2044.19,INR,Office consumables,True,Reimbursed
+EXP000182,EMP082,2023-04-20,2023-04-21 16:11:00,Travel,11003.65,INR,Intercity travel,True,Reimbursed
+EXP000183,EMP042,2025-03-16,2025-03-17 12:40:00,Office Supplies,846.62,INR,Office consumables,True,Reimbursed
+EXP000184,EMP004,2024-10-18,2024-10-21 10:01:00,Lodging,3131.39,INR,Hotel stay,True,Reimbursed
+EXP000185,EMP063,2024-10-17,2024-10-18 10:54:00,Meals,1153.72,INR,Business meal,False,Reimbursed
+EXP000186,EMP050,2023-06-11,2023-06-12 12:11:00,Client Entertainment,5112.68,INR,Client meeting,True,Reimbursed
+EXP000187,EMP076,2023-08-11,2023-08-14 12:20:00,Fuel,2145.01,INR,Local travel fuel,True,Reimbursed
+EXP000188,EMP053,2024-09-29,2024-09-30 13:56:00,Office Supplies,1509.25,INR,Office consumables,True,Reimbursed
+EXP000189,EMP071,2023-09-03,2023-09-04 16:20:00,Client Entertainment,2640.98,INR,Client meeting,True,Reimbursed
+EXP000190,EMP082,2025-01-09,2025-01-10 15:01:00,Meals,1077.32,INR,Business meal,True,Reimbursed
+EXP000191,EMP055,2024-01-09,2024-01-10 15:39:00,Office Supplies,1234.56,INR,Office consumables,True,Reimbursed
+EXP000192,EMP079,2024-05-16,2024-05-17 15:28:00,Office Supplies,732.30,INR,Office consumables,True,Reimbursed
+EXP000193,EMP078,2024-03-12,2024-03-12 23:31:00,Client Entertainment,4350.00,INR,Client meeting,False,Reimbursed
+EXP000194,EMP050,2023-10-03,2023-10-04 13:49:00,Fuel,4054.46,INR,Local travel fuel,True,Reimbursed
+EXP000195,EMP049,2024-02-25,2024-02-26 16:57:00,Office Supplies,773.15,INR,Office consumables,True,Reimbursed
+EXP000196,EMP046,2023-12-28,2023-12-29 11:18:00,Office Supplies,783.22,INR,Office consumables,True,Reimbursed
+EXP000197,EMP075,2023-08-27,2023-08-28 10:11:00,Client Entertainment,5977.70,INR,Client meeting,True,Reimbursed
+EXP000198,EMP029,2025-03-23,2025-03-24 15:53:00,Fuel,2056.96,INR,Local travel fuel,True,Reimbursed
+EXP000199,EMP067,2024-11-15,2024-11-18 14:46:00,Fuel,3148.30,INR,Local travel fuel,True,Reimbursed
+EXP000200,EMP116,2024-09-13,2024-09-16 12:06:00,Lodging,8129.17,INR,Hotel stay,True,Reimbursed
+EXP000201,EMP066,2024-03-04,2024-03-05 09:36:00,Travel,10321.43,INR,Intercity travel,True,Reimbursed
+EXP000202,EMP054,2024-02-24,2024-02-24 23:15:00,Client Entertainment,4525.00,INR,Client meeting,False,Reimbursed
+EXP000203,EMP106,2024-09-07,2024-09-09 13:59:00,Travel,7170.21,INR,Intercity travel,True,Reimbursed
+EXP000204,EMP004,2023-09-24,2023-09-25 11:25:00,Lodging,3702.74,INR,Hotel stay,True,Reimbursed
+EXP000205,EMP006,2024-02-26,2024-02-27 13:42:00,Client Entertainment,4286.99,INR,Client meeting,True,Reimbursed
+EXP000206,EMP064,2025-06-18,2025-06-18 11:00:00,Office Supplies,1056.19,INR,Office consumables,True,Reimbursed
+EXP000207,EMP021,2025-01-23,2025-01-24 10:48:00,Office Supplies,710.47,INR,Office consumables,True,Reimbursed
+EXP000208,EMP029,2023-11-29,2023-11-30 12:49:00,Client Entertainment,2537.26,INR,Client meeting,True,Reimbursed
+EXP000209,EMP120,2024-01-28,2024-01-29 17:17:00,Office Supplies,1254.87,INR,Office consumables,True,Reimbursed
+EXP000210,EMP075,2023-04-05,2023-04-06 16:01:00,Fuel,2922.75,INR,Local travel fuel,True,Reimbursed
+EXP000211,EMP020,2024-05-19,2024-05-20 15:40:00,Office Supplies,795.87,INR,Office consumables,False,Reimbursed
+EXP000212,EMP042,2023-09-03,2023-09-04 14:43:00,Travel,9869.23,INR,Intercity travel,True,Reimbursed
+EXP000213,EMP056,2023-05-21,2023-05-22 10:56:00,Travel,9294.54,INR,Intercity travel,True,Reimbursed
+EXP000214,EMP081,2024-02-10,2024-02-10 23:48:00,Client Entertainment,800.00,INR,Client meeting,False,Reimbursed
+EXP000215,EMP033,2024-04-05,2024-04-08 16:38:00,Fuel,3317.13,INR,Local travel fuel,True,Reimbursed
+EXP000216,EMP072,2024-08-23,2024-08-26 12:43:00,Meals,1726.42,INR,Business meal,False,Reimbursed
+EXP000217,EMP048,2023-05-03,2023-05-04 17:34:00,Client Entertainment,3898.20,INR,Client meeting,True,Reimbursed
+EXP000218,EMP056,2023-04-14,2023-04-17 14:38:00,Lodging,5071.04,INR,Hotel stay,True,Reimbursed
+EXP000219,EMP044,2023-08-16,2023-08-17 17:37:00,Meals,2744.08,INR,Business meal,True,Reimbursed
+EXP000220,EMP103,2025-03-13,2025-03-14 15:20:00,Fuel,2120.49,INR,Local travel fuel,True,Reimbursed
+EXP000221,EMP063,2023-07-31,2023-08-01 13:45:00,Client Entertainment,2952.02,INR,Client meeting,True,Reimbursed
+EXP000222,EMP101,2024-05-07,2024-05-08 15:19:00,Client Entertainment,5580.92,INR,Client meeting,True,Reimbursed
+EXP000223,EMP084,2024-04-13,2024-04-15 16:50:00,Meals,1193.25,INR,Business meal,False,Reimbursed
+EXP000224,EMP104,2023-06-19,2023-06-20 17:00:00,Travel,12458.13,INR,Intercity travel,True,Reimbursed
+EXP000225,EMP022,2024-04-23,2024-04-24 09:00:00,Meals,4815.00,INR,Business meal,True,Reimbursed
+EXP000226,EMP008,2023-09-24,2023-09-25 16:23:00,Client Entertainment,5831.53,INR,Client meeting,True,Reimbursed
+EXP000227,EMP081,2023-10-26,2023-10-27 15:10:00,Client Entertainment,2207.53,INR,Client meeting,True,Reimbursed
+EXP000228,EMP078,2025-02-18,2025-02-19 10:52:00,Meals,1761.34,INR,Business meal,True,Reimbursed
+EXP000229,EMP073,2023-10-13,2023-10-16 16:31:00,Travel,5789.75,INR,Intercity travel,False,Reimbursed
+EXP000230,EMP017,2024-06-15,2024-06-17 17:16:00,Lodging,5454.34,INR,Hotel stay,True,Reimbursed
+EXP000231,EMP104,2024-04-25,2024-04-26 13:28:00,Lodging,3716.59,INR,Hotel stay,True,Reimbursed
+EXP000232,EMP047,2023-12-26,2023-12-27 09:51:00,Lodging,6401.24,INR,Hotel stay,True,Reimbursed
+EXP000233,EMP022,2023-12-25,2023-12-26 10:14:00,Fuel,3264.56,INR,Local travel fuel,True,Reimbursed
+EXP000234,EMP098,2024-01-04,2024-01-05 14:47:00,Fuel,3501.92,INR,Local travel fuel,False,Reimbursed
+EXP000235,EMP068,2025-03-28,2025-03-31 17:48:00,Office Supplies,1362.93,INR,Office consumables,True,Reimbursed
+EXP000236,EMP090,2024-09-24,2024-09-25 16:50:00,Lodging,6308.95,INR,Hotel stay,True,Reimbursed
+EXP000237,EMP003,2024-03-09,2024-03-11 17:22:00,Meals,4950.00,INR,Business meal,True,Reimbursed
+EXP000238,EMP077,2025-01-10,2025-01-13 16:10:00,Lodging,5221.77,INR,Hotel stay,True,Reimbursed
+EXP000239,EMP005,2024-06-27,2024-06-28 16:49:00,Client Entertainment,2933.77,INR,Client meeting,True,Reimbursed
+EXP000240,EMP073,2025-01-08,2025-01-09 12:45:00,Office Supplies,667.66,INR,Office consumables,True,Reimbursed
+EXP000241,EMP118,2024-11-02,2024-11-04 11:29:00,Fuel,2905.34,INR,Local travel fuel,True,Reimbursed
+EXP000242,EMP046,2025-03-17,2025-03-18 09:41:00,Lodging,6055.50,INR,Hotel stay,True,Reimbursed
+EXP000243,EMP026,2023-10-04,2023-10-05 16:57:00,Client Entertainment,3389.46,INR,Client meeting,True,Reimbursed
+EXP000244,EMP087,2023-11-06,2023-11-07 11:59:00,Travel,6071.39,INR,Intercity travel,True,Reimbursed
+EXP000245,EMP039,2024-06-25,2024-06-26 09:24:00,Fuel,2214.25,INR,Local travel fuel,True,Reimbursed
+EXP000246,EMP044,2023-12-07,2023-12-08 17:11:00,Office Supplies,1577.42,INR,Office consumables,False,Reimbursed
+EXP000247,EMP038,2024-11-17,2024-11-18 14:40:00,Client Entertainment,3684.00,INR,Client meeting,False,Reimbursed
+EXP000248,EMP073,2025-03-22,2025-03-24 15:57:00,Travel,3199.10,INR,Intercity travel,True,Reimbursed
+EXP000249,EMP090,2023-08-18,2023-08-21 16:23:00,Office Supplies,638.83,INR,Office consumables,True,Reimbursed
+EXP000250,EMP069,2024-01-24,2024-01-25 16:17:00,Client Entertainment,3030.61,INR,Client meeting,True,Reimbursed
+EXP000251,EMP075,2024-07-08,2024-07-09 12:38:00,Travel,9390.88,INR,Intercity travel,True,Reimbursed
+EXP000252,EMP106,2024-10-05,2024-10-07 15:12:00,Office Supplies,663.43,INR,Office consumables,True,Reimbursed
+EXP000253,EMP069,2023-09-23,2023-09-25 11:11:00,Travel,5457.34,INR,Intercity travel,True,Reimbursed
+EXP000254,EMP050,2024-05-31,2024-06-03 13:30:00,Meals,2548.50,INR,Business meal,True,Reimbursed
+EXP000255,EMP057,2024-02-18,2024-02-19 12:59:00,Office Supplies,1718.44,INR,Office consumables,True,Reimbursed
+EXP000256,EMP093,2023-06-11,2023-06-12 10:11:00,Lodging,5159.80,INR,Hotel stay,True,Reimbursed
+EXP000257,EMP094,2024-03-23,2024-03-25 09:45:00,Meals,1881.24,INR,Business meal,True,Reimbursed
+EXP000258,EMP063,2025-02-20,2025-02-21 15:54:00,Fuel,1443.39,INR,Local travel fuel,True,Reimbursed
+EXP000259,EMP041,2023-11-29,2023-11-30 15:13:00,Fuel,3420.50,INR,Local travel fuel,False,Reimbursed
+EXP000260,EMP006,2025-03-30,2025-03-31 11:10:00,Fuel,5363.49,INR,Local travel fuel,True,Reimbursed
+EXP000261,EMP016,2023-09-30,2023-10-02 15:31:00,Client Entertainment,3780.62,INR,Client meeting,True,Reimbursed
+EXP000262,EMP075,2024-02-10,2024-02-12 10:33:00,Travel,5954.23,INR,Intercity travel,True,Reimbursed
+EXP000263,EMP055,2024-03-16,2024-03-16 23:30:00,Client Entertainment,4550.00,INR,Client meeting,False,Reimbursed
+EXP000264,EMP085,2024-08-01,2024-08-02 12:10:00,Fuel,1681.09,INR,Local travel fuel,True,Reimbursed
+EXP000265,EMP024,2023-05-14,2023-05-15 12:49:00,Lodging,4177.90,INR,Hotel stay,True,Reimbursed
+EXP000266,EMP112,2025-01-11,2025-01-13 09:16:00,Lodging,3435.63,INR,Hotel stay,True,Reimbursed
+EXP000267,EMP119,2023-10-04,2023-10-05 12:54:00,Travel,3561.72,INR,Intercity travel,True,Reimbursed
+EXP000268,EMP016,2023-09-30,2023-10-02 09:45:00,Travel,14860.11,INR,Intercity travel,True,Reimbursed
+EXP000269,EMP108,2024-01-11,2024-01-12 11:59:00,Lodging,8298.53,INR,Hotel stay,False,Reimbursed
+EXP000270,EMP066,2025-03-20,2025-03-21 11:20:00,Lodging,9573.30,INR,Hotel stay,True,Reimbursed
+EXP000271,EMP058,2023-04-16,2023-04-17 13:36:00,Client Entertainment,3956.59,INR,Client meeting,False,Reimbursed
+EXP000272,EMP087,2025-03-12,2025-03-13 13:35:00,Travel,3690.00,INR,Intercity travel,True,Reimbursed
+EXP000273,EMP030,2024-10-14,2024-10-15 12:19:00,Travel,9328.94,INR,Intercity travel,True,Reimbursed
+EXP000274,EMP061,2024-08-29,2024-08-30 15:58:00,Lodging,6126.38,INR,Hotel stay,True,Reimbursed
+EXP000275,EMP073,2024-11-08,2024-11-11 11:03:00,Client Entertainment,2647.75,INR,Client meeting,True,Reimbursed
+EXP000276,EMP082,2024-02-24,2024-02-24 23:44:00,Client Entertainment,825.00,INR,Client meeting,False,Reimbursed
+EXP000277,EMP068,2024-04-03,2024-04-04 10:05:00,Travel,8100.12,INR,Intercity travel,True,Reimbursed
+EXP000278,EMP113,2023-08-27,2023-08-28 12:45:00,Office Supplies,780.89,INR,Office consumables,True,Reimbursed
+EXP000279,EMP110,2024-04-07,2024-04-08 09:44:00,Travel,13669.65,INR,Intercity travel,True,Reimbursed
+EXP000280,EMP050,2023-08-28,2023-08-29 12:33:00,Client Entertainment,3787.63,INR,Client meeting,False,Reimbursed
+EXP000281,EMP027,2023-06-02,2023-06-05 17:42:00,Meals,2095.61,INR,Business meal,True,Reimbursed
+EXP000282,EMP065,2023-04-14,2023-04-17 14:58:00,Travel,7839.45,INR,Intercity travel,True,Reimbursed
+EXP000283,EMP120,2025-03-24,2025-03-25 13:23:00,Fuel,2773.31,INR,Local travel fuel,False,Reimbursed
+EXP000284,EMP038,2023-04-04,2023-04-05 15:51:00,Office Supplies,718.94,INR,Office consumables,True,Reimbursed
+EXP000285,EMP004,2024-03-28,2024-03-29 17:20:00,Meals,4620.00,INR,Business meal,True,Reimbursed
+EXP000286,EMP021,2024-06-16,2024-06-17 11:15:00,Lodging,10800.00,INR,Hotel stay,True,Reimbursed
+EXP000287,EMP052,2024-01-11,2024-01-12 14:06:00,Fuel,2734.50,INR,Local travel fuel,True,Reimbursed
+EXP000288,EMP060,2025-03-11,2025-03-12 12:53:00,Lodging,6096.53,INR,Hotel stay,True,Reimbursed
+EXP000289,EMP055,2024-06-19,2024-06-20 09:41:00,Fuel,2540.57,INR,Local travel fuel,True,Reimbursed
+EXP000290,EMP040,2024-10-28,2024-10-29 13:11:00,Fuel,3147.89,INR,Local travel fuel,True,Reimbursed
+EXP000291,EMP056,2023-08-01,2023-08-02 17:18:00,Fuel,2703.11,INR,Local travel fuel,True,Reimbursed
+EXP000292,EMP045,2024-06-03,2024-06-04 12:36:00,Client Entertainment,3743.51,INR,Client meeting,True,Reimbursed
+EXP000293,EMP052,2023-08-24,2023-08-25 12:59:00,Fuel,4077.70,INR,Local travel fuel,True,Reimbursed
+EXP000294,EMP119,2024-12-26,2024-12-27 09:38:00,Fuel,2409.28,INR,Local travel fuel,True,Reimbursed
+EXP000295,EMP106,2023-08-07,2023-08-08 09:48:00,Meals,2662.83,INR,Business meal,True,Reimbursed
+EXP000296,EMP027,2024-01-30,2024-01-31 15:00:00,Lodging,4129.32,INR,Hotel stay,True,Reimbursed
+EXP000297,EMP101,2024-01-07,2024-01-08 17:51:00,Travel,9401.37,INR,Intercity travel,True,Reimbursed
+EXP000298,EMP114,2023-06-16,2023-06-19 12:43:00,Travel,11960.00,INR,Intercity travel,True,Reimbursed
+EXP000299,EMP095,2024-05-01,2024-05-02 13:53:00,Fuel,3053.00,INR,Local travel fuel,True,Reimbursed
+EXP000300,EMP058,2024-07-10,2024-07-11 09:17:00,Lodging,9345.28,INR,Hotel stay,True,Reimbursed
+EXP000301,EMP103,2023-06-27,2023-06-28 09:01:00,Lodging,3192.31,INR,Hotel stay,True,Reimbursed
+EXP000302,EMP112,2023-09-15,2023-09-18 09:29:00,Fuel,1575.97,INR,Local travel fuel,True,Reimbursed
+EXP000303,EMP042,2023-06-24,2023-06-26 17:12:00,Lodging,5100.00,INR,Hotel stay,True,Reimbursed
+EXP000304,EMP094,2023-10-04,2023-10-05 13:11:00,Office Supplies,928.30,INR,Office consumables,True,Reimbursed
+EXP000305,EMP115,2024-02-16,2024-02-19 16:19:00,Travel,7984.75,INR,Intercity travel,True,Reimbursed
+EXP000306,EMP033,2024-07-22,2024-07-23 17:00:00,Fuel,2113.21,INR,Local travel fuel,True,Reimbursed
+EXP000307,EMP079,2024-01-11,2024-01-12 13:10:00,Office Supplies,1014.98,INR,Office consumables,True,Reimbursed
+EXP000308,EMP039,2023-10-29,2023-10-30 10:34:00,Meals,1608.71,INR,Business meal,True,Reimbursed
+EXP000309,EMP017,2023-09-30,2023-10-02 14:08:00,Travel,7747.45,INR,Intercity travel,True,Reimbursed
+EXP000310,EMP071,2024-05-14,2024-05-15 16:15:00,Lodging,5095.17,INR,Hotel stay,True,Reimbursed
+EXP000311,EMP067,2024-02-24,2024-02-24 23:21:00,Client Entertainment,4325.00,INR,Client meeting,False,Reimbursed
+EXP000312,EMP002,2024-09-04,2024-09-05 16:27:00,Fuel,2665.45,INR,Local travel fuel,True,Reimbursed
+EXP000313,EMP007,2024-12-22,2024-12-23 10:04:00,Office Supplies,825.81,INR,Office consumables,True,Reimbursed
+EXP000314,EMP064,2024-11-17,2024-11-18 15:23:00,Travel,4740.65,INR,Intercity travel,True,Reimbursed
+EXP000315,EMP089,2024-08-31,2024-09-02 14:03:00,Meals,2276.07,INR,Business meal,True,Reimbursed
+EXP000316,EMP088,2023-12-21,2023-12-22 16:38:00,Meals,3780.00,INR,Business meal,True,Reimbursed
+EXP000317,EMP076,2025-02-05,2025-02-06 15:04:00,Client Entertainment,4299.29,INR,Client meeting,False,Reimbursed
+EXP000318,EMP098,2024-08-24,2024-08-26 11:56:00,Office Supplies,982.65,INR,Office consumables,True,Reimbursed
+EXP000319,EMP117,2024-08-05,2024-08-06 09:30:00,Travel,18000.00,INR,Intercity travel,True,Reimbursed
+EXP000320,EMP039,2023-11-24,2023-11-27 13:31:00,Office Supplies,1658.12,INR,Office consumables,True,Reimbursed
+EXP000321,EMP086,2024-01-31,2024-02-01 16:07:00,Lodging,6554.24,INR,Hotel stay,True,Reimbursed
+EXP000322,EMP115,2024-01-31,2024-02-01 17:45:00,Meals,1968.66,INR,Business meal,True,Reimbursed
+EXP000323,EMP087,2023-11-15,2023-11-16 15:25:00,Client Entertainment,3327.63,INR,Client meeting,True,Reimbursed
+EXP000324,EMP078,2024-01-09,2024-01-10 15:52:00,Travel,12066.71,INR,Intercity travel,True,Reimbursed
+EXP000325,EMP056,2024-03-30,2024-03-30 23:40:00,Client Entertainment,4575.00,INR,Client meeting,False,Reimbursed
+EXP000326,EMP064,2023-07-23,2023-07-24 10:21:00,Fuel,2519.80,INR,Local travel fuel,True,Reimbursed
+EXP000327,EMP091,2012-01-15,2012-01-16 11:00:00,Travel,7549.02,INR,Intercity travel,True,Reimbursed
+EXP000328,EMP099,2024-08-01,2024-08-02 17:34:00,Meals,1262.28,INR,Business meal,True,Reimbursed
+EXP000329,EMP039,2023-08-26,2023-08-28 10:46:00,Meals,1076.70,INR,Business meal,False,Reimbursed
+EXP000330,EMP084,2023-06-04,2023-06-05 15:33:00,Travel,12267.13,INR,Intercity travel,True,Reimbursed
+EXP000331,EMP032,2024-07-23,2024-07-24 13:59:00,Meals,1625.13,INR,Business meal,True,Reimbursed
+EXP000332,EMP054,2024-04-26,2024-04-29 10:37:00,Fuel,2679.48,INR,Local travel fuel,True,Reimbursed
+EXP000333,EMP059,2024-02-23,2024-02-26 10:22:00,Lodging,5699.31,INR,Hotel stay,True,Reimbursed
+EXP000334,EMP002,2024-07-08,2024-07-09 12:21:00,Office Supplies,1232.98,INR,Office consumables,True,Reimbursed
+EXP000335,EMP111,2023-08-16,2023-08-17 13:40:00,Fuel,1827.65,INR,Local travel fuel,True,Reimbursed
+EXP000336,EMP026,2023-04-29,2023-05-01 13:37:00,Office Supplies,1245.30,INR,Office consumables,True,Reimbursed
+EXP000337,EMP105,2024-01-28,2024-01-29 15:21:00,Travel,13532.80,INR,Intercity travel,True,Reimbursed
+EXP000338,EMP120,2024-11-07,2024-11-08 10:30:00,Fuel,3420.76,INR,Local travel fuel,True,Reimbursed
+EXP000339,EMP033,2023-10-14,2023-10-16 12:41:00,Lodging,4929.17,INR,Hotel stay,True,Reimbursed
+EXP000340,EMP019,2023-07-15,2023-07-17 09:52:00,Meals,919.77,INR,Business meal,True,Reimbursed
+EXP000341,EMP066,2024-06-27,2024-06-28 14:52:00,Meals,617.90,INR,Business meal,True,Reimbursed
+EXP000342,EMP068,2024-02-22,2024-02-23 10:39:00,Travel,7448.57,INR,Intercity travel,True,Reimbursed
+EXP000343,EMP112,2024-12-29,2024-12-30 10:27:00,Client Entertainment,3432.08,INR,Client meeting,True,Reimbursed
+EXP000344,EMP051,2024-03-11,2024-03-12 17:00:00,Fuel,2305.50,INR,Local travel fuel,False,Reimbursed
+EXP000345,EMP034,2025-03-27,2025-03-28 11:31:00,Fuel,2284.13,INR,Local travel fuel,True,Reimbursed
+EXP000346,EMP097,2023-09-14,2023-09-15 17:21:00,Lodging,8590.37,INR,Hotel stay,True,Reimbursed
+EXP000347,EMP112,2024-05-01,2024-05-02 11:53:00,Fuel,2223.90,INR,Local travel fuel,True,Reimbursed
+EXP000348,EMP089,2024-07-18,2024-07-19 10:14:00,Meals,1612.89,INR,Business meal,True,Reimbursed
+EXP000349,EMP029,2024-12-25,2024-12-26 13:15:00,Lodging,5649.56,INR,Hotel stay,True,Reimbursed
+EXP000350,EMP003,2025-03-24,2025-03-25 11:18:00,Travel,10024.42,INR,Intercity travel,True,Reimbursed
+EXP000351,EMP071,2023-08-16,2023-08-17 15:45:00,Travel,6668.63,INR,Intercity travel,True,Reimbursed
+EXP000352,EMP074,2023-11-11,2023-11-13 15:11:00,Travel,9281.55,INR,Intercity travel,True,Reimbursed
+EXP000353,EMP007,2024-01-01,2024-01-02 13:22:00,Fuel,4541.36,INR,Local travel fuel,True,Reimbursed
+EXP000354,EMP089,2023-05-09,2023-05-10 16:19:00,Lodging,3477.29,INR,Hotel stay,True,Reimbursed
+EXP000355,EMP081,2025-02-12,2025-02-13 13:31:00,Client Entertainment,1921.39,INR,Client meeting,True,Reimbursed
+EXP000356,EMP115,2024-11-14,2024-11-15 15:05:00,Lodging,6045.17,INR,Hotel stay,False,Reimbursed
+EXP000357,EMP096,2025-02-22,2025-02-24 17:57:00,Office Supplies,1080.91,INR,Office consumables,False,Reimbursed
+EXP000358,EMP107,2024-05-24,2024-05-27 10:55:00,Meals,1814.17,INR,Business meal,True,Reimbursed
+EXP000359,EMP041,2024-03-19,2024-03-20 17:14:00,Office Supplies,997.86,INR,Office consumables,True,Reimbursed
+EXP000360,EMP109,2023-11-04,2023-11-06 17:35:00,Lodging,4874.70,INR,Hotel stay,True,Reimbursed
+EXP000361,EMP058,2024-12-14,2024-12-16 10:58:00,Meals,2293.92,INR,Business meal,True,Reimbursed
+EXP000362,EMP016,2024-11-01,2024-11-04 09:48:00,Lodging,2372.93,INR,Hotel stay,True,Reimbursed
+EXP000363,EMP069,2024-12-06,2024-12-09 13:25:00,Client Entertainment,3347.58,INR,Client meeting,True,Reimbursed
+EXP000364,EMP021,2023-12-05,2023-12-06 15:28:00,Travel,8032.76,INR,Intercity travel,True,Reimbursed
+EXP000365,EMP076,2024-02-23,2024-02-26 12:50:00,Office Supplies,1100.41,INR,Office consumables,True,Reimbursed
+EXP000366,EMP055,2025-02-12,2025-02-13 16:09:00,Client Entertainment,2816.94,INR,Client meeting,True,Reimbursed
+EXP000367,EMP004,2024-04-04,2024-04-05 15:38:00,Meals,4710.00,INR,Business meal,True,Reimbursed
+EXP000368,EMP105,2024-07-08,2024-07-09 16:37:00,Meals,1254.63,INR,Business meal,True,Reimbursed
+EXP000369,EMP095,2023-06-25,2023-06-26 15:12:00,Fuel,4450.95,INR,Local travel fuel,True,Reimbursed
+EXP000370,EMP068,2024-10-26,2024-10-28 09:35:00,Fuel,3446.40,INR,Local travel fuel,True,Reimbursed
+EXP000371,EMP075,2024-07-21,2024-07-22 15:57:00,Travel,6119.02,INR,Intercity travel,True,Reimbursed
+EXP000372,EMP023,2024-05-14,2024-05-15 15:24:00,Meals,4830.00,INR,Business meal,True,Reimbursed
+EXP000373,EMP099,2024-07-21,2024-07-22 14:26:00,Office Supplies,1273.07,INR,Office consumables,True,Reimbursed
+EXP000374,EMP103,2025-03-17,2025-03-18 11:37:00,Fuel,2799.48,INR,Local travel fuel,True,Reimbursed
+EXP000375,EMP063,2024-07-14,2024-07-15 09:27:00,Client Entertainment,5493.71,INR,Client meeting,True,Reimbursed
+EXP000376,EMP118,2025-01-26,2025-01-27 15:24:00,Fuel,2020.22,INR,Local travel fuel,True,Reimbursed
+EXP000377,EMP057,2024-04-20,2024-04-20 23:28:00,Client Entertainment,4600.00,INR,Client meeting,False,Reimbursed
+EXP000378,EMP035,2024-02-04,2024-02-05 09:19:00,Travel,6775.00,INR,Intercity travel,True,Reimbursed
+EXP000379,EMP001,2023-10-06,2023-10-09 13:30:00,Travel,7068.28,INR,Intercity travel,True,Reimbursed
+EXP000380,EMP117,2024-03-28,2024-03-29 09:13:00,Lodging,4563.56,INR,Hotel stay,True,Reimbursed
+EXP000381,EMP030,2024-05-08,2024-05-09 15:14:00,Office Supplies,1538.81,INR,Office consumables,True,Reimbursed
+EXP000382,EMP001,2024-02-17,2024-02-19 09:44:00,Meals,2323.23,INR,Business meal,True,Reimbursed
+EXP000383,EMP082,2023-08-10,2023-08-11 10:22:00,Office Supplies,1692.40,INR,Office consumables,True,Reimbursed
+EXP000384,EMP084,2023-09-19,2023-09-20 11:07:00,Fuel,4309.38,INR,Local travel fuel,True,Reimbursed
+EXP000385,EMP069,2024-07-29,2024-07-30 10:33:00,Fuel,3527.11,INR,Local travel fuel,True,Reimbursed
+EXP000386,EMP064,2024-01-30,2024-01-31 15:26:00,Lodging,3866.97,INR,Hotel stay,True,Reimbursed
+EXP000387,EMP103,2023-05-30,2023-05-31 12:32:00,Travel,7685.28,INR,Intercity travel,True,Reimbursed
+EXP000388,EMP117,2024-03-08,2024-03-11 17:55:00,Lodging,4955.05,INR,Hotel stay,True,Reimbursed
+EXP000389,EMP054,2023-11-07,2023-11-08 13:15:00,Fuel,-1500.00,INR,Local travel fuel,True,Reimbursed
+EXP000390,EMP064,2023-08-07,2023-08-08 17:39:00,Travel,4601.70,INR,Intercity travel,True,Reimbursed
+EXP000391,EMP047,2024-02-02,2024-02-05 12:59:00,Meals,1266.89,INR,Business meal,True,Reimbursed
+EXP000392,EMP005,2025-02-22,2025-02-24 14:06:00,Client Entertainment,3936.06,INR,Client meeting,True,Reimbursed
+EXP000393,EMP036,2024-01-19,2024-01-22 10:58:00,Travel,6783.95,INR,Intercity travel,True,Reimbursed
+EXP000394,EMP008,2023-09-26,2023-09-27 10:05:00,Travel,6954.83,INR,Intercity travel,True,Reimbursed
+EXP000395,EMP076,2024-07-09,2024-07-10 12:03:00,Travel,4798.72,INR,Intercity travel,True,Reimbursed
+EXP000396,EMP089,2023-04-11,2023-04-12 14:54:00,Lodging,3870.00,INR,Hotel stay,True,Reimbursed
+EXP000397,EMP106,2023-12-24,2023-12-25 15:44:00,Client Entertainment,3667.42,INR,Client meeting,False,Reimbursed
+EXP000398,EMP104,2024-12-17,2024-12-18 12:18:00,Travel,7623.71,INR,Intercity travel,False,Reimbursed
+EXP000399,EMP091,2025-01-31,2025-02-03 09:12:00,Meals,1384.08,INR,Business meal,True,Reimbursed
+EXP000400,EMP058,2024-05-11,2024-05-11 23:24:00,Client Entertainment,4625.00,INR,Client meeting,False,Reimbursed
+EXP000401,EMP103,2023-08-21,2023-08-22 15:42:00,Office Supplies,1054.69,INR,Office consumables,True,Reimbursed
+EXP000402,EMP116,2024-11-18,2024-11-19 13:22:00,Client Entertainment,3980.01,INR,Client meeting,False,Reimbursed
+EXP000403,EMP039,2024-09-09,2024-09-10 12:46:00,Lodging,5845.64,INR,Hotel stay,True,Reimbursed
+EXP000404,EMP042,2024-02-25,2024-02-26 13:46:00,Office Supplies,654.12,INR,Office consumables,True,Reimbursed
+EXP000405,EMP038,2024-09-20,2024-09-23 14:43:00,Meals,1353.93,INR,Business meal,False,Reimbursed
+EXP000406,EMP104,2024-05-24,2024-05-27 14:41:00,Travel,4456.10,INR,Intercity travel,True,Reimbursed
+EXP000407,EMP002,2024-04-19,2024-04-22 14:34:00,Client Entertainment,2155.93,INR,Client meeting,True,Reimbursed
+EXP000408,EMP070,2024-03-25,2024-03-26 12:42:00,Fuel,3117.68,INR,Local travel fuel,True,Reimbursed
+EXP000409,EMP109,2023-11-24,2023-11-27 17:25:00,Client Entertainment,4168.61,INR,Client meeting,True,Reimbursed
+EXP000410,EMP081,2023-12-16,2023-12-18 14:06:00,Client Entertainment,1495.79,INR,Client meeting,True,Reimbursed
+EXP000411,EMP038,2023-08-25,2023-08-28 13:56:00,Fuel,2507.03,INR,Local travel fuel,True,Reimbursed
+EXP000412,EMP031,2024-07-22,2024-07-23 14:06:00,Office Supplies,758.63,INR,Office consumables,True,Reimbursed
+EXP000413,EMP087,2024-02-20,2024-02-21 14:41:00,Client Entertainment,4876.67,INR,Client meeting,True,Reimbursed
+EXP000414,EMP046,2024-04-10,2024-04-11 17:20:00,Office Supplies,977.44,INR,Office consumables,True,Reimbursed
+EXP000415,EMP023,2023-11-12,2023-11-13 12:05:00,Office Supplies,1295.32,INR,Office consumables,True,Reimbursed
+EXP000416,EMP101,2024-08-01,2024-08-02 17:53:00,Fuel,2187.35,INR,Local travel fuel,True,Reimbursed
+EXP000417,EMP043,2023-07-14,2023-07-17 10:27:00,Office Supplies,565.16,INR,Office consumables,True,Reimbursed
+EXP000418,EMP002,2024-09-27,2024-09-30 14:12:00,Fuel,2438.85,INR,Local travel fuel,True,Reimbursed
+EXP000419,EMP042,2025-06-18,2025-06-18 11:00:00,Fuel,3464.00,INR,Local travel fuel,True,Reimbursed
+EXP000420,EMP033,2025-01-16,2025-01-17 15:55:00,Client Entertainment,3472.30,INR,Client meeting,True,Reimbursed
+EXP000421,EMP024,2024-06-04,2024-06-05 13:45:00,Meals,4845.00,INR,Business meal,True,Reimbursed
+EXP000422,EMP032,2024-02-06,2024-02-07 10:55:00,Client Entertainment,1915.14,INR,Client meeting,True,Reimbursed
+EXP000423,EMP047,2024-07-28,2024-07-29 16:39:00,Fuel,1328.52,INR,Local travel fuel,True,Reimbursed
+EXP000424,EMP082,2023-04-22,2023-04-24 13:52:00,Meals,1863.83,INR,Business meal,True,Reimbursed
+EXP000425,EMP090,2023-09-18,2023-09-19 10:05:00,Lodging,4847.43,INR,Hotel stay,True,Reimbursed
+EXP000426,EMP099,2025-02-12,2025-02-13 10:24:00,Office Supplies,683.57,INR,Office consumables,True,Reimbursed
+EXP000427,EMP106,2024-02-13,2024-02-14 11:56:00,Travel,9523.63,INR,Intercity travel,True,Reimbursed
+EXP000428,EMP052,2023-04-29,2023-05-01 16:54:00,Fuel,1709.91,INR,Local travel fuel,True,Reimbursed
+EXP000429,EMP120,2025-02-19,2025-02-20 15:42:00,Meals,1117.46,INR,Business meal,True,Reimbursed
+EXP000430,EMP107,2024-07-02,2024-07-03 14:51:00,Fuel,1794.14,INR,Local travel fuel,True,Reimbursed
+EXP000431,EMP103,2024-12-12,2024-12-13 15:24:00,Client Entertainment,2524.76,INR,Client meeting,True,Reimbursed
+EXP000432,EMP036,2024-05-28,2024-05-29 14:33:00,Office Supplies,1034.92,INR,Office consumables,False,Reimbursed
+EXP000433,EMP004,2024-04-11,2024-04-12 15:39:00,Meals,4880.00,INR,Business meal,True,Reimbursed
+EXP000434,EMP077,2024-05-10,2024-05-13 14:48:00,Travel,5467.73,INR,Intercity travel,True,Reimbursed
+EXP000435,EMP056,2024-02-29,2024-03-01 10:06:00,Office Supplies,1057.79,INR,Office consumables,True,Reimbursed
+EXP000436,EMP040,2024-05-12,2024-05-13 13:08:00,Lodging,4968.75,INR,Hotel stay,True,Reimbursed
+EXP000437,EMP038,2023-04-21,2023-04-24 15:03:00,Fuel,3265.88,INR,Local travel fuel,True,Reimbursed
+EXP000438,EMP046,2024-07-01,2024-07-02 15:31:00,Meals,1148.98,INR,Business meal,True,Reimbursed
+EXP000439,EMP019,2024-06-01,2024-06-03 17:35:00,Lodging,5123.84,INR,Hotel stay,True,Reimbursed
+EXP000440,EMP063,2024-07-28,2024-07-29 16:01:00,Client Entertainment,3833.62,INR,Client meeting,True,Reimbursed
+EXP000441,EMP038,2023-07-18,2023-07-19 17:00:00,Client Entertainment,1956.81,INR,Client meeting,True,Reimbursed
+EXP000442,EMP038,2024-03-15,2024-03-18 14:15:00,Lodging,7689.88,INR,Hotel stay,False,Reimbursed
+EXP000443,EMP079,2024-07-22,2024-07-23 14:08:00,Fuel,1673.54,INR,Local travel fuel,True,Reimbursed
+EXP000444,EMP016,2023-09-09,2023-09-11 17:32:00,Fuel,3368.72,INR,Local travel fuel,True,Reimbursed
+EXP000445,EMP115,2024-09-06,2024-09-09 13:02:00,Lodging,4859.87,INR,Hotel stay,True,Reimbursed
+EXP000446,EMP106,2025-01-12,2025-01-13 17:46:00,Fuel,1600.92,INR,Local travel fuel,True,Reimbursed
+EXP000447,EMP103,2024-04-22,2024-04-23 14:03:00,Office Supplies,1008.28,INR,Office consumables,True,Reimbursed
+EXP000448,EMP067,2024-02-16,2024-02-19 16:57:00,Lodging,7603.85,INR,Hotel stay,True,Reimbursed
+EXP000449,EMP026,2023-07-08,2023-07-10 15:30:00,Lodging,7654.79,INR,Hotel stay,True,Reimbursed
+EXP000450,EMP040,2024-07-07,2024-07-08 10:26:00,Meals,2087.00,INR,Business meal,True,Reimbursed
+EXP000451,EMP113,2024-04-01,2024-04-02 17:33:00,Client Entertainment,1249.07,INR,Client meeting,True,Reimbursed
+EXP000452,EMP066,2024-04-07,2024-04-08 10:28:00,Office Supplies,708.47,INR,Office consumables,True,Reimbursed
+EXP000453,EMP068,2024-11-03,2024-11-04 15:37:00,Travel,10532.48,INR,Intercity travel,True,Reimbursed
+EXP000454,EMP027,2023-09-08,2023-09-11 11:57:00,Office Supplies,920.07,INR,Office consumables,True,Reimbursed
+EXP000455,EMP113,2023-04-28,2023-05-01 16:47:00,Fuel,2222.81,INR,Local travel fuel,True,Reimbursed
+EXP000456,EMP031,2024-11-29,2024-12-02 11:11:00,Lodging,5375.34,INR,Hotel stay,True,Reimbursed
+EXP000457,EMP026,2025-01-05,2025-01-06 15:40:00,Lodging,5740.92,INR,Hotel stay,True,Reimbursed
+EXP000458,EMP062,2023-08-22,2023-08-23 10:44:00,Fuel,3063.39,INR,Local travel fuel,True,Reimbursed
+EXP000459,EMP003,2023-12-21,2023-12-22 16:47:00,Travel,7955.63,INR,Intercity travel,True,Reimbursed
+EXP000460,EMP069,2024-03-18,2024-03-19 09:27:00,Lodging,7847.31,INR,Hotel stay,True,Reimbursed
+EXP000461,EMP085,2024-12-24,2024-12-25 09:50:00,Travel,7054.77,INR,Intercity travel,True,Reimbursed
+EXP000462,EMP056,2024-05-22,2024-05-23 13:45:00,Fuel,2503.29,INR,Local travel fuel,True,Reimbursed
+EXP000463,EMP087,2023-10-20,2023-10-23 10:37:00,Fuel,1323.37,INR,Local travel fuel,True,Reimbursed
+EXP000464,EMP058,2023-07-12,2023-07-13 16:24:00,Fuel,2104.37,INR,Local travel fuel,True,Reimbursed
+EXP000465,EMP047,2024-09-11,2024-09-12 14:57:00,Meals,2125.75,INR,Business meal,True,Reimbursed
+EXP000466,EMP021,2024-07-03,2024-07-04 15:16:00,Office Supplies,1156.48,INR,Office consumables,True,Reimbursed
+EXP000467,EMP043,2024-04-06,2024-04-08 17:17:00,Fuel,2185.01,INR,Local travel fuel,False,Reimbursed
+EXP000468,EMP035,2024-02-05,2024-02-06 17:43:00,Travel,6775.00,INR,Intercity travel,True,Reimbursed
+EXP000469,EMP102,2024-07-07,2024-07-08 10:55:00,Lodging,4637.73,INR,Hotel stay,True,Reimbursed
+EXP000470,EMP029,2024-02-17,2024-02-19 09:53:00,Fuel,1549.46,INR,Local travel fuel,True,Reimbursed
+EXP000471,EMP036,2024-03-05,2024-03-06 09:22:00,Travel,6900.00,INR,Intercity travel,True,Reimbursed
+EXP000472,EMP049,2023-07-22,2023-07-24 17:05:00,Travel,6414.12,INR,Intercity travel,True,Reimbursed
+EXP000473,EMP039,2023-11-23,2023-11-24 16:20:00,Travel,8092.22,INR,Intercity travel,True,Reimbursed
+EXP000474,EMP007,2023-05-28,2023-05-29 16:16:00,Travel,6007.50,INR,Intercity travel,True,Reimbursed
+EXP000475,EMP066,2023-10-13,2023-10-16 10:15:00,Travel,9907.99,INR,Intercity travel,True,Reimbursed
+EXP000476,EMP116,2024-05-03,2024-05-06 11:49:00,Travel,8596.17,INR,Intercity travel,False,Reimbursed
+EXP000477,EMP068,2023-11-06,2023-11-07 12:24:00,Client Entertainment,3229.33,INR,Client meeting,False,Reimbursed
+EXP000478,EMP092,2025-01-23,2025-01-24 14:14:00,Office Supplies,961.61,INR,Office consumables,True,Reimbursed
+EXP000479,EMP097,2024-03-23,2024-03-25 11:12:00,Office Supplies,949.67,INR,Office consumables,True,Reimbursed
+EXP000480,EMP086,2023-11-22,2023-11-23 12:05:00,Travel,8255.07,INR,Intercity travel,True,Reimbursed
+EXP000481,EMP101,2023-04-25,2023-04-26 16:40:00,Client Entertainment,4117.52,INR,Client meeting,True,Reimbursed
+EXP000482,EMP026,2024-04-25,2024-04-26 10:07:00,Meals,1429.65,INR,Business meal,True,Reimbursed
+EXP000483,EMP043,2023-05-30,2023-06-01 15:29:00,Lodging,5180.00,INR,Hotel stay,True,Reimbursed
+EXP000484,EMP096,2024-09-21,2024-09-23 10:44:00,Meals,1767.07,INR,Business meal,True,Reimbursed
+EXP000485,EMP043,2023-07-14,2023-07-17 15:35:00,Lodging,5180.00,INR,Hotel stay,True,Reimbursed
+EXP000486,EMP104,2024-01-26,2024-01-29 16:40:00,Office Supplies,739.29,INR,Office consumables,True,Reimbursed
+EXP000487,EMP069,2024-08-27,2024-08-28 11:28:00,Meals,1559.07,INR,Business meal,True,Reimbursed
+EXP000488,EMP102,2023-09-11,2023-09-12 12:18:00,Lodging,6719.68,INR,Hotel stay,True,Reimbursed
+EXP000489,EMP093,2024-02-26,2024-02-27 16:59:00,Client Entertainment,6179.99,INR,Client meeting,True,Reimbursed
+EXP000490,EMP102,2024-12-26,2024-12-27 15:31:00,Fuel,2206.83,INR,Local travel fuel,True,Reimbursed
+EXP000491,EMP058,2023-08-28,2023-08-29 15:26:00,Travel,7929.96,INR,Intercity travel,True,Reimbursed
+EXP000492,EMP075,2024-08-12,2024-08-13 09:30:00,Meals,2481.02,INR,Business meal,True,Reimbursed
+EXP000493,EMP049,2023-09-26,2023-09-27 12:00:00,Fuel,3563.35,INR,Local travel fuel,True,Reimbursed
+EXP000494,EMP089,2024-07-21,2024-07-22 09:49:00,Meals,1728.12,INR,Business meal,False,Reimbursed
+EXP000495,EMP086,2024-06-28,2024-07-01 14:59:00,Office Supplies,623.23,INR,Office consumables,False,Reimbursed
+EXP000496,EMP065,2024-12-31,2025-01-01 15:24:00,Travel,17314.43,INR,Intercity travel,True,Reimbursed
+EXP000497,EMP116,2024-06-30,2024-07-01 15:58:00,Travel,13713.44,INR,Intercity travel,True,Reimbursed
+EXP000498,EMP007,2023-08-21,2023-08-22 10:01:00,Meals,1274.54,INR,Business meal,True,Reimbursed
+EXP000499,EMP051,2023-09-25,2023-09-26 10:33:00,Travel,7140.24,INR,Intercity travel,True,Reimbursed
+EXP000500,EMP008,2025-02-03,2025-02-04 17:15:00,Lodging,3790.34,INR,Hotel stay,False,Reimbursed
+EXP000501,EMP074,2023-12-12,2023-12-13 09:46:00,Office Supplies,1067.44,INR,Office consumables,True,Reimbursed
+EXP000502,EMP023,2023-04-07,2023-04-10 14:53:00,Meals,1746.50,INR,Business meal,True,Reimbursed
+EXP000503,EMP024,2023-09-25,2023-09-26 15:52:00,Office Supplies,1157.38,INR,Office consumables,True,Reimbursed
+EXP000504,EMP089,2025-02-01,2025-02-03 17:55:00,Client Entertainment,7077.61,INR,Client meeting,True,Reimbursed
+EXP000505,EMP057,2023-10-23,2023-10-24 09:29:00,Office Supplies,1050.99,INR,Office consumables,True,Reimbursed
+EXP000506,EMP058,2024-10-10,2024-10-11 16:17:00,Travel,8982.70,INR,Intercity travel,True,Reimbursed
+EXP000507,EMP059,2024-05-25,2024-05-25 23:43:00,Client Entertainment,4650.00,INR,Client meeting,False,Reimbursed
+EXP000508,EMP059,2024-07-29,2024-07-30 10:31:00,Lodging,4480.71,INR,Hotel stay,True,Reimbursed
+EXP000509,EMP096,2023-04-26,2023-04-27 17:24:00,Office Supplies,1182.46,INR,Office consumables,True,Reimbursed
+EXP000510,EMP024,2024-02-01,2024-02-02 16:28:00,Travel,18000.00,INR,Intercity travel,True,Reimbursed
+EXP000511,EMP046,2023-07-02,2023-07-03 12:05:00,Lodging,3946.59,INR,Hotel stay,True,Reimbursed
+EXP000512,EMP120,2024-03-26,2024-03-27 16:35:00,Meals,2348.73,INR,Business meal,False,Reimbursed
+EXP000513,EMP069,2024-04-28,2024-04-29 15:11:00,Travel,8997.16,INR,Intercity travel,True,Reimbursed
+EXP000514,EMP027,2024-11-22,2024-11-25 17:59:00,Travel,6960.56,INR,Intercity travel,True,Reimbursed
+EXP000515,EMP030,2024-07-10,2024-07-11 15:07:00,Office Supplies,1397.22,INR,Office consumables,True,Reimbursed
+EXP000516,EMP060,2025-02-24,2025-02-25 13:10:00,Client Entertainment,1840.26,INR,Client meeting,False,Reimbursed
+EXP000517,EMP021,2023-06-20,2023-06-21 10:17:00,Meals,2203.47,INR,Business meal,True,Reimbursed
+EXP000518,EMP004,2024-04-18,2024-04-19 11:06:00,Meals,4950.00,INR,Business meal,True,Reimbursed
+EXP000519,EMP092,2023-04-20,2023-04-21 10:09:00,Lodging,3479.07,INR,Hotel stay,True,Reimbursed
+EXP000520,EMP059,2023-12-18,2023-12-19 15:26:00,Fuel,3963.55,INR,Local travel fuel,True,Reimbursed
+EXP000521,EMP052,2025-01-24,2025-01-27 13:24:00,Fuel,4209.91,INR,Local travel fuel,True,Reimbursed
+EXP000522,EMP062,2023-05-13,2023-05-15 09:41:00,Office Supplies,1254.15,INR,Office consumables,True,Reimbursed
+EXP000523,EMP031,2023-07-21,2023-07-24 09:37:00,Meals,1398.18,INR,Business meal,True,Reimbursed
+EXP000524,EMP067,2024-08-22,2024-08-23 11:47:00,Fuel,1329.50,INR,Local travel fuel,True,Reimbursed
+EXP000525,EMP120,2012-01-15,2012-01-16 11:00:00,Fuel,3224.32,INR,Local travel fuel,True,Reimbursed
+EXP000526,EMP007,2023-10-05,2023-10-06 11:58:00,Lodging,10180.69,INR,Hotel stay,True,Reimbursed
+EXP000527,EMP116,2025-02-07,2025-02-10 15:11:00,Meals,1298.50,INR,Business meal,True,Reimbursed
+EXP000528,EMP003,2024-10-07,2024-10-08 09:36:00,Fuel,2518.19,INR,Local travel fuel,True,Reimbursed
+EXP000529,EMP016,2023-10-24,2023-10-25 15:10:00,Client Entertainment,2587.73,INR,Client meeting,True,Reimbursed
+EXP000530,EMP083,2025-03-25,2025-03-26 16:28:00,Travel,8756.27,INR,Intercity travel,True,Reimbursed
+EXP000531,EMP102,2024-01-25,2024-01-26 10:00:00,Fuel,2269.76,INR,Local travel fuel,True,Reimbursed
+EXP000532,EMP091,2023-12-01,2023-12-04 12:56:00,Fuel,3235.72,INR,Local travel fuel,True,Reimbursed
+EXP000533,EMP052,2024-04-27,2024-04-29 09:43:00,Meals,1499.47,INR,Business meal,True,Reimbursed
+EXP000534,EMP092,2023-08-08,2023-08-09 16:12:00,Travel,9175.06,INR,Intercity travel,False,Reimbursed
+EXP000535,EMP029,2024-05-29,2024-05-30 14:31:00,Lodging,3658.06,INR,Hotel stay,True,Reimbursed
+EXP000536,EMP107,2023-09-16,2023-09-18 10:49:00,Client Entertainment,4329.88,INR,Client meeting,True,Reimbursed
+EXP000537,EMP073,2024-07-09,2024-07-10 09:10:00,Office Supplies,785.52,INR,Office consumables,True,Reimbursed
+EXP000538,EMP093,2024-09-22,2024-09-23 15:27:00,Travel,12668.11,INR,Intercity travel,True,Reimbursed
+EXP000539,EMP081,2023-08-30,2023-08-31 12:40:00,Office Supplies,1592.50,INR,Office consumables,True,Reimbursed
+EXP000540,EMP051,2023-11-30,2023-12-01 11:58:00,Meals,1732.22,INR,Business meal,True,Reimbursed
+EXP000541,EMP120,2023-11-05,2023-11-06 10:57:00,Client Entertainment,4305.59,INR,Client meeting,True,Reimbursed
+EXP000542,EMP065,2023-09-29,2023-10-02 15:33:00,Office Supplies,955.84,INR,Office consumables,True,Reimbursed
+EXP000543,EMP036,2024-03-06,2024-03-07 16:10:00,Travel,6900.00,INR,Intercity travel,True,Reimbursed
+EXP000544,EMP060,2024-06-15,2024-06-15 23:08:00,Client Entertainment,4675.00,INR,Client meeting,False,Reimbursed
+EXP000545,EMP048,2023-09-12,2023-09-13 15:11:00,Office Supplies,715.27,INR,Office consumables,True,Reimbursed
+EXP000546,EMP105,2023-07-12,2023-07-13 12:59:00,Lodging,6689.84,INR,Hotel stay,True,Reimbursed
+EXP000547,EMP096,2024-06-29,2024-07-01 15:13:00,Lodging,5672.40,INR,Hotel stay,True,Reimbursed
+EXP000548,EMP105,2024-11-17,2024-11-18 17:01:00,Office Supplies,1213.95,INR,Office consumables,True,Reimbursed
+EXP000549,EMP043,2023-11-14,2023-11-15 13:59:00,Fuel,2764.11,INR,Local travel fuel,True,Reimbursed
+EXP000550,EMP037,2023-08-17,2023-08-18 17:11:00,Office Supplies,1194.78,INR,Office consumables,True,Reimbursed
+EXP000551,EMP117,2025-03-31,2025-03-31 14:31:00,Office Supplies,992.45,INR,Office consumables,True,Reimbursed
+EXP000552,EMP038,2025-02-11,2025-02-12 11:47:00,Fuel,2624.66,INR,Local travel fuel,True,Reimbursed
+EXP000553,EMP057,2024-04-10,2024-04-11 16:39:00,Client Entertainment,3071.87,INR,Client meeting,True,Reimbursed
+EXP000554,EMP109,2023-08-20,2023-08-21 14:39:00,Office Supplies,1104.65,INR,Office consumables,False,Reimbursed
+EXP000555,EMP031,2023-08-06,2023-08-07 14:19:00,Office Supplies,976.64,INR,Office consumables,True,Reimbursed
+EXP000556,EMP064,2024-06-09,2024-06-10 16:29:00,Client Entertainment,3656.60,INR,Client meeting,True,Reimbursed
+EXP000557,EMP027,2023-11-22,2023-11-23 12:45:00,Client Entertainment,4436.59,INR,Client meeting,True,Reimbursed
+EXP000558,EMP016,2023-05-23,2023-05-24 16:37:00,Fuel,3001.30,INR,Local travel fuel,True,Reimbursed
+EXP000559,EMP119,2024-06-05,2024-06-06 12:15:00,Meals,1506.58,INR,Business meal,True,Reimbursed
+EXP000560,EMP098,2025-01-04,2025-01-06 13:25:00,Lodging,5373.73,INR,Hotel stay,True,Reimbursed
+EXP000561,EMP059,2024-03-21,2024-03-22 17:06:00,Meals,1684.21,INR,Business meal,True,Reimbursed
+EXP000562,EMP003,2024-12-20,2024-12-23 10:17:00,Client Entertainment,2479.96,INR,Client meeting,True,Reimbursed
+EXP000563,EMP018,2023-05-14,2023-05-15 17:50:00,Office Supplies,907.86,INR,Office consumables,True,Reimbursed
+EXP000564,EMP041,2025-02-01,2025-02-03 15:16:00,Client Entertainment,7200.00,INR,Client meeting,True,Reimbursed
+EXP000565,EMP091,2024-09-17,2024-09-18 10:48:00,Client Entertainment,6567.04,INR,Client meeting,True,Reimbursed
+EXP000566,EMP046,2024-02-16,2024-02-19 12:24:00,Fuel,2095.15,INR,Local travel fuel,True,Reimbursed
+EXP000567,EMP018,2023-04-18,2023-04-19 12:58:00,Office Supplies,1376.89,INR,Office consumables,True,Reimbursed
+EXP000568,EMP102,2023-11-15,2023-11-16 11:00:00,Fuel,2525.84,INR,Local travel fuel,True,Reimbursed
+EXP000569,EMP084,2023-04-20,2023-04-21 15:02:00,Lodging,4861.23,INR,Hotel stay,True,Reimbursed
+EXP000570,EMP049,2024-11-21,2024-11-22 10:59:00,Office Supplies,976.89,INR,Office consumables,True,Reimbursed
+EXP000571,EMP025,2024-06-25,2024-06-26 16:31:00,Meals,4860.00,INR,Business meal,True,Reimbursed
+EXP000572,EMP087,2023-10-11,2023-10-12 12:36:00,Meals,1932.73,INR,Business meal,True,Reimbursed
+EXP000573,EMP036,2024-03-28,2024-03-29 15:47:00,Office Supplies,727.27,INR,Office consumables,True,Reimbursed
+EXP000574,EMP067,2023-06-12,2023-06-13 09:38:00,Client Entertainment,7200.00,INR,Client meeting,True,Reimbursed
+EXP000575,EMP111,2024-01-11,2024-01-12 17:12:00,Travel,17044.98,INR,Intercity travel,True,Reimbursed
+EXP000576,EMP005,2024-05-07,2024-05-08 09:25:00,Meals,4620.00,INR,Business meal,True,Reimbursed
+EXP000577,EMP016,2023-08-06,2023-08-07 13:06:00,Lodging,6312.78,INR,Hotel stay,True,Reimbursed
+EXP000578,EMP112,2023-07-08,2023-07-10 15:55:00,Client Entertainment,5631.97,INR,Client meeting,True,Reimbursed
+EXP000579,EMP038,2023-11-05,2023-11-06 17:23:00,Office Supplies,1035.38,INR,Office consumables,True,Reimbursed
+EXP000580,EMP038,2024-11-05,2024-11-06 16:07:00,Lodging,5302.78,INR,Hotel stay,True,Reimbursed
+EXP000581,EMP037,2024-04-04,2024-04-05 15:19:00,Travel,7025.00,INR,Intercity travel,True,Reimbursed
+EXP000582,EMP032,2024-03-15,2024-03-18 17:49:00,Fuel,4566.36,INR,Local travel fuel,True,Reimbursed
+EXP000583,EMP057,2024-08-10,2024-08-12 10:29:00,Lodging,2520.60,INR,Hotel stay,True,Reimbursed
+EXP000584,EMP105,2024-08-07,2024-08-08 10:08:00,Fuel,3235.82,INR,Local travel fuel,True,Reimbursed
+EXP000585,EMP095,2024-01-17,2024-01-18 10:17:00,Fuel,2947.07,INR,Local travel fuel,False,Reimbursed
+EXP000586,EMP113,2024-01-29,2024-01-30 09:08:00,Meals,1782.20,INR,Business meal,True,Reimbursed
+EXP000587,EMP054,2023-12-27,2023-12-28 11:12:00,Meals,1534.79,INR,Business meal,True,Reimbursed
+EXP000588,EMP072,2024-03-16,2024-03-16 23:08:00,Client Entertainment,4350.00,INR,Client meeting,True,Reimbursed
+EXP000589,EMP062,2024-03-31,2024-04-01 15:15:00,Meals,2466.48,INR,Business meal,True,Reimbursed
+EXP000590,EMP030,2023-06-28,2023-06-29 15:31:00,Meals,1190.05,INR,Business meal,True,Reimbursed
+EXP000591,EMP024,2024-07-19,2024-07-22 15:03:00,Client Entertainment,6086.20,INR,Client meeting,True,Reimbursed
+EXP000592,EMP036,2023-05-09,2023-05-10 13:20:00,Travel,11031.79,INR,Intercity travel,True,Reimbursed
+EXP000593,EMP081,2025-02-23,2025-02-24 13:09:00,Meals,1367.22,INR,Business meal,True,Reimbursed
+EXP000594,EMP112,2024-06-17,2024-06-18 16:07:00,Meals,1802.56,INR,Business meal,True,Reimbursed
+EXP000595,EMP047,2024-04-17,2024-04-18 17:11:00,Meals,3034.58,INR,Business meal,True,Reimbursed
+EXP000596,EMP005,2024-05-14,2024-05-15 17:38:00,Meals,4710.00,INR,Business meal,True,Reimbursed
+EXP000597,EMP056,2024-02-06,2024-02-07 16:42:00,Lodging,4708.01,INR,Hotel stay,True,Reimbursed
+EXP000598,EMP077,2025-02-04,2025-02-05 11:01:00,Fuel,2184.30,INR,Local travel fuel,True,Reimbursed
+EXP000599,EMP022,2023-07-08,2023-07-10 12:16:00,Meals,2210.90,INR,Business meal,True,Reimbursed
+EXP000600,EMP056,2025-06-18,2025-06-18 11:00:00,Travel,13184.08,INR,Intercity travel,True,Reimbursed
+EXP000601,EMP065,2024-12-12,2024-12-13 14:06:00,Meals,976.56,INR,Business meal,True,Reimbursed
+EXP000602,EMP117,2024-12-20,2024-12-23 16:01:00,Lodging,3053.45,INR,Hotel stay,True,Reimbursed
+EXP000603,EMP069,2023-10-09,2023-10-10 14:44:00,Office Supplies,1507.12,INR,Office consumables,True,Reimbursed
+EXP000604,EMP022,2023-06-13,2023-06-14 16:27:00,Lodging,3891.01,INR,Hotel stay,True,Reimbursed
+EXP000605,EMP016,2025-01-24,2025-01-27 09:27:00,Office Supplies,1824.88,INR,Office consumables,True,Reimbursed
+EXP000606,EMP016,2025-01-07,2025-01-08 17:05:00,Office Supplies,1014.79,INR,Office consumables,False,Reimbursed
+EXP000607,EMP026,2024-07-16,2024-07-17 13:38:00,Meals,4875.00,INR,Business meal,True,Reimbursed
+EXP000608,EMP024,2023-06-21,2023-06-22 11:15:00,Office Supplies,1493.87,INR,Office consumables,True,Reimbursed
+EXP000609,EMP039,2024-10-27,2024-10-28 11:58:00,Fuel,3768.06,INR,Local travel fuel,False,Reimbursed
+EXP000610,EMP105,2023-07-31,2023-08-01 17:36:00,Meals,1939.83,INR,Business meal,True,Reimbursed
+EXP000611,EMP104,2023-04-17,2023-04-18 11:47:00,Meals,1102.97,INR,Business meal,True,Reimbursed
+EXP000612,EMP040,2023-12-19,2023-12-20 12:06:00,Client Entertainment,5223.93,INR,Client meeting,True,Reimbursed
+EXP000613,EMP024,2024-12-27,2024-12-30 09:03:00,Office Supplies,1443.25,INR,Office consumables,False,Reimbursed
+EXP000614,EMP028,2024-12-26,2024-12-27 16:49:00,Client Entertainment,3960.78,INR,Client meeting,False,Reimbursed
+EXP000615,EMP054,2024-12-17,2024-12-18 10:22:00,Office Supplies,1263.77,INR,Office consumables,True,Reimbursed
+EXP000616,EMP005,2024-05-21,2024-05-22 15:15:00,Meals,4880.00,INR,Business meal,True,Reimbursed
+EXP000617,EMP117,2024-10-24,2024-10-25 10:31:00,Fuel,3095.04,INR,Local travel fuel,True,Reimbursed
+EXP000618,EMP074,2025-01-14,2025-01-15 10:34:00,Lodging,5599.21,INR,Hotel stay,True,Reimbursed
+EXP000619,EMP097,2023-11-23,2023-11-24 12:20:00,Office Supplies,949.18,INR,Office consumables,True,Reimbursed
+EXP000620,EMP005,2024-05-28,2024-05-29 13:24:00,Meals,4950.00,INR,Business meal,True,Reimbursed
+EXP000621,EMP033,2024-07-22,2024-07-23 15:58:00,Client Entertainment,3392.25,INR,Client meeting,True,Reimbursed
+EXP000622,EMP075,2023-09-11,2023-09-12 13:14:00,Fuel,3186.65,INR,Local travel fuel,True,Reimbursed
+EXP000623,EMP077,2024-12-28,2024-12-30 16:04:00,Office Supplies,1046.02,INR,Office consumables,False,Reimbursed
+EXP000624,EMP058,2023-11-28,2023-11-29 14:36:00,Meals,1412.78,INR,Business meal,True,Reimbursed
+EXP000625,EMP070,2025-03-26,2025-03-27 11:36:00,Fuel,2161.56,INR,Local travel fuel,True,Reimbursed
+EXP000626,EMP072,2024-04-24,2024-04-25 13:58:00,Fuel,3037.00,INR,Local travel fuel,True,Reimbursed
+EXP000627,EMP026,2025-02-18,2025-02-19 13:45:00,Fuel,3449.87,INR,Local travel fuel,True,Reimbursed
+EXP000628,EMP006,2023-11-07,2023-11-08 16:30:00,Meals,1861.23,INR,Business meal,True,Reimbursed
+EXP000629,EMP023,2024-09-22,2024-09-23 13:08:00,Fuel,2491.95,INR,Local travel fuel,True,Reimbursed
+EXP000630,EMP025,2024-10-06,2024-10-07 15:52:00,Client Entertainment,5029.79,INR,Client meeting,True,Reimbursed
+EXP000631,EMP019,2024-11-03,2024-11-04 09:10:00,Lodging,4668.17,INR,Hotel stay,True,Reimbursed
+EXP000632,EMP096,2024-06-05,2024-06-06 17:18:00,Travel,12127.94,INR,Intercity travel,True,Reimbursed
+EXP000633,EMP062,2023-06-28,2023-06-29 09:33:00,Travel,4646.84,INR,Intercity travel,False,Reimbursed
+EXP000634,EMP030,2024-05-14,2024-05-15 11:45:00,Travel,-1500.00,INR,Intercity travel,False,Reimbursed
+EXP000635,EMP073,2024-06-30,2024-07-01 13:52:00,Travel,13311.32,INR,Intercity travel,False,Reimbursed
+EXP000636,EMP073,2023-11-07,2023-11-08 13:52:00,Fuel,3908.12,INR,Local travel fuel,True,Reimbursed
+EXP000637,EMP120,2023-11-28,2023-11-29 16:03:00,Lodging,3750.18,INR,Hotel stay,True,Reimbursed
+EXP000638,EMP031,2023-12-11,2023-12-12 15:09:00,Meals,1605.38,INR,Business meal,True,Reimbursed
+EXP000639,EMP044,2024-04-09,2024-04-10 11:23:00,Office Supplies,732.05,INR,Office consumables,True,Reimbursed
+EXP000640,EMP109,2023-07-13,2023-07-14 09:33:00,Meals,2841.06,INR,Business meal,True,Reimbursed
+EXP000641,EMP068,2024-03-16,2024-03-16 23:16:00,Client Entertainment,4350.00,INR,Client meeting,False,Reimbursed
+EXP000642,EMP090,2023-10-11,2023-10-12 11:34:00,Meals,3960.00,INR,Business meal,True,Reimbursed
+EXP000643,EMP018,2023-06-30,2023-07-03 12:03:00,Client Entertainment,3999.66,INR,Client meeting,True,Reimbursed
+EXP000644,EMP115,2024-09-28,2024-09-30 10:50:00,Office Supplies,851.73,INR,Office consumables,False,Reimbursed
+EXP000645,EMP075,2024-01-08,2024-01-09 11:09:00,Lodging,6291.18,INR,Hotel stay,True,Reimbursed
+EXP000646,EMP112,2023-07-14,2023-07-17 09:38:00,Fuel,1928.21,INR,Local travel fuel,True,Reimbursed
+EXP000647,EMP067,2024-08-11,2024-08-12 16:27:00,Fuel,1506.16,INR,Local travel fuel,True,Reimbursed
+EXP000648,EMP095,2024-10-23,2024-10-24 14:18:00,Meals,1598.68,INR,Business meal,True,Reimbursed
+EXP000649,EMP055,2024-10-06,2024-10-07 09:48:00,Lodging,7001.78,INR,Hotel stay,True,Reimbursed
+EXP000650,EMP050,2023-04-20,2023-04-21 14:59:00,Travel,6714.22,INR,Intercity travel,True,Reimbursed
+EXP000651,EMP069,2024-07-04,2024-07-05 16:33:00,Lodging,10800.00,INR,Hotel stay,True,Reimbursed
+EXP000652,EMP031,2024-10-17,2024-10-18 10:41:00,Office Supplies,1622.52,INR,Office consumables,True,Reimbursed
+EXP000653,EMP073,2024-04-17,2024-04-18 16:05:00,Lodging,4722.71,INR,Hotel stay,True,Reimbursed
+EXP000654,EMP026,2024-01-13,2024-01-15 12:46:00,Office Supplies,1231.19,INR,Office consumables,True,Reimbursed
+EXP000655,EMP029,2024-02-28,2024-02-29 17:16:00,Lodging,5767.96,INR,Hotel stay,True,Reimbursed
+EXP000656,EMP041,2023-04-15,2023-04-17 14:06:00,Lodging,8862.39,INR,Hotel stay,True,Reimbursed
+EXP000657,EMP050,2023-12-13,2023-12-14 17:23:00,Client Entertainment,4821.27,INR,Client meeting,True,Reimbursed
+EXP000658,EMP044,2023-06-19,2023-06-21 12:48:00,Lodging,5260.00,INR,Hotel stay,True,Reimbursed
+EXP000659,EMP057,2023-07-27,2023-07-28 11:23:00,Fuel,1667.75,INR,Local travel fuel,False,Reimbursed
+EXP000660,EMP065,2023-10-10,2023-10-11 16:30:00,Client Entertainment,3613.65,INR,Client meeting,True,Reimbursed
+EXP000661,EMP087,2023-09-20,2023-09-21 11:37:00,Lodging,5703.99,INR,Hotel stay,True,Reimbursed
+EXP000662,EMP076,2023-10-23,2023-10-24 14:17:00,Office Supplies,1098.90,INR,Office consumables,True,Reimbursed
+EXP000663,EMP036,2023-05-06,2023-05-08 14:10:00,Fuel,2572.11,INR,Local travel fuel,True,Reimbursed
+EXP000664,EMP062,2024-06-29,2024-06-29 23:45:00,Client Entertainment,4700.00,INR,Client meeting,False,Reimbursed
+EXP000665,EMP070,2023-04-17,2023-04-18 13:18:00,Travel,10741.44,INR,Intercity travel,True,Reimbursed
+EXP000666,EMP083,2024-03-16,2024-03-16 23:39:00,Client Entertainment,850.00,INR,Client meeting,False,Reimbursed
+EXP000667,EMP086,2024-04-12,2024-04-15 15:30:00,Client Entertainment,3967.32,INR,Client meeting,True,Reimbursed
+EXP000668,EMP106,2023-09-20,2023-09-21 17:02:00,Fuel,2488.10,INR,Local travel fuel,True,Reimbursed
+EXP000669,EMP063,2024-07-20,2024-07-20 23:15:00,Client Entertainment,4725.00,INR,Client meeting,False,Reimbursed
+EXP000670,EMP083,2023-05-29,2023-05-30 09:58:00,Lodging,5559.47,INR,Hotel stay,True,Reimbursed
+EXP000671,EMP034,2024-02-07,2024-02-08 12:44:00,Office Supplies,680.94,INR,Office consumables,True,Reimbursed
+EXP000672,EMP116,2023-07-04,2023-07-05 13:52:00,Client Entertainment,2920.73,INR,Client meeting,True,Reimbursed
+EXP000673,EMP020,2024-09-08,2024-09-09 13:44:00,Meals,835.16,INR,Business meal,True,Reimbursed
+EXP000674,EMP051,2023-12-13,2023-12-14 16:18:00,Client Entertainment,5515.63,INR,Client meeting,True,Reimbursed
+EXP000675,EMP035,2024-03-22,2024-03-25 15:21:00,Lodging,5105.20,INR,Hotel stay,True,Reimbursed
+EXP000676,EMP002,2025-03-02,2025-03-03 11:17:00,Lodging,5890.52,INR,Hotel stay,True,Reimbursed
+EXP000677,EMP065,2024-02-25,2024-02-26 10:26:00,Meals,2485.55,INR,Business meal,True,Reimbursed
+EXP000678,EMP037,2024-04-05,2024-04-08 13:52:00,Travel,7025.00,INR,Intercity travel,True,Reimbursed
+EXP000679,EMP110,2024-02-05,2024-02-06 14:53:00,Travel,9675.60,INR,Intercity travel,True,Reimbursed
+EXP000680,EMP006,2024-06-16,2024-06-17 10:36:00,Meals,4620.00,INR,Business meal,True,Reimbursed
+EXP000681,EMP096,2024-08-20,2024-08-21 12:28:00,Fuel,1995.02,INR,Local travel fuel,True,Reimbursed
+EXP000682,EMP006,2024-06-23,2024-06-24 12:24:00,Meals,4710.00,INR,Business meal,True,Reimbursed
+EXP000683,EMP109,2023-07-22,2023-07-24 14:53:00,Office Supplies,1195.19,INR,Office consumables,True,Reimbursed
+EXP000684,EMP079,2023-10-29,2023-10-30 15:28:00,Travel,9723.77,INR,Intercity travel,True,Reimbursed
+EXP000685,EMP051,2024-01-11,2024-01-12 14:20:00,Client Entertainment,2923.28,INR,Client meeting,True,Reimbursed
+EXP000686,EMP071,2025-02-22,2025-02-24 09:05:00,Lodging,5054.59,INR,Hotel stay,True,Reimbursed
+EXP000687,EMP113,2024-02-23,2024-02-26 15:21:00,Lodging,6505.54,INR,Hotel stay,True,Reimbursed
+EXP000688,EMP053,2023-12-25,2023-12-26 09:56:00,Meals,898.40,INR,Business meal,True,Reimbursed
+EXP000689,EMP120,2023-05-19,2023-05-22 13:19:00,Client Entertainment,5206.88,INR,Client meeting,False,Reimbursed
+EXP000690,EMP077,2024-02-19,2024-02-20 12:40:00,Client Entertainment,3545.72,INR,Client meeting,True,Reimbursed
+EXP000691,EMP120,2024-04-10,2024-04-11 13:19:00,Meals,1520.43,INR,Business meal,True,Reimbursed
+EXP000692,EMP043,2025-02-14,2025-02-17 13:03:00,Lodging,4020.62,INR,Hotel stay,True,Reimbursed
+EXP000693,EMP073,2024-10-09,2024-10-10 13:51:00,Lodging,4917.32,INR,Hotel stay,True,Reimbursed
+EXP000694,EMP079,2024-04-01,2024-04-01 23:36:00,Client Entertainment,4375.00,INR,Client meeting,False,Reimbursed
+EXP000695,EMP046,2023-08-30,2023-08-31 12:47:00,Lodging,3571.04,INR,Hotel stay,True,Reimbursed
+EXP000696,EMP088,2024-12-12,2024-12-13 13:12:00,Meals,1488.70,INR,Business meal,True,Reimbursed
+EXP000697,EMP027,2024-08-06,2024-08-07 12:26:00,Meals,4890.00,INR,Business meal,True,Reimbursed
+EXP000698,EMP100,2023-12-20,2023-12-21 15:56:00,Fuel,2581.86,INR,Local travel fuel,False,Reimbursed
+EXP000699,EMP025,2023-08-29,2023-08-30 12:29:00,Lodging,5275.09,INR,Hotel stay,True,Reimbursed
+EXP000700,EMP071,2024-03-22,2024-03-25 15:04:00,Office Supplies,1324.88,INR,Office consumables,True,Reimbursed
+EXP000701,EMP033,2024-11-20,2024-11-21 11:01:00,Client Entertainment,3733.33,INR,Client meeting,True,Reimbursed
+EXP000702,EMP006,2024-06-30,2024-07-01 14:01:00,Meals,4880.00,INR,Business meal,True,Reimbursed
+EXP000703,EMP114,2025-01-24,2025-01-27 10:16:00,Fuel,4538.75,INR,Local travel fuel,True,Reimbursed
+EXP000704,EMP043,2024-10-17,2024-10-18 12:28:00,Client Entertainment,2480.07,INR,Client meeting,False,Reimbursed
+EXP000705,EMP007,2024-12-03,2024-12-04 09:43:00,Client Entertainment,3068.13,INR,Client meeting,True,Reimbursed
+EXP000706,EMP038,2024-05-04,2024-05-06 15:17:00,Travel,7150.00,INR,Intercity travel,True,Reimbursed
+EXP000707,EMP035,2024-02-27,2024-02-28 12:27:00,Client Entertainment,1784.42,INR,Client meeting,True,Reimbursed
+EXP000708,EMP116,2025-03-07,2025-03-10 11:13:00,Client Entertainment,4223.42,INR,Client meeting,True,Reimbursed
+EXP000709,EMP005,2024-12-28,2024-12-30 17:57:00,Travel,7312.64,INR,Intercity travel,True,Reimbursed
+EXP000710,EMP026,2024-06-08,2024-06-10 16:43:00,Office Supplies,1597.91,INR,Office consumables,True,Reimbursed
+EXP000711,EMP115,2024-01-29,2024-01-30 14:17:00,Lodging,5318.63,INR,Hotel stay,True,Reimbursed
+EXP000712,EMP037,2023-05-31,2023-06-01 11:13:00,Client Entertainment,2692.18,INR,Client meeting,True,Reimbursed
+EXP000713,EMP088,2024-05-12,2024-05-13 11:31:00,Fuel,1554.22,INR,Local travel fuel,True,Reimbursed
+EXP000714,EMP066,2023-06-11,2023-06-12 12:20:00,Client Entertainment,3470.65,INR,Client meeting,True,Reimbursed
+EXP000715,EMP086,2024-03-15,2024-03-18 14:41:00,Office Supplies,648.09,INR,Office consumables,False,Reimbursed
+EXP000716,EMP096,2023-12-29,2024-01-01 11:06:00,Fuel,5760.00,INR,Local travel fuel,True,Reimbursed
+EXP000717,EMP070,2024-09-10,2024-09-11 17:48:00,Client Entertainment,2196.16,INR,Client meeting,True,Reimbursed
+EXP000718,EMP001,2024-10-27,2024-10-28 12:08:00,Office Supplies,804.34,INR,Office consumables,True,Reimbursed
+EXP000719,EMP006,2024-12-02,2024-12-03 13:49:00,Travel,6506.68,INR,Intercity travel,True,Reimbursed
+EXP000720,EMP028,2023-12-15,2023-12-18 12:14:00,Meals,1609.86,INR,Business meal,True,Reimbursed
+EXP000721,EMP021,2023-07-21,2023-07-24 12:45:00,Travel,12759.40,INR,Intercity travel,True,Reimbursed
+EXP000722,EMP071,2023-12-24,2023-12-25 17:27:00,Travel,4121.79,INR,Intercity travel,True,Reimbursed
+EXP000723,EMP093,2024-09-25,2024-09-26 09:41:00,Lodging,3827.28,INR,Hotel stay,True,Reimbursed
+EXP000724,EMP004,2023-06-08,2023-06-09 12:59:00,Lodging,6640.90,INR,Hotel stay,True,Reimbursed
+EXP000725,EMP038,2024-02-08,2024-02-09 14:29:00,Client Entertainment,5403.31,INR,Client meeting,True,Reimbursed
+EXP000726,EMP086,2024-12-15,2024-12-16 15:24:00,Travel,8698.43,INR,Intercity travel,True,Reimbursed
+EXP000727,EMP045,2023-06-01,2023-06-02 11:11:00,Meals,2709.75,INR,Business meal,True,Reimbursed
+EXP000728,EMP041,2025-03-26,2025-03-27 14:33:00,Lodging,4491.53,INR,Hotel stay,True,Reimbursed
+EXP000729,EMP004,2024-11-01,2024-11-04 15:55:00,Fuel,3067.35,INR,Local travel fuel,True,Reimbursed
+EXP000730,EMP117,2024-03-14,2024-03-15 17:35:00,Meals,2298.48,INR,Business meal,True,Reimbursed
+EXP000731,EMP120,2023-11-21,2023-11-22 13:13:00,Fuel,2691.64,INR,Local travel fuel,True,Reimbursed
+EXP000732,EMP025,2023-09-20,2023-09-21 12:30:00,Client Entertainment,5139.56,INR,Client meeting,True,Reimbursed
+EXP000733,EMP064,2024-01-20,2024-01-22 13:51:00,Meals,-1500.00,INR,Business meal,True,Reimbursed
+EXP000734,EMP102,2025-01-17,2025-01-20 13:08:00,Client Entertainment,3188.31,INR,Client meeting,True,Reimbursed
+EXP000735,EMP039,2024-05-04,2024-05-06 13:56:00,Travel,9617.42,INR,Intercity travel,True,Reimbursed
+EXP000736,EMP005,2024-01-22,2024-01-23 11:20:00,Lodging,5853.63,INR,Hotel stay,False,Reimbursed
+EXP000737,EMP028,2024-08-27,2024-08-28 11:11:00,Meals,4905.00,INR,Business meal,True,Reimbursed
+EXP000738,EMP059,2023-05-01,2023-05-02 11:51:00,Lodging,2433.25,INR,Hotel stay,True,Reimbursed
+EXP000739,EMP097,2023-08-08,2023-08-09 09:47:00,Meals,1592.06,INR,Business meal,True,Reimbursed
+EXP000740,EMP104,2023-10-17,2023-10-18 17:46:00,Office Supplies,1410.61,INR,Office consumables,True,Reimbursed
+EXP000741,EMP038,2024-05-05,2024-05-06 09:14:00,Travel,7150.00,INR,Intercity travel,True,Reimbursed
+EXP000742,EMP113,2024-06-11,2024-06-12 15:40:00,Travel,10080.01,INR,Intercity travel,True,Reimbursed
+EXP000743,EMP104,2025-02-21,2025-02-24 13:37:00,Office Supplies,1767.11,INR,Office consumables,True,Reimbursed
+EXP000744,EMP068,2024-07-13,2024-07-15 12:54:00,Client Entertainment,2592.30,INR,Client meeting,True,Reimbursed
+EXP000745,EMP070,2024-05-02,2024-05-03 11:50:00,Fuel,2598.05,INR,Local travel fuel,True,Reimbursed
+EXP000746,EMP104,2025-03-09,2025-03-10 11:17:00,Lodging,4586.85,INR,Hotel stay,True,Reimbursed
+EXP000747,EMP063,2024-11-18,2024-11-19 13:04:00,Client Entertainment,5995.20,INR,Client meeting,True,Reimbursed
+EXP000748,EMP092,2024-11-15,2024-11-18 11:09:00,Office Supplies,736.65,INR,Office consumables,True,Reimbursed
+EXP000749,EMP112,2023-11-25,2023-11-27 16:44:00,Fuel,3597.92,INR,Local travel fuel,True,Reimbursed
+EXP000750,EMP043,2023-12-05,2023-12-06 15:27:00,Meals,2054.02,INR,Business meal,False,Reimbursed
+EXP000751,EMP109,2024-10-20,2024-10-21 11:18:00,Fuel,3332.48,INR,Local travel fuel,False,Reimbursed
+EXP000752,EMP032,2024-07-02,2024-07-03 17:58:00,Lodging,5874.15,INR,Hotel stay,True,Reimbursed
+EXP000753,EMP106,2025-01-04,2025-01-06 16:45:00,Fuel,3825.10,INR,Local travel fuel,False,Reimbursed
+EXP000754,EMP020,2023-09-19,2023-09-20 16:36:00,Meals,987.74,INR,Business meal,True,Reimbursed
+EXP000755,EMP066,2023-10-13,2023-10-16 11:19:00,Office Supplies,819.17,INR,Office consumables,True,Reimbursed
+EXP000756,EMP020,2025-03-17,2025-03-18 09:21:00,Lodging,8386.23,INR,Hotel stay,True,Reimbursed
+EXP000757,EMP056,2024-12-13,2024-12-16 09:25:00,Fuel,3429.95,INR,Local travel fuel,False,Reimbursed
+EXP000758,EMP094,2024-12-19,2024-12-20 15:11:00,Meals,2566.95,INR,Business meal,False,Reimbursed
+EXP000759,EMP048,2023-09-07,2023-09-08 14:12:00,Lodging,4724.68,INR,Hotel stay,True,Reimbursed
+EXP000760,EMP061,2024-07-20,2024-07-22 14:21:00,Travel,13653.68,INR,Intercity travel,True,Reimbursed
+EXP000761,EMP079,2023-05-12,2023-05-15 14:49:00,Travel,9731.63,INR,Intercity travel,True,Reimbursed
+EXP000762,EMP087,2024-08-09,2024-08-12 14:05:00,Fuel,1546.58,INR,Local travel fuel,True,Reimbursed
+EXP000763,EMP073,2024-03-30,2024-03-30 23:15:00,Client Entertainment,4375.00,INR,Client meeting,True,Reimbursed
+EXP000764,EMP098,2024-11-09,2024-11-11 13:41:00,Office Supplies,1070.39,INR,Office consumables,True,Reimbursed
+EXP000765,EMP054,2024-04-30,2024-05-01 13:12:00,Office Supplies,1814.34,INR,Office consumables,True,Reimbursed
+EXP000766,EMP053,2025-03-16,2025-03-17 16:14:00,Client Entertainment,5682.97,INR,Client meeting,True,Reimbursed
+EXP000767,EMP103,2024-04-28,2024-04-29 17:48:00,Fuel,3110.24,INR,Local travel fuel,True,Reimbursed
+EXP000768,EMP019,2025-01-23,2025-01-24 15:50:00,Office Supplies,1248.23,INR,Office consumables,True,Reimbursed
+EXP000769,EMP085,2024-07-09,2024-07-10 17:27:00,Office Supplies,1807.56,INR,Office consumables,True,Reimbursed
+EXP000770,EMP086,2025-03-10,2025-03-11 10:24:00,Client Entertainment,3349.47,INR,Client meeting,True,Reimbursed
+EXP000771,EMP070,2023-12-05,2023-12-06 12:53:00,Travel,5552.76,INR,Intercity travel,True,Reimbursed
+EXP000772,EMP092,2024-03-10,2024-03-11 10:10:00,Lodging,4050.00,INR,Hotel stay,True,Reimbursed
+EXP000773,EMP084,2024-03-30,2024-03-30 23:19:00,Client Entertainment,875.00,INR,Client meeting,False,Reimbursed
+EXP000774,EMP074,2024-04-28,2024-04-29 13:47:00,Fuel,2071.06,INR,Local travel fuel,False,Reimbursed
+EXP000775,EMP039,2024-06-03,2024-06-04 12:08:00,Travel,7275.00,INR,Intercity travel,True,Reimbursed
+EXP000776,EMP093,2025-02-01,2025-02-03 17:26:00,Client Entertainment,4140.00,INR,Client meeting,True,Reimbursed
+EXP000777,EMP064,2024-08-03,2024-08-03 23:13:00,Client Entertainment,4750.00,INR,Client meeting,False,Reimbursed
+EXP000778,EMP113,2024-01-09,2024-01-10 12:58:00,Client Entertainment,1766.63,INR,Client meeting,True,Reimbursed
+EXP000779,EMP069,2024-03-30,2024-03-30 23:22:00,Client Entertainment,4375.00,INR,Client meeting,False,Reimbursed
+EXP000780,EMP058,2024-12-19,2024-12-20 09:38:00,Fuel,5760.00,INR,Local travel fuel,True,Reimbursed
+EXP000781,EMP004,2023-06-30,2023-07-03 13:49:00,Travel,7469.30,INR,Intercity travel,True,Reimbursed
+EXP000782,EMP112,2024-09-10,2024-09-11 11:35:00,Travel,6144.17,INR,Intercity travel,True,Reimbursed
+EXP000783,EMP056,2023-12-06,2023-12-07 14:00:00,Travel,8411.97,INR,Intercity travel,True,Reimbursed
+EXP000784,EMP108,2023-10-13,2023-10-16 09:05:00,Office Supplies,2160.00,INR,Office consumables,True,Reimbursed
+EXP000785,EMP092,2023-06-08,2023-06-09 14:46:00,Office Supplies,1372.36,INR,Office consumables,True,Reimbursed
+EXP000786,EMP067,2023-12-10,2023-12-11 13:37:00,Office Supplies,1057.00,INR,Office consumables,True,Reimbursed
+EXP000787,EMP025,2025-03-08,2025-03-10 12:15:00,Fuel,3745.90,INR,Local travel fuel,True,Reimbursed
+EXP000788,EMP002,2025-03-04,2025-03-05 17:39:00,Office Supplies,1192.38,INR,Office consumables,True,Reimbursed
+EXP000789,EMP110,2023-12-07,2023-12-08 14:07:00,Office Supplies,829.27,INR,Office consumables,True,Reimbursed
+EXP000790,EMP068,2023-07-31,2023-08-01 14:08:00,Travel,9336.06,INR,Intercity travel,True,Reimbursed
+EXP000791,EMP080,2024-04-17,2024-04-17 23:17:00,Client Entertainment,4400.00,INR,Client meeting,False,Reimbursed
+EXP000792,EMP117,2024-10-14,2024-10-15 13:24:00,Meals,1618.86,INR,Business meal,True,Reimbursed
+EXP000793,EMP054,2023-05-08,2023-05-09 15:25:00,Office Supplies,791.76,INR,Office consumables,True,Reimbursed
+EXP000794,EMP075,2025-03-09,2025-03-10 10:35:00,Office Supplies,820.50,INR,Office consumables,True,Reimbursed
+EXP000795,EMP082,2023-08-20,2023-08-21 11:07:00,Client Entertainment,2434.33,INR,Client meeting,True,Reimbursed
+EXP000796,EMP101,2023-09-11,2023-09-12 17:14:00,Office Supplies,1862.86,INR,Office consumables,True,Reimbursed
+EXP000797,EMP107,2024-07-06,2024-07-08 11:41:00,Client Entertainment,3555.80,INR,Client meeting,True,Reimbursed
+EXP000798,EMP023,2025-02-15,2025-02-17 15:59:00,Meals,2653.86,INR,Business meal,True,Reimbursed
+EXP000799,EMP017,2024-12-18,2024-12-19 14:24:00,Client Entertainment,7200.00,INR,Client meeting,True,Reimbursed
+EXP000800,EMP028,2024-08-20,2024-08-21 12:14:00,Office Supplies,753.60,INR,Office consumables,True,Reimbursed
+EXP000801,EMP114,2024-02-18,2024-02-19 13:07:00,Client Entertainment,2000.87,INR,Client meeting,True,Reimbursed
+EXP000802,EMP037,2012-01-15,2012-01-16 11:00:00,Client Entertainment,2477.76,INR,Client meeting,True,Reimbursed
+EXP000803,EMP098,2023-05-03,2023-05-04 16:08:00,Travel,9167.02,INR,Intercity travel,True,Reimbursed
+EXP000804,EMP065,2024-08-24,2024-08-24 23:47:00,Client Entertainment,4775.00,INR,Client meeting,False,Reimbursed
+EXP000805,EMP080,2023-08-03,2023-08-04 16:20:00,Client Entertainment,1912.10,INR,Client meeting,True,Reimbursed
+EXP000806,EMP039,2024-06-04,2024-06-05 16:03:00,Travel,7275.00,INR,Intercity travel,True,Reimbursed
+EXP000807,EMP097,2023-05-29,2023-05-30 12:44:00,Travel,6212.10,INR,Intercity travel,True,Reimbursed
+EXP000808,EMP078,2025-01-21,2025-01-22 14:19:00,Fuel,2491.30,INR,Local travel fuel,True,Reimbursed
+EXP000809,EMP049,2024-06-20,2024-06-21 12:15:00,Client Entertainment,2853.28,INR,Client meeting,True,Reimbursed
+EXP000810,EMP113,2024-07-14,2024-07-15 10:37:00,Lodging,5077.36,INR,Hotel stay,False,Reimbursed
+EXP000811,EMP042,2023-11-25,2023-11-27 13:08:00,Fuel,3121.67,INR,Local travel fuel,True,Reimbursed
+EXP000812,EMP023,2024-05-27,2024-05-28 13:28:00,Travel,6920.64,INR,Intercity travel,True,Reimbursed
+EXP000813,EMP102,2024-03-09,2024-03-11 15:40:00,Client Entertainment,3282.88,INR,Client meeting,True,Reimbursed
+EXP000814,EMP087,2023-12-07,2023-12-08 15:24:00,Fuel,2814.34,INR,Local travel fuel,True,Reimbursed
+EXP000815,EMP027,2023-11-14,2023-11-15 17:45:00,Client Entertainment,4586.78,INR,Client meeting,True,Reimbursed
+EXP000816,EMP063,2024-12-27,2024-12-30 11:25:00,Office Supplies,1097.16,INR,Office consumables,False,Reimbursed
+EXP000817,EMP080,2023-09-26,2023-09-27 09:54:00,Fuel,1990.14,INR,Local travel fuel,True,Reimbursed
+EXP000818,EMP066,2025-01-25,2025-01-27 17:10:00,Office Supplies,535.70,INR,Office consumables,True,Reimbursed
+EXP000819,EMP078,2024-10-17,2024-10-18 14:37:00,Lodging,7042.47,INR,Hotel stay,False,Reimbursed
+EXP000820,EMP046,2023-07-10,2023-07-11 14:40:00,Office Supplies,1238.56,INR,Office consumables,True,Reimbursed
+EXP000821,EMP079,2024-06-18,2024-06-19 14:05:00,Meals,1555.59,INR,Business meal,True,Reimbursed
+EXP000822,EMP074,2024-04-20,2024-04-20 23:24:00,Client Entertainment,4400.00,INR,Client meeting,True,Reimbursed
+EXP000823,EMP098,2024-07-02,2024-07-03 14:53:00,Lodging,4427.83,INR,Hotel stay,True,Reimbursed
+EXP000824,EMP080,2023-10-16,2023-10-17 09:43:00,Meals,1180.26,INR,Business meal,True,Reimbursed
+EXP000825,EMP073,2025-01-27,2025-01-28 11:21:00,Office Supplies,1832.63,INR,Office consumables,False,Reimbursed
+EXP000826,EMP073,2024-10-29,2024-10-30 16:15:00,Office Supplies,969.53,INR,Office consumables,True,Reimbursed
+EXP000827,EMP118,2025-01-03,2025-01-06 17:33:00,Client Entertainment,4437.23,INR,Client meeting,True,Reimbursed
+EXP000828,EMP066,2024-02-11,2024-02-12 09:48:00,Meals,2154.55,INR,Business meal,True,Reimbursed
+EXP000829,EMP041,2024-02-04,2024-02-05 13:36:00,Meals,1366.54,INR,Business meal,True,Reimbursed
+EXP000830,EMP091,2024-02-16,2024-02-19 10:39:00,Meals,1095.09,INR,Business meal,True,Reimbursed
+EXP000831,EMP042,2025-02-08,2025-02-10 09:46:00,Client Entertainment,2179.00,INR,Client meeting,True,Reimbursed
+EXP000832,EMP017,2023-09-06,2023-09-07 10:04:00,Lodging,4683.76,INR,Hotel stay,False,Reimbursed
+EXP000833,EMP038,2025-03-17,2025-03-18 17:14:00,Meals,2378.38,INR,Business meal,True,Reimbursed
+EXP000834,EMP024,2023-12-28,2023-12-29 14:51:00,Travel,18000.00,INR,Intercity travel,True,Reimbursed
+EXP000835,EMP016,2023-10-20,2023-10-23 11:19:00,Office Supplies,925.78,INR,Office consumables,True,Reimbursed
+EXP000836,EMP057,2024-03-06,2024-03-07 11:19:00,Lodging,3941.59,INR,Hotel stay,True,Reimbursed
+EXP000837,EMP090,2024-07-15,2024-07-16 15:55:00,Fuel,2236.18,INR,Local travel fuel,False,Reimbursed
+EXP000838,EMP076,2023-10-07,2023-10-09 10:04:00,Client Entertainment,3086.05,INR,Client meeting,True,Reimbursed
+EXP000839,EMP081,2023-10-20,2023-10-23 14:44:00,Office Supplies,1148.35,INR,Office consumables,True,Reimbursed
+EXP000840,EMP110,2023-08-23,2023-08-24 17:58:00,Office Supplies,793.42,INR,Office consumables,True,Reimbursed
+EXP000841,EMP108,2023-09-15,2023-09-18 12:44:00,Client Entertainment,2970.72,INR,Client meeting,False,Reimbursed
+EXP000842,EMP097,2024-07-07,2024-07-08 12:58:00,Meals,2726.83,INR,Business meal,True,Reimbursed
+EXP000843,EMP040,2023-05-03,2023-05-04 14:42:00,Travel,5626.26,INR,Intercity travel,True,Reimbursed
+EXP000844,EMP064,2024-12-23,2024-12-24 13:03:00,Meals,2537.55,INR,Business meal,True,Reimbursed
+EXP000845,EMP094,2025-03-21,2025-03-24 14:45:00,Office Supplies,4230.00,INR,Office consumables,True,Reimbursed
+EXP000846,EMP025,2024-07-10,2024-07-11 10:48:00,Client Entertainment,2650.00,INR,Client meeting,True,Reimbursed
+EXP000847,EMP006,2024-11-16,2024-11-18 13:38:00,Client Entertainment,2922.01,INR,Client meeting,True,Reimbursed
+EXP000848,EMP075,2024-02-11,2024-02-12 16:51:00,Lodging,3462.13,INR,Hotel stay,True,Reimbursed
+EXP000849,EMP080,2024-07-20,2024-07-22 10:08:00,Travel,13358.79,INR,Intercity travel,False,Reimbursed
+EXP000850,EMP016,2023-12-19,2023-12-20 17:59:00,Fuel,1566.79,INR,Local travel fuel,True,Reimbursed
+EXP000851,EMP081,2023-06-19,2023-06-20 16:36:00,Client Entertainment,4618.46,INR,Client meeting,True,Reimbursed
+EXP000852,EMP005,2025-03-31,2025-03-31 11:15:00,Meals,3035.06,INR,Business meal,True,Reimbursed
+EXP000853,EMP047,2024-07-16,2024-07-17 14:47:00,Lodging,3392.61,INR,Hotel stay,True,Reimbursed
+EXP000854,EMP025,2023-10-07,2023-10-09 09:56:00,Meals,3083.09,INR,Business meal,True,Reimbursed
+EXP000855,EMP101,2023-09-06,2023-09-07 14:11:00,Meals,1535.68,INR,Business meal,True,Reimbursed
+EXP000856,EMP043,2023-11-13,2023-11-14 09:52:00,Travel,11654.75,INR,Intercity travel,True,Reimbursed
+EXP000857,EMP073,2023-07-03,2023-07-04 14:51:00,Office Supplies,1008.40,INR,Office consumables,True,Reimbursed
+EXP000858,EMP072,2024-03-29,2024-04-01 12:22:00,Office Supplies,1342.76,INR,Office consumables,True,Reimbursed
+EXP000859,EMP112,2024-05-31,2024-06-03 10:52:00,Office Supplies,1161.29,INR,Office consumables,False,Reimbursed
+EXP000860,EMP062,2023-11-08,2023-11-09 10:51:00,Meals,2371.20,INR,Business meal,True,Reimbursed
+EXP000861,EMP096,2023-08-11,2023-08-14 17:27:00,Fuel,4785.41,INR,Local travel fuel,True,Reimbursed
+EXP000862,EMP084,2024-04-09,2024-04-10 14:05:00,Office Supplies,940.90,INR,Office consumables,True,Reimbursed
+EXP000863,EMP002,2023-04-20,2023-04-21 13:20:00,Lodging,3611.44,INR,Hotel stay,True,Reimbursed
+EXP000864,EMP080,2024-12-28,2024-12-30 14:18:00,Client Entertainment,4565.50,INR,Client meeting,True,Reimbursed
+EXP000865,EMP111,2024-07-25,2024-07-26 14:31:00,Fuel,2303.66,INR,Local travel fuel,True,Reimbursed
+EXP000866,EMP110,2024-05-09,2024-05-10 16:52:00,Meals,2117.80,INR,Business meal,True,Reimbursed
+EXP000867,EMP033,2024-06-21,2024-06-24 15:44:00,Office Supplies,1176.56,INR,Office consumables,True,Reimbursed
+EXP000868,EMP056,2023-05-04,2023-05-05 13:21:00,Meals,2174.45,INR,Business meal,True,Reimbursed
+EXP000869,EMP092,2023-07-10,2023-07-11 10:40:00,Office Supplies,706.17,INR,Office consumables,True,Reimbursed
+EXP000870,EMP017,2024-10-19,2024-10-21 12:33:00,Client Entertainment,3391.18,INR,Client meeting,True,Reimbursed
+EXP000871,EMP096,2024-04-05,2024-04-08 11:32:00,Meals,1554.57,INR,Business meal,False,Reimbursed
+EXP000872,EMP101,2024-01-01,2024-01-02 13:25:00,Client Entertainment,4310.72,INR,Client meeting,True,Reimbursed
+EXP000873,EMP116,2023-08-18,2023-08-21 14:21:00,Lodging,5588.77,INR,Hotel stay,True,Reimbursed
+EXP000874,EMP045,2023-05-14,2023-05-15 11:55:00,Office Supplies,1204.45,INR,Office consumables,True,Reimbursed
+EXP000875,EMP108,2024-02-04,2024-02-05 16:32:00,Meals,1771.88,INR,Business meal,True,Reimbursed
+EXP000876,EMP044,2023-08-03,2023-08-07 16:49:00,Lodging,5260.00,INR,Hotel stay,True,Reimbursed
+EXP000877,EMP016,2023-08-19,2023-08-21 15:16:00,Client Entertainment,5193.19,INR,Client meeting,True,Reimbursed
+EXP000878,EMP059,2024-10-28,2024-10-29 16:59:00,Travel,6239.44,INR,Intercity travel,True,Reimbursed
+EXP000879,EMP017,2023-09-29,2023-10-02 16:00:00,Travel,6251.84,INR,Intercity travel,True,Reimbursed
+EXP000880,EMP103,2024-09-19,2024-09-20 16:30:00,Lodging,3201.77,INR,Hotel stay,True,Reimbursed
+EXP000881,EMP020,2024-12-22,2024-12-23 09:29:00,Travel,8365.37,INR,Intercity travel,True,Reimbursed
+EXP000882,EMP005,2025-03-16,2025-03-17 16:27:00,Client Entertainment,3438.09,INR,Client meeting,True,Reimbursed
+EXP000883,EMP054,2024-03-19,2024-03-20 10:49:00,Client Entertainment,2554.34,INR,Client meeting,True,Reimbursed
+EXP000884,EMP046,2024-07-13,2024-07-15 11:11:00,Meals,2084.44,INR,Business meal,True,Reimbursed
+EXP000885,EMP008,2024-09-17,2024-09-18 11:00:00,Fuel,2685.36,INR,Local travel fuel,True,Reimbursed
+EXP000886,EMP047,2024-03-17,2024-03-18 11:37:00,Meals,1382.30,INR,Business meal,True,Reimbursed
+EXP000887,EMP106,2023-06-11,2023-06-12 13:45:00,Fuel,1735.66,INR,Local travel fuel,False,Reimbursed
+EXP000888,EMP037,2024-11-29,2024-12-02 09:28:00,Lodging,2978.45,INR,Hotel stay,True,Reimbursed
+EXP000889,EMP073,2025-01-24,2025-01-27 12:45:00,Travel,15966.45,INR,Intercity travel,True,Reimbursed
+EXP000890,EMP017,2023-05-17,2023-05-18 17:53:00,Meals,2882.07,INR,Business meal,True,Reimbursed
+EXP000891,EMP055,2024-12-29,2024-12-30 12:53:00,Lodging,6322.25,INR,Hotel stay,True,Reimbursed
+EXP000892,EMP004,2025-03-29,2025-03-31 13:08:00,Lodging,8408.95,INR,Hotel stay,True,Reimbursed
+EXP000893,EMP006,2024-01-29,2024-01-30 11:36:00,Travel,6320.12,INR,Intercity travel,True,Reimbursed
+EXP000894,EMP017,2025-03-26,2025-03-27 12:56:00,Fuel,4840.27,INR,Local travel fuel,True,Reimbursed
+EXP000895,EMP035,2024-06-10,2024-06-11 16:41:00,Office Supplies,1832.99,INR,Office consumables,True,Reimbursed
+EXP000896,EMP006,2024-07-07,2024-07-08 17:13:00,Meals,4950.00,INR,Business meal,True,Reimbursed
+EXP000897,EMP032,2024-03-13,2024-03-14 11:41:00,Lodging,2959.34,INR,Hotel stay,True,Reimbursed
+EXP000898,EMP120,2024-08-29,2024-08-30 10:34:00,Meals,1528.65,INR,Business meal,True,Reimbursed
+EXP000899,EMP057,2024-05-01,2024-05-02 15:33:00,Lodging,4285.10,INR,Hotel stay,False,Reimbursed
+EXP000900,EMP053,2023-09-02,2023-09-04 12:02:00,Office Supplies,1374.83,INR,Office consumables,False,Reimbursed

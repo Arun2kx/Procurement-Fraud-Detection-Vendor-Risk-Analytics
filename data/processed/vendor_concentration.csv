@@ -1,0 +1,60 @@
+vendor_id,vendor_category,spend,spend_share,cumulative_share,pareto_within_80_percent
+VEN048,Professional Services,3445670.36,0.05,0.05,True
+VEN052,Equipment,2886136.68,0.04,0.10,True
+VEN056,Professional Services,2756371.90,0.04,0.14,True
+VEN044,Equipment,2630471.50,0.04,0.18,True
+VEN039,Facilities Management,2432854.96,0.04,0.21,True
+VEN045,IT Services,2096383.60,0.03,0.25,True
+VEN047,Facilities Management,2082204.89,0.03,0.28,True
+VEN040,Professional Services,1904279.49,0.03,0.31,True
+VEN031,Logistics,1819810.54,0.03,0.33,True
+VEN042,Marketing Services,1768211.66,0.03,0.36,True
+VEN037,IT Services,1653526.75,0.03,0.39,True
+VEN033,Logistics,1650511.82,0.03,0.41,True
+VEN041,Logistics,1603366.53,0.02,0.44,True
+VEN050,Marketing Services,1544784.41,0.02,0.46,True
+VEN011,Office Supplies,1457370.36,0.02,0.48,True
+VEN007,Office Supplies,1428419.02,0.02,0.50,True
+VEN049,Logistics,1416098.56,0.02,0.52,True
+VEN034,Logistics,1353334.70,0.02,0.54,True
+VEN008,Office Supplies,1303366.77,0.02,0.56,True
+VEN032,Logistics,1236170.60,0.02,0.58,True
+VEN043,Utilities,1225935.17,0.02,0.60,True
+VEN003,Professional Services,1152000.96,0.02,0.62,True
+VEN002,Professional Services,1152000.96,0.02,0.64,True
+VEN005,Professional Services,1152000.96,0.02,0.65,True
+VEN004,Professional Services,1152000.96,0.02,0.67,True
+VEN001,Professional Services,1152000.96,0.02,0.69,True
+VEN055,Facilities Management,1130359.05,0.02,0.71,True
+VEN058,Marketing Services,1117079.68,0.02,0.72,True
+VEN010,Office Supplies,1084490.95,0.02,0.74,True
+VEN053,IT Services,1073493.13,0.02,0.76,True
+VEN009,Office Supplies,1071567.61,0.02,0.77,True
+VEN006,Office Supplies,973154.88,0.01,0.79,True
+VEN046,Office Supplies,892093.22,0.01,0.80,False
+VEN057,Logistics,757054.78,0.01,0.81,False
+VEN054,Office Supplies,696468.42,0.01,0.82,False
+VEN051,Utilities,620274.73,0.01,0.83,False
+VEN026,Equipment,567500.00,0.01,0.84,False
+VEN025,Equipment,567500.00,0.01,0.85,False
+VEN024,Equipment,567500.00,0.01,0.86,False
+VEN023,Equipment,567500.00,0.01,0.87,False
+VEN059,Utilities,532239.95,0.01,0.87,False
+VEN013,Facilities Management,516000.00,0.01,0.88,False
+VEN012,Facilities Management,516000.00,0.01,0.89,False
+VEN015,Facilities Management,516000.00,0.01,0.90,False
+VEN014,Facilities Management,516000.00,0.01,0.91,False
+VEN018,Facilities Management,516000.00,0.01,0.91,False
+VEN017,Facilities Management,516000.00,0.01,0.92,False
+VEN016,Facilities Management,516000.00,0.01,0.93,False
+VEN027,Equipment,509996.00,0.01,0.94,False
+VEN028,Equipment,509996.00,0.01,0.95,False
+VEN029,Equipment,509996.00,0.01,0.95,False
+VEN021,Facilities Management,504000.01,0.01,0.96,False
+VEN020,Facilities Management,504000.01,0.01,0.97,False
+VEN022,Facilities Management,504000.01,0.01,0.98,False
+VEN019,Facilities Management,504000.01,0.01,0.98,False
+VEN038,Office Supplies,371013.75,0.01,0.99,False
+VEN036,Utilities,246856.00,0.00,0.99,False
+VEN035,Utilities,243082.36,0.00,1.00,False
+VEN030,Logistics,235056.00,0.00,1.00,False
